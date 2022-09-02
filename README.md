@@ -7,6 +7,4 @@ gitHup: "Sorry, we had to truncate this directory to 1,000 files. 1,040 entries 
 
 https://github.com/sl5net/0ad25replays/tree/trunk/0.0.25
 
-Replays may be submitted by doing a [pull
-request](https://guides.github.com/introduction/flow/).
 

@@ -1,0 +1,4420 @@
+start {"settings":{"Biome":"generic/temperate","CheatsEnabled":false,"CircularMap":true,"DisableSpies":true,"DisableTreasures":true,"LastManStanding":false,"LockTeams":true,"RevealMap":false,"ExploreMap":false,"Name":"Mainland","Size":320,"Nomad":false,"PlayerData":[{"AI":false,"Civ":"athen","Color":{"r":231,"g":200,"b":5},"Name":"Kampot (1428)","Team":0},{"AI":false,"Civ":"mace","Color":{"r":150,"g":20,"b":20},"Name":"N.N. (1371)","Team":0},{"AI":false,"Civ":"ptol","Color":{"r":64,"g":64,"b":64},"Name":"Azeem (1363)","Team":0},{"AI":false,"Civ":"gaul","Color":{"r":86,"g":180,"b":31},"Name":"Cengis (1231)","Team":0},{"AI":false,"Civ":"gaul","Color":{"r":220,"g":115,"b":16},"Name":"defc0n (1658)","Team":1},{"AI":false,"Civ":"spart","Color":{"r":50,"g":170,"b":170},"Name":"Shaved_below (1561)","Team":1},{"AI":false,"Civ":"rome","Color":{"r":160,"g":80,"b":200},"Name":"solsyah","Team":1},{"AI":false,"Civ":"gaul","Color":{"r":21,"g":55,"b":149},"Name":"Zyp (1304)","Team":1}],"PopulationCap":200,"RegicideGarrison":false,"Seed":1387794661,"AISeed":3057506608,"StartingResources":300,"TriggerScripts":["scripts/TriggerHelper.js","scripts/ConquestCommon.js","scripts/Conquest.js"],"VictoryConditions":["conquest"]},"gameSpeed":1,"map":"maps/random/mainland","mapType":"random","script":"mainland.js","mapPreview":"cropped:0.78125,0.5859375:session/icons/mappreview/mainland.png","matchID":"9E47C1658E07A3E4","timestamp":1657890000,"engine_version":"0.0.25","mods":[{"mod":"public","name":"0ad","version":"0.0.25","ignoreInCompatibilityChecks":false},{"mod":"StarGUI4","name":"","version":"25.0.4","ignoreInCompatibilityChecks":true},{"mod":"boonGUI-beepIdle-22-0515","name":"boonGUI","version":"2.4.1b","ignoreInCompatibilityChecks":true},{"mod":"LocalRatings-master","name":"LocalRatings","version":"0.25.7","ignoreInCompatibilityChecks":true}]}
+turn 8 200
+cmd 2 {"type":"gather","entities":[246,247,248,249],"target":262,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 2 {"type":"gather","entities":[246,247,248,249],"target":262,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 5 {"type":"walk","entities":[331,332,333,334,335,336,337,338,339],"x":773.0308837890625,"z":184.32720947265625,"queued":false,"pushFront":false}
+cmd 5 {"type":"gather","entities":[331,332,333,334,335,336,337,338,339],"target":344,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 5 {"type":"gather","entities":[331,332,333,334,335,336,337,338,339],"target":344,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+turn 9 200
+cmd 3 {"type":"walk","entities":[151,152,153,154],"x":538.04345703125,"z":1086.435302734375,"queued":false,"pushFront":false,"formation":"special/formations/line_closed"}
+cmd 5 {"type":"gather","entities":[331,332,333,334,335,336,337,338,339],"target":344,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+turn 10 200
+cmd 6 {"type":"gather","entities":[423,424,425,426,431],"target":443,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 4 {"type":"train","entities":[198],"template":"units/gaul/support_female_citizen","count":6}
+end
+turn 11 200
+cmd 2 {"type":"walk","entities":[254],"x":197.6314697265625,"z":537.6065063476562,"queued":false,"pushFront":false}
+cmd 2 {"type":"gather","entities":[254],"target":267,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 8 {"type":"train","entities":[374],"template":"units/gaul/support_female_citizen","count":6}
+cmd 5 {"type":"walk","entities":[339],"x":765.56689453125,"z":214.89199829101562,"queued":false,"pushFront":false}
+cmd 5 {"type":"walk","entities":[339],"x":788.5960693359375,"z":234.92498779296875,"queued":false,"pushFront":false}
+cmd 5 {"type":"walk","entities":[339],"x":795.3452758789062,"z":239.79653930664062,"queued":false,"pushFront":false}
+cmd 4 {"type":"walk","entities":[199,200,201,202],"x":227.67825317382812,"z":828.4437255859375,"queued":false,"pushFront":false,"formation":"special/formations/box"}
+end
+turn 12 200
+cmd 4 {"type":"gather","entities":[199,200,201,202],"target":218,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+turn 13 200
+end
+turn 14 200
+cmd 5 {"type":"gather","entities":[339],"target":360,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 5 {"type":"gather","entities":[339],"target":360,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 6 {"type":"train","entities":[422],"template":"units/spart/support_female_citizen","count":4}
+cmd 4 {"type":"walk","entities":[203,204,205,206,207],"x":268.83050537109375,"z":836.2084350585938,"queued":false,"pushFront":false,"formation":"special/formations/box"}
+cmd 4 {"type":"gather","entities":[203,204,205,206,207],"target":210,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+turn 15 200
+cmd 5 {"type":"gather","entities":[339],"target":360,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+turn 16 200
+cmd 4 {"type":"walk","entities":[207],"x":243.989013671875,"z":859.575927734375,"queued":false,"pushFront":false,"formation":"special/formations/box"}
+end
+turn 17 200
+cmd 1 {"type":"gather","entities":[297],"target":314,"queued":false,"pushFront":false}
+end
+turn 18 200
+cmd 1 {"type":"gather","entities":[297],"target":314,"queued":false,"pushFront":false}
+cmd 4 {"type":"gather","entities":[207],"target":222,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+turn 19 200
+cmd 3 {"type":"construct","template":"structures/ptol/farmstead","x":519.1343383789062,"z":1133.034423828125,"angle":2.356194490192345,"actorSeed":61975,"entities":[151,152,153,154],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+turn 20 200
+cmd 6 {"type":"garrison","entities":[427,428,429,430],"target":422,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+turn 21 200
+end
+turn 22 200
+cmd 1 {"type":"train","entities":[288],"template":"units/athen/support_female_citizen","count":3}
+cmd 3 {"type":"train","entities":[150],"template":"units/ptol/support_female_citizen","count":5}
+cmd 2 {"type":"train","entities":[245],"template":"units/mace/support_female_citizen","count":6}
+cmd 2 {"type":"gather","entities":[250,251,252,253],"target":258,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 5 {"type":"train","entities":[330],"template":"units/gaul/support_female_citizen","count":6}
+cmd 5 {"type":"walk","entities":[331,332],"x":732.5346069335938,"z":184.516357421875,"queued":false,"pushFront":false}
+cmd 6 {"type":"set-rallypoint","entities":[422],"x":994,"z":702,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak","target":2445},"queued":false}
+cmd 4 {"type":"set-rallypoint","entities":[198],"x":265.9649353027344,"z":841.677490234375,"data":{"command":"walk"},"queued":false}
+cmd 4 {"type":"set-rallypoint","entities":[198],"x":273.38055419921875,"z":836.0245361328125,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak","target":210},"queued":false}
+end
+turn 23 200
+cmd 1 {"type":"train","entities":[288],"template":"units/athen/support_female_citizen","count":3}
+cmd 8 {"type":"construct","template":"structures/gaul/storehouse","x":1093.29443359375,"z":444.31536865234375,"angle":2.356194490192345,"actorSeed":37753,"entities":[375,376,377,378,379,380,381,382],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 5 {"type":"walk","entities":[331,332],"x":724.8026123046875,"z":181.90072631835938,"queued":false,"pushFront":false}
+cmd 4 {"type":"walk","entities":[202],"x":265.66827392578125,"z":803.8883666992188,"queued":false,"pushFront":false,"formation":"special/formations/box"}
+end
+turn 24 200
+end
+turn 25 200
+end
+turn 26 200
+end
+turn 27 200
+cmd 1 {"type":"garrison","entities":[289,290,291,292],"target":288,"queued":false,"pushFront":false}
+end
+turn 28 200
+end
+turn 29 200
+end
+turn 30 200
+cmd 5 {"type":"construct","template":"structures/gaul/farmstead","x":733.9327392578125,"z":166.92681884765625,"angle":2.356194490192345,"actorSeed":33813,"entities":[331,332],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+turn 31 200
+cmd 8 {"type":"gather","entities":[383],"target":399,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+turn 32 200
+end
+turn 33 200
+end
+turn 34 200
+cmd 1 {"type":"set-rallypoint","entities":[288],"x":453.0440673828125,"z":279.1607666015625,"data":{"command":"gather","resourceType":{"generic":"food","specific":"fruit"},"resourceTemplate":"gaia/fruit/berry_01","target":308},"queued":false}
+cmd 3 {"type":"gather","entities":[156,158,157],"target":160,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 4 {"type":"construct","template":"structures/gaul/farmstead","x":292.25543212890625,"z":824.063720703125,"angle":2.356194490192345,"actorSeed":59544,"entities":[202],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 190797fe6b712601600384a49e4bbce2
+turn 35 200
+cmd 8 {"type":"gather","entities":[383],"target":399,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 6 {"type":"walk","entities":[431],"x":1039.11767578125,"z":771.3546752929688,"queued":false,"pushFront":false}
+end
+hash-quick 260476ba928ff66625113f2528c600ca
+turn 36 200
+cmd 1 {"type":"leave-turret","entities":[]}
+cmd 1 {"type":"unload-all","garrisonHolders":[288]}
+cmd 1 {"type":"leave-turret","entities":[]}
+cmd 1 {"type":"unload-all","garrisonHolders":[288]}
+cmd 4 {"type":"gather","entities":[202],"target":216,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick ac6ca7be5a90016a1de53c480b7978c2
+turn 37 200
+cmd 3 {"type":"gather","entities":[156,158,157,155],"target":160,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 6 {"type":"gather","entities":[431],"target":445,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 5c0783061c0c80abde5393eff9a16ac5
+turn 38 200
+end
+hash-quick c29f05ea9f23b29770c7aa88dda13ad6
+turn 39 200
+end
+hash 3868396e27cdb656c45c0e136954737a
+turn 40 200
+cmd 6 {"type":"set-rallypoint","entities":[422],"x":1002,"z":682,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak","target":2493},"queued":false}
+end
+hash-quick 12379e825bd7555161475b79a8c74178
+turn 41 200
+end
+hash-quick 2ebc9b1e76d77f3102dfb8bb0f98462f
+turn 42 200
+end
+hash-quick eecd5d6cc69982b87ba58191d4cae848
+turn 43 200
+cmd 1 {"type":"garrison","entities":[293,294,295,296],"target":288,"queued":false,"pushFront":false}
+cmd 6 {"type":"unload-template","all":true,"template":"units/spart/infantry_javelineer_b","owner":6,"garrisonHolders":[422]}
+cmd 6 {"type":"unload-template","all":true,"template":"units/spart/infantry_javelineer_b","owner":6,"garrisonHolders":[422]}
+cmd 4 {"type":"walk","entities":[204],"x":264.1720886230469,"z":832.2479858398438,"queued":false,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick a29a33b6e23c44fd9a25358b915a3965
+turn 44 200
+cmd 6 {"type":"unload-template","all":true,"template":"units/spart/infantry_spearman_b","owner":6,"garrisonHolders":[422]}
+end
+hash-quick 69f08ddf3cb9c91016d0e2280ae35335
+turn 45 200
+cmd 1 {"type":"set-rallypoint","entities":[288],"x":382,"z":330,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/pine","target":3348},"queued":false}
+cmd 3 {"type":"gather","entities":[159],"target":174,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 6 {"type":"unload-template","all":true,"template":"units/spart/infantry_spearman_b","owner":6,"garrisonHolders":[422]}
+cmd 6 {"type":"unload-template","all":true,"template":"units/spart/infantry_javelineer_b","owner":6,"garrisonHolders":[422]}
+cmd 4 {"type":"returnresource","entities":[204],"target":198,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 4aab94a73c0c48c2db0e1e7b2775def8
+turn 46 200
+cmd 1 {"type":"leave-turret","entities":[]}
+cmd 1 {"type":"unload-all","garrisonHolders":[288]}
+cmd 1 {"type":"leave-turret","entities":[]}
+cmd 1 {"type":"unload-all","garrisonHolders":[288]}
+cmd 1 {"type":"leave-turret","entities":[]}
+cmd 1 {"type":"unload-all","garrisonHolders":[288]}
+cmd 2 {"type":"construct","template":"structures/mace/farmstead","x":171.3729248046875,"z":470.01116943359375,"angle":3.1415926535897936,"actorSeed":13629,"entities":[246,247,248,249],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 4 {"type":"gather","entities":[204],"target":210,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 7d84cc10afd0b3adebbc21eb74bd5439
+turn 47 200
+cmd 1 {"type":"leave-turret","entities":[]}
+cmd 1 {"type":"unload-all","garrisonHolders":[288]}
+cmd 1 {"type":"leave-turret","entities":[]}
+cmd 1 {"type":"unload-all","garrisonHolders":[288]}
+end
+hash-quick 09311761237ac34a4ad3f341790b5156
+turn 48 200
+cmd 1 {"type":"leave-turret","entities":[]}
+cmd 1 {"type":"unload-all","garrisonHolders":[288]}
+end
+hash-quick 550c736a8f5496c9db8ba6deb6c730a4
+turn 49 200
+cmd 1 {"type":"leave-turret","entities":[]}
+cmd 1 {"type":"unload-all","garrisonHolders":[288]}
+cmd 1 {"type":"leave-turret","entities":[]}
+cmd 1 {"type":"unload-all","garrisonHolders":[288]}
+cmd 1 {"type":"leave-turret","entities":[]}
+cmd 1 {"type":"unload-all","garrisonHolders":[288]}
+cmd 1 {"type":"leave-turret","entities":[]}
+cmd 1 {"type":"unload-all","garrisonHolders":[288]}
+cmd 4 {"type":"walk","entities":[206],"x":271.5036926269531,"z":850.53173828125,"queued":false,"pushFront":false,"formation":"special/formations/box"}
+cmd 4 {"type":"returnresource","entities":[206],"target":198,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 64895243a76baac91ebdbce3cb75a304
+turn 50 200
+cmd 4 {"type":"walk","entities":[206],"x":384.00457763671875,"z":888.0447998046875,"queued":false,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick 18392701c06ce9af72a2bb1f5eaee3e0
+turn 51 200
+end
+hash-quick a6c24b921800a248956bb1eab0a50d60
+turn 52 200
+cmd 7 {"type":"gather","entities":[469,470,471,472],"target":489,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 317050a99d7b13b02357ab3fc30110ae
+turn 53 200
+end
+hash-quick 5e32571e06b0da1eedf9ac222b04dcd6
+turn 54 200
+cmd 8 {"type":"set-rallypoint","entities":[374],"x":1058.4734497070312,"z":472.0531005859375,"data":{"command":"gather","resourceType":{"generic":"food","specific":"fruit"},"resourceTemplate":"gaia/fruit/berry_01","target":392},"queued":false}
+cmd 4 {"type":"walk","entities":[206],"x":358.9566955566406,"z":979.212646484375,"queued":true,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick 6b38ad636c0a7bf9b3bf7e5ccd8545a8
+turn 55 200
+end
+hash-quick e71e05862c471807943496633b643c25
+turn 56 200
+cmd 3 {"type":"map-flare","target":{"x":504.86285400390625,"y":23.000015258789062,"z":1067.783447265625}}
+cmd 4 {"type":"walk","entities":[206],"x":189.46685791015625,"z":995.5341796875,"queued":true,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick 63f682dd828997d6279f0308d7149cf9
+turn 57 200
+end
+hash-quick c7911ec5978beb0eb968ee63649bf1ae
+turn 58 200
+cmd 4 {"type":"walk","entities":[206],"x":114.72554016113281,"z":897.466064453125,"queued":true,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick 04a5ddd8b2eabcb028afdf7c8e11afd1
+turn 59 200
+end
+hash b266454c297ae261b5a7abd473229c12
+turn 60 200
+end
+hash-quick c7747dfb3671411fbb769fc3cdcd026e
+turn 61 200
+cmd 6 {"type":"construct","template":"structures/spart/storehouse","x":997.7899169921875,"z":709.4364013671875,"angle":2.356194490192345,"actorSeed":26346,"entities":[427,428,429,430],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 4 {"type":"walk","entities":[206],"x":117.23027038574219,"z":781.3132934570312,"queued":true,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick b76915c666792439854ac54ebd7a371a
+turn 62 200
+end
+hash-quick e504d3bb4eb8a2a1fea588ee1cae4803
+turn 63 200
+cmd 4 {"type":"walk","entities":[206],"x":157.46331787109375,"z":739.1561279296875,"queued":true,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick d7d6e205a714d45462a4b544800eaf12
+turn 64 200
+end
+hash-quick 61b02d4d356006e35b98e96be36d2ddb
+turn 65 200
+cmd 4 {"type":"walk","entities":[206],"x":239.59677124023438,"z":694.1141357421875,"queued":true,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick 14cd34c524b99459de446b0227b9d93a
+turn 66 200
+cmd 2 {"type":"map-flare","target":{"x":198.22625732421875,"y":23,"z":491.17706298828125}}
+cmd 6 {"type":"repair","entities":[427,428,429,430],"target":6303,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 4 {"type":"walk","entities":[206],"x":354.3756103515625,"z":731.9276123046875,"queued":true,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick f40c592a4017ec9fe0873fe32f640ea1
+turn 67 200
+cmd 7 {"type":"construct","template":"structures/rome/farmstead","x":796.1735229492188,"z":1078.1986083984375,"angle":2.356194490192345,"actorSeed":10075,"entities":[469,470,471,472],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 4 {"type":"walk","entities":[206],"x":357.0301818847656,"z":765.5797119140625,"queued":true,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick debc76f8329d61425c044cc2158efa11
+turn 68 200
+cmd 6 {"type":"gather","entities":[427,428,429,430],"target":2442,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 1ac2a7f1ea12f233c8a1fe1922d6a3a2
+turn 69 200
+end
+hash-quick f0e1ca90614ffd775d9c4e4f284b9334
+turn 70 200
+cmd 5 {"type":"returnresource","entities":[337],"target":330,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 1e18de4e2dc5982d9164deeefa0542a1
+turn 71 200
+cmd 5 {"type":"returnresource","entities":[337],"target":330,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick b5fb1056534f27094ab41cd128d48317
+turn 72 200
+end
+hash-quick fdd28f5647a78079cbbc0f4b12b44713
+turn 73 200
+cmd 5 {"type":"walk","entities":[337],"x":833.15869140625,"z":270.82537841796875,"queued":true,"pushFront":false}
+end
+hash-quick 5ffe03fa30847ec9894a9890ac67d4b1
+turn 74 200
+cmd 1 {"type":"construct","template":"structures/athen/storehouse","x":391.4228820800781,"z":331.4088134765625,"angle":2.356194490192345,"actorSeed":41069,"entities":[293,294,295,296],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false}
+cmd 6 {"type":"set-rallypoint","entities":[422],"x":997.7899169921875,"z":709.4364013671875,"data":{"command":"repair","target":6303},"queued":false}
+end
+hash-quick 1f7257bf77b7e1f3f30e3be0dc2322a2
+turn 75 200
+end
+hash-quick 23a92b53c14673f3d3bc8938f20f3c04
+turn 76 200
+cmd 1 {"type":"gather","entities":[293,294,295,296],"target":3348,"queued":true,"pushFront":false}
+end
+hash-quick 001aa1059b09a012c7ad5d6669c9a637
+turn 77 200
+end
+hash-quick 99b071a9c2841cafb1149b68d155ee3f
+turn 78 200
+cmd 7 {"type":"gather","entities":[477],"target":499,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 3c6f30b57a907eaa4f48d6f6fd659364
+turn 79 200
+cmd 5 {"type":"construct","template":"structures/gaul/storehouse","x":845.7618408203125,"z":283.50506591796875,"angle":2.356194490192345,"actorSeed":10540,"entities":[337],"autorepair":true,"autocontinue":true,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash 5738cca75804fc0b67a1e1d94e76c71b
+turn 80 200
+end
+hash-quick 849e1efd4917d87b2de0f4c1ae8c32d3
+turn 81 200
+cmd 6 {"type":"set-rallypoint","entities":[422],"x":986,"z":718,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak_hungarian","target":2413},"queued":true}
+end
+hash-quick 63aa4d444ee976e5bc4b1d515744e844
+turn 82 200
+cmd 1 {"type":"map-flare","target":{"z":304.48126220703125,"x":413.4561767578125}}
+end
+hash-quick f2e9eb96d6c38bd2c8a93f4e626651b8
+turn 83 200
+end
+hash-quick 200087ba5874e0b05737246ee84fe00c
+turn 84 200
+end
+hash-quick 91b3d6ee5fcacbf2e8bf837b4dd13abd
+turn 85 200
+end
+hash-quick 360e5eeb077bac58876f345845db775b
+turn 86 200
+cmd 5 {"type":"set-rallypoint","entities":[330],"x":851.9525146484375,"z":306.2259826660156,"data":{"command":"walk"},"queued":false}
+end
+hash-quick b284473355fea07b176fc8d9644ee965
+turn 87 200
+end
+hash-quick b79390904392a5b540595d74f8d04194
+turn 88 200
+end
+hash-quick 4ce48f8ce3d8d1cc6bfdf8bfca3a362f
+turn 89 200
+cmd 2 {"type":"garrison","entities":[250,251,252,253],"target":245,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 5 {"type":"set-rallypoint","entities":[330],"x":842,"z":298,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak_hungarian","target":859},"queued":false}
+cmd 4 {"type":"returnresource","entities":[203,204,205],"target":198,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 01138639454bd03455c04a5eb1704844
+turn 90 200
+cmd 2 {"type":"garrison","entities":[250,251,252,253],"target":245,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick feb2bd78041b5a5a40a04031c535636a
+turn 91 200
+cmd 7 {"type":"gather","entities":[473,474,475,476],"target":479,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick c0d4336ff1446584d1b7993816026701
+turn 92 200
+cmd 2 {"type":"garrison","entities":[250,251,252,253],"target":245,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 506bee8fbfabedc0de4a1a6db6e3ce10
+turn 93 200
+end
+hash-quick a867a3c738bfcfcf43b1c447fdfcbd83
+turn 94 200
+end
+hash-quick ed96329a83ae98e559727d591d44d61c
+turn 95 200
+end
+hash-quick cf8052ed5cf7108e0c530fa21c04537f
+turn 96 200
+end
+hash-quick f6747ac0bd2930db2ea92a2f757e98d0
+turn 97 200
+cmd 6 {"type":"construct","template":"structures/spart/farmstead","x":1035.535888671875,"z":732.2356567382812,"angle":2.356194490192345,"actorSeed":32660,"entities":[423,424,425,426],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 4 {"type":"construct","template":"structures/gaul/storehouse","x":153.57672119140625,"z":802.46533203125,"angle":2.356194490192345,"actorSeed":42867,"entities":[203,204,205],"autorepair":true,"autocontinue":true,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 7394bf51da00ebbb32b4b502b8652a79
+turn 98 200
+cmd 4 {"type":"set-rallypoint","entities":[198],"x":153.57427978515625,"z":803.1449584960938,"data":{"command":"walk"},"queued":false}
+end
+hash-quick 9e4ca1de0b895dbd06a5dc725e23917a
+turn 99 200
+cmd 2 {"type":"set-rallypoint","entities":[245],"x":102,"z":482,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/pine","target":4030},"queued":false}
+end
+hash 6b3b17640f0dcc332434327624d965d8
+turn 100 200
+end
+hash-quick 5fa93e50fa2f675d4ffc587938e3eb17
+turn 101 200
+cmd 2 {"type":"unload-all","garrisonHolders":[245]}
+cmd 7 {"type":"train","entities":[468],"template":"units/rome/support_female_citizen","count":3}
+end
+hash-quick 3c93566615b98452611892d292c92182
+turn 102 200
+cmd 2 {"type":"unload-all","garrisonHolders":[245]}
+cmd 2 {"type":"unload-all","garrisonHolders":[245]}
+cmd 2 {"type":"unload-all","garrisonHolders":[245]}
+cmd 6 {"type":"repair","entities":[423,424,425,426],"target":6312,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 4 {"type":"set-rallypoint","entities":[198],"x":153.57672119140625,"z":802.46533203125,"data":{"command":"repair","target":6314},"queued":false}
+end
+hash-quick b287edc410cdc5f265d3717b04ce31d0
+turn 103 200
+cmd 2 {"type":"unload-all","garrisonHolders":[245]}
+cmd 2 {"type":"unload-all","garrisonHolders":[245]}
+cmd 6 {"type":"gather","entities":[423,424,425,426],"target":442,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick affe148ffb038efc52e5ce4ca41ea281
+turn 104 200
+cmd 2 {"type":"unload-all","garrisonHolders":[245]}
+end
+hash-quick 2c9a81c2b2a99b156db7bb23bb0232ec
+turn 105 200
+cmd 2 {"type":"unload-all","garrisonHolders":[245]}
+cmd 2 {"type":"unload-all","garrisonHolders":[245]}
+end
+hash-quick fcca10d2734c2decd38a83e690a25037
+turn 106 200
+cmd 2 {"type":"unload-all","garrisonHolders":[245]}
+cmd 2 {"type":"unload-all","garrisonHolders":[245]}
+cmd 5 {"type":"construct","template":"structures/gaul/house","x":768.646728515625,"z":150.114990234375,"angle":2.356194490192345,"actorSeed":56734,"entities":[335],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 7 {"type":"set-rallypoint","entities":[468],"x":807.4351806640625,"z":1073.4749145507812,"data":{"command":"gather","resourceType":{"generic":"food","specific":"fruit"},"resourceTemplate":"gaia/fruit/berry_01","target":486},"queued":false}
+end
+hash-quick ef6816bc03987113b6a5c6ee33383519
+turn 107 200
+cmd 2 {"type":"unload-all","garrisonHolders":[245]}
+end
+hash-quick 2faf33e6cfbabec8d36bc5a8218a77d7
+turn 108 200
+cmd 2 {"type":"unload-all","garrisonHolders":[245]}
+end
+hash-quick 435e47d6edb1515fe496547b3060490c
+turn 109 200
+cmd 2 {"type":"unload-all","garrisonHolders":[245]}
+cmd 2 {"type":"unload-all","garrisonHolders":[245]}
+end
+hash-quick c76e4cacb9b629e44a28e0330561d65a
+turn 110 200
+cmd 2 {"type":"unload-all","garrisonHolders":[245]}
+end
+hash-quick 7717cfcf25a1558fa648a1c8cad11dea
+turn 111 200
+end
+hash-quick 809921df3595760742b5b31ff0489c7c
+turn 112 200
+end
+hash-quick e8ee742fcbb39d3b5266f558be54da4f
+turn 113 200
+end
+hash-quick 22430b0e0662013f1533e278957da58c
+turn 114 200
+cmd 1 {"type":"construct","template":"structures/athen/farmstead","x":447.9768371582031,"z":306.1282958984375,"angle":3.1415926535897936,"actorSeed":51954,"entities":[289,290,291,292],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false}
+end
+hash-quick 2d800b811ac480ac70564261bd93d259
+turn 115 200
+end
+hash-quick 04afd3e46a99f1537c46068d44ef3527
+turn 116 200
+cmd 1 {"type":"gather","entities":[289,290,291,292],"target":305,"queued":true,"pushFront":false}
+cmd 4 {"type":"repair","entities":[205],"target":6298,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 19aa1f21f3bd9b5f04d879b445d2029c
+turn 117 200
+cmd 5 {"type":"gather","entities":[335],"target":876,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick d912d2f5ccbcafeb996b936ba656bd15
+turn 118 200
+end
+hash-quick cfcba777712322d50d129e07e3361c53
+turn 119 200
+cmd 4 {"type":"repair","entities":[205],"target":6314,"autocontinue":true,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash 801f99394d2b535d60300c5a07b1226d
+turn 120 200
+end
+hash-quick 913425baf4d8910e799b47da8079bcd8
+turn 121 200
+cmd 7 {"type":"map-flare","target":{"x":809.3956298828125,"y":23,"z":1023.4341430664062}}
+end
+hash-quick dc63df7b05ba36fba471b18d396b6c4a
+turn 122 200
+end
+hash-quick fb3c1edc7645b118399c35659e45a564
+turn 123 200
+cmd 4 {"type":"set-rallypoint","entities":[198],"x":153.57672119140625,"z":802.46533203125,"data":{"command":"repair","target":6313},"queued":false}
+end
+hash-quick 5e83a518ec15149f62678ff9f9cd5762
+turn 124 200
+end
+hash-quick fed3bb5c191f77b7e66b1527757f63a4
+turn 125 200
+end
+hash-quick 3fd7b8b9c90b618e0ede138a17f82129
+turn 126 200
+cmd 5 {"type":"set-rallypoint","entities":[330],"x":776.9293212890625,"z":170.52069091796875,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak","target":344},"queued":false}
+cmd 6 {"type":"repair","entities":[429],"target":6303,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick c1e859e63eb73af60064f415efaea9a2
+turn 127 200
+end
+hash-quick 383661693cc50cc640b22c2a77dc526a
+turn 128 200
+end
+hash-quick bfbf9f1e7e3b059245995b4c15ffe096
+turn 129 200
+end
+hash-quick e0cef4d2ff72453f54fe7ebe1b54f31c
+turn 130 200
+cmd 6 {"type":"walk","entities":[429],"x":1106.9637451171875,"z":630.1847534179688,"queued":true,"pushFront":false}
+cmd 4 {"type":"train","template":"units/gaul/cavalry_javelineer_b","count":1,"entities":[198]}
+end
+hash-quick fb07c31311c90ca515e5fb9e467e94e8
+turn 131 200
+cmd 7 {"type":"autoqueue-on","entities":[468]}
+end
+hash-quick fbb47abff25202d1d35db3f556645b28
+turn 132 200
+cmd 6 {"type":"walk","entities":[429],"x":1163.9595947265625,"z":654.1511840820312,"queued":true,"pushFront":false}
+end
+hash-quick 48cc17197ce88d087ca771cde835867e
+turn 133 200
+end
+hash-quick 220f886c5faaf4d23e537af9809ca1ed
+turn 134 200
+cmd 3 {"type":"set-rallypoint","entities":[150],"x":526.6296997070312,"z":1030.4095458984375,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak","target":160},"queued":false}
+cmd 8 {"type":"map-flare","target":{"x":1044.2020263671875,"y":23,"z":423.120361328125}}
+cmd 6 {"type":"walk","entities":[429],"x":1202.632080078125,"z":716.1121826171875,"queued":true,"pushFront":false}
+cmd 6 {"type":"walk","entities":[429],"x":1231.058837890625,"z":786.2174072265625,"queued":true,"pushFront":false}
+cmd 6 {"type":"walk","entities":[429],"x":1182.9033203125,"z":863.6259155273438,"queued":true,"pushFront":false}
+cmd 6 {"type":"walk","entities":[429],"x":1100.771728515625,"z":915.98046875,"queued":true,"pushFront":false}
+end
+hash-quick 25c56f7a67ad0a0d126fbd030e343b1e
+turn 135 200
+end
+hash-quick 39e3c1812b0416a4dc4cdd50fa747259
+turn 136 200
+end
+hash-quick 158ca69cd46d600613b6fbe901057253
+turn 137 200
+end
+hash-quick 5d068eb425b6b4b16c76190ef7720fd2
+turn 138 200
+end
+hash-quick 392cf4929faec807076f43e7558573e5
+turn 139 200
+end
+hash 73d2755a745b18b49946c1a276741576
+turn 140 200
+end
+hash-quick c2c88a7abe48b240c071a18c8ae70743
+turn 141 200
+end
+hash-quick 154ef5dbcc3dacc375d43beb599cbb2c
+turn 142 200
+end
+hash-quick 72df7004364fea7e212b9cf418b33a90
+turn 143 200
+end
+hash-quick 51c9fc980ad5d6ad87772d70e239bdd6
+turn 144 200
+end
+hash-quick 16017632a41eb4bb5c98481867eeb434
+turn 145 200
+cmd 6 {"type":"train","entities":[422],"template":"units/spart/support_female_citizen","count":3}
+end
+hash-quick 713bc265f7d7a64987745c353933aa5e
+turn 146 200
+cmd 6 {"type":"autoqueue-on","entities":[422]}
+end
+hash-quick cb7b0b27623aec9efae38ed89e429ecf
+turn 147 200
+end
+hash-quick 98f1073304eadc7ad40802de861b6f31
+turn 148 200
+end
+hash-quick 9debbee88f9732c4e7737aea1ea46df3
+turn 149 200
+end
+hash-quick eeb1689af21dabe9562743d09adf8cc1
+turn 150 200
+end
+hash-quick 7f909664171275122ddeea7fec7155b9
+turn 151 200
+cmd 7 {"type":"construct","template":"structures/rome/house","x":803.8469848632812,"z":1004.8491821289062,"angle":2.356194490192345,"actorSeed":29277,"entities":[473],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 6 {"type":"set-rallypoint","entities":[422],"x":986,"z":710,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak_hungarian","target":2442},"queued":false}
+end
+hash-quick db5ec8a887d5d971f506feaeffe3ab19
+turn 152 200
+end
+hash-quick 08e4056ba04e13540dc81b048dcdb00f
+turn 153 200
+end
+hash-quick e9c3eabd123d042b01cf2ffb8299b270
+turn 154 200
+end
+hash-quick a515f3ee525ed90f1edcded78c601d53
+turn 155 200
+end
+hash-quick c1dbeef796052db138af7d8d715fc238
+turn 156 200
+cmd 3 {"type":"research","entity":6333,"template":"gather_wicker_baskets"}
+cmd 5 {"type":"set-rallypoint","entities":[330],"x":776.9293212890625,"z":170.52069091796875,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak","target":344},"queued":false}
+end
+hash-quick 9aa3977d025863d79c645b9d2626de44
+turn 157 200
+end
+hash-quick 1395f495f3ba660b274ed1116c889bd4
+turn 158 200
+end
+hash-quick f9980dd9ecdc162ce8faf622585a14ef
+turn 159 200
+end
+hash 97a23c300abc86322186d2063564da33
+turn 160 200
+end
+hash-quick d1bd124619ffd5c97ee7921c7fd644ed
+turn 161 200
+end
+hash-quick 52777bfc03012c8371a89dc5c9ac5e0b
+turn 162 200
+end
+hash-quick 66b0f27c3a5df5575e9b53d9f4d67b68
+turn 163 200
+cmd 7 {"type":"map-flare","target":{"x":820.0689086914062,"y":23,"z":1023.9171752929688}}
+end
+hash-quick 4fb7c7a3ee561795503851836dca4302
+turn 164 200
+end
+hash-quick 79dd5a600c62533127d5630cae42cce3
+turn 165 200
+cmd 4 {"type":"repair","entities":[205],"target":6313,"autocontinue":true,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 13c00f795823714204d1c17dc90c86e1
+turn 166 200
+cmd 2 {"type":"construct","template":"structures/mace/storehouse","x":104.35820007324219,"z":463.98211669921875,"angle":2.356194490192345,"actorSeed":17648,"entities":[250,251,252,253],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 1180049c2138c9f20af95db7aaa3ea91
+turn 167 200
+end
+hash-quick 6529e40c2eca34c2f1af846e0b49893e
+turn 168 200
+end
+hash-quick 9378d23d07e2111e8f2559f9b35cedf3
+turn 169 200
+end
+hash-quick 7be5e03377ba5b8489eb305b8d62bb62
+turn 170 200
+end
+hash-quick bcd820bcfa1345603d4dfb4083a11252
+turn 171 200
+end
+hash-quick 551bbb3459eb6975952bdb8ec3533f41
+turn 172 200
+end
+hash-quick f9307f48d3c01f8b53ab30f2242ca507
+turn 173 200
+cmd 3 {"type":"walk","entities":[158],"x":696.0048828125,"z":1037.385009765625,"queued":false,"pushFront":false,"formation":"special/formations/line_closed"}
+end
+hash-quick 331c8c0657be2bbc5613dffe2cdff719
+turn 174 200
+end
+hash-quick 7e1cbefc89de4ad12b997c954c48f249
+turn 175 200
+end
+hash-quick bdb30d01c83a25eef5d32f82aacffce9
+turn 176 200
+end
+hash-quick 5c92ca9fd43a6abbc42750d299c0f43b
+turn 177 200
+cmd 2 {"type":"set-rallypoint","entities":[245],"x":98,"z":470,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/pine","target":4011},"queued":false}
+end
+hash-quick 5baba632855e8e4dcca7cabdd1f6d74f
+turn 178 200
+end
+hash-quick 93a433f7ae97d5f7b2dfe5933e8ca0d1
+turn 179 200
+end
+hash 73c99c746a8ea2440881d62c657ebdca
+turn 180 200
+end
+hash-quick 443090ff5b62873675526e29e8232e53
+turn 181 200
+end
+hash-quick edf9e4211617d1e2336257969507927e
+turn 182 200
+end
+hash-quick ccfa06ad9408ed1b7d3c287b5636b690
+turn 183 200
+cmd 6 {"type":"map-flare","target":{"z":745.2108764648438,"x":1044.037841796875}}
+cmd 4 {"type":"set-rallypoint","entities":[198],"x":252.8387451171875,"z":812.7734069824219,"data":{"command":"gather-near-position","resourceType":{"generic":"food","specific":"meat"},"resourceTemplate":"gaia/fauna_chicken"},"queued":false}
+end
+hash-quick df10dd401fb51a69a186b2bc9298df72
+turn 184 200
+end
+hash-quick c98ff5ca0b8b88cd6bd3998442cf6826
+turn 185 200
+end
+hash-quick e9431bd14729bf33b4d0c996a6e8b36d
+turn 186 200
+cmd 2 {"type":"train","entities":[245],"template":"units/mace/support_female_citizen","count":3}
+cmd 8 {"type":"research","entity":6310,"template":"gather_lumbering_ironaxes"}
+end
+hash-quick c91c5a18e1614833389446be7a46d3af
+turn 187 200
+end
+hash-quick 0dde1e515ffcea3c56f0de4d5145530a
+turn 188 200
+cmd 1 {"type":"set-rallypoint","entities":[288],"x":382,"z":330,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/pine","target":3348},"queued":false}
+end
+hash-quick 162f5d68e886c6776ba7867dd0aa72ff
+turn 189 200
+end
+hash-quick d990eacf2c0b32db1f48d74bdec41f6d
+turn 190 200
+cmd 4 {"type":"walk","entities":[6354],"x":214.03955078125,"z":815.1892700195312,"queued":false,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick 64cb0e2f6ce3d8df276dd1061f1c7fb8
+turn 191 200
+end
+hash-quick b6b3f0def6b08dc7006c298ad33c98a7
+turn 192 200
+end
+hash-quick 3da2b3ae08200cce0c294075919d5e29
+turn 193 200
+end
+hash-quick aba73041ea0a710d8f195b24b1f12f94
+turn 194 200
+cmd 4 {"type":"construct","template":"structures/gaul/house","x":206.50198364257812,"z":809.194091796875,"angle":2.356194490192345,"actorSeed":8735,"entities":[6354],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick ceb37f4a2769698c4babc55431d64c6c
+turn 195 200
+end
+hash-quick 608070e6964c3d892df0735691c44ff3
+turn 196 200
+end
+hash-quick 7c33c2a3dbaae71895ebfe1b3208dbcb
+turn 197 200
+cmd 6 {"type":"set-rallypoint","entities":[422],"x":994,"z":698,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak_hungarian","target":2446},"queued":false}
+end
+hash-quick 343750579def44268517d138c4ebb4b6
+turn 198 200
+end
+hash-quick 37e19063effe1da379762cc80cf0f61d
+turn 199 200
+end
+hash a5bab0591f3042c73c60c7a8a771bdd2
+turn 200 200
+end
+hash-quick 3cdfbcc322e9310846124df9401eeb2f
+turn 201 200
+end
+hash-quick 7da47d1196d9ec32513ce6ae1f420959
+turn 202 200
+cmd 5 {"type":"train","entities":[330],"template":"units/gaul/support_female_citizen","count":1}
+end
+hash-quick c7fde8837c2d3182106950151384220d
+turn 203 200
+cmd 5 {"type":"set-rallypoint","entities":[330],"x":733.9327392578125,"z":166.92681884765625,"data":{"command":"walk"},"queued":false}
+cmd 5 {"type":"set-rallypoint","entities":[330],"x":743.8087158203125,"z":173.25286865234375,"data":{"command":"gather","resourceType":{"generic":"food","specific":"fruit"},"resourceTemplate":"gaia/fruit/berry_01","target":347},"queued":false}
+cmd 5 {"type":"set-rallypoint","entities":[330],"x":743.8087158203125,"z":173.25286865234375,"data":{"command":"gather","resourceType":{"generic":"food","specific":"fruit"},"resourceTemplate":"gaia/fruit/berry_01","target":347},"queued":false}
+cmd 4 {"type":"train","template":"units/gaul/support_female_citizen","count":1,"entities":[198]}
+end
+hash-quick 5f1615d449dad6ae7eb27071835dabbd
+turn 204 200
+end
+hash-quick 4734cd619626709fe9dec8a6447d85b2
+turn 205 200
+end
+hash-quick 81776c75d0557342ec54708eba2d26f9
+turn 206 200
+cmd 3 {"type":"train","entities":[150],"template":"units/ptol/support_female_citizen","count":4}
+cmd 8 {"type":"construct","template":"structures/gaul/house","x":1036.8177490234375,"z":498.19384765625,"angle":2.356194490192345,"actorSeed":26520,"entities":[6360],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 87a9eca2e3626506989dfa0628485a54
+turn 207 200
+end
+hash-quick 7b77bf16d859b20f6fc34032a5723764
+turn 208 200
+end
+hash-quick 3577e6c48952a193286c5f1fe18ae57c
+turn 209 200
+cmd 3 {"type":"set-rallypoint","entities":[150],"x":521.5780639648438,"z":1107.0559692382812,"data":{"command":"gather","resourceType":{"generic":"food","specific":"fruit"},"resourceTemplate":"gaia/fruit/berry_01","target":170},"queued":false}
+cmd 5 {"type":"research","entity":6336,"template":"gather_wicker_baskets"}
+end
+hash-quick 65ee6cea2a1544a91f04bbb8209de496
+turn 210 200
+end
+hash-quick d92eed07cc1aee0433a9ed5a6e130c39
+turn 211 200
+end
+hash-quick 88c92ba941f5b3479187e86146655d77
+turn 212 200
+end
+hash-quick 865eb33b44784cf9826208c378738f83
+turn 213 200
+cmd 1 {"type":"train","entities":[288],"template":"units/athen/support_female_citizen","count":4}
+cmd 7 {"type":"set-rallypoint","entities":[468],"x":814.615234375,"z":1038.0433959960938,"data":{"command":"walk"},"queued":false}
+end
+hash-quick ba8c7310f7f27c9d8fbbaf8376a3c560
+turn 214 200
+cmd 3 {"type":"walk","entities":[158],"x":723.7809448242188,"z":1013.6400146484375,"queued":false,"pushFront":false,"formation":"special/formations/line_closed"}
+end
+hash-quick bb76010531e435eb0ff48d5d2e241cc9
+turn 215 200
+end
+hash-quick b06ee2da83ea58a849781b8570c741fa
+turn 216 200
+end
+hash-quick 509d018d41a9e9f78c119d587a180ebf
+turn 217 200
+end
+hash-quick 10f7c42a71e8e12965ec2f245937f2f4
+turn 218 200
+cmd 7 {"type":"set-rallypoint","entities":[468],"x":812.9492797851562,"z":1035.2561645507812,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak","target":479},"queued":false}
+end
+hash-quick 9b9fbb628d53a2740f596de5d1ce0c87
+turn 219 200
+end
+hash 5409fe68d830a92bb887ab7be7779c8d
+turn 220 200
+cmd 6 {"type":"research","entity":6363,"template":"gather_wicker_baskets"}
+end
+hash-quick 9629e7d2d92d185ae76fc148e7813f3a
+turn 221 200
+end
+hash-quick 67b21da6454d4db9f23535b8f1d7e3a6
+turn 222 200
+end
+hash-quick c9136334e9d2eb017df84c36a1ec717b
+turn 223 200
+end
+hash-quick d51f52e98c3fa9581540c504864a8819
+turn 224 200
+cmd 6 {"type":"walk","entities":[429],"x":1212.85693359375,"z":721.6536865234375,"queued":false,"pushFront":false}
+end
+hash-quick f2188644e1d2c88997f300afe2f785e4
+turn 225 200
+cmd 6 {"type":"walk","entities":[429],"x":1219.7974853515625,"z":794.0081787109375,"queued":true,"pushFront":false}
+end
+hash-quick 940f82a6ca7dc012b476aeb4f95877ae
+turn 226 200
+cmd 1 {"type":"research","entity":6389,"template":"gather_wicker_baskets"}
+cmd 8 {"type":"train","entities":[374],"template":"units/gaul/support_female_citizen","count":2}
+cmd 6 {"type":"walk","entities":[429],"x":1171.179931640625,"z":880.1908569335938,"queued":true,"pushFront":false}
+end
+hash-quick 9dafe5bf49dea06c392cd06a6f1c4a69
+turn 227 200
+end
+hash-quick 18c9bd4389e5de65dceea16032c2c28b
+turn 228 200
+end
+hash-quick ded9909d68b0bdbf90aa875d2f7ded49
+turn 229 200
+cmd 4 {"type":"train","template":"units/gaul/support_female_citizen","count":1,"entities":[198]}
+end
+hash-quick c87ad74f75d1b2c1a7b4746a122aa623
+turn 230 200
+end
+hash-quick ac633da75cd6bbd2e8c703100caa6890
+turn 231 200
+end
+hash-quick b70a095b69ca892f44af43b670531cf7
+turn 232 200
+end
+hash-quick 6802a04503a5f727602b17d48ce80ab6
+turn 233 200
+end
+hash-quick 63e8e2a9b66a7f162cb517d2e6ebaf72
+turn 234 200
+end
+hash-quick 63c88170186e6684965aef23fca83abe
+turn 235 200
+end
+hash-quick e0d486530baeb043a6d272e91e112cc8
+turn 236 200
+end
+hash-quick d47de8d703dc33a914b7490adbcc4c5d
+turn 237 200
+cmd 4 {"type":"repair","entities":[205],"target":6377,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 837d7fbc30050affe8e7b8b6b6a88672
+turn 238 200
+end
+hash-quick 59af48eaaaa8a6600068e43d1d9296c3
+turn 239 200
+end
+hash 070cc269a5af334fff0122758d6e4deb
+turn 240 200
+end
+hash-quick 95bc203d30a5fe654674aa295395da67
+turn 241 200
+end
+hash-quick 0319cdbbfdff3ba01154246a51167107
+turn 242 200
+end
+hash-quick f941679b66a6de934c3fb37d4efa17f5
+turn 243 200
+end
+hash-quick cc6809b55e4b9531e535f9ce2c378ba0
+turn 244 200
+end
+hash-quick a0cfa7e0bb2e1e3aff40d0835f7a1390
+turn 245 200
+end
+hash-quick 0b57015de833c8f9a2e96fc0209c0fd2
+turn 246 200
+cmd 5 {"type":"train","entities":[330],"template":"units/gaul/support_female_citizen","count":1}
+end
+hash-quick e95d99be3dd2c5e159b29aa9d0d75bc7
+turn 247 200
+end
+hash-quick bc41c127e92417e53f19dc11ea51ff79
+turn 248 200
+end
+hash-quick 8a3505ff09da438aaa5b157e6d1359cf
+turn 249 200
+end
+hash-quick 910384be1e9b262823d88da2c96a76a0
+turn 250 200
+cmd 3 {"type":"walk","entities":[158],"x":704.4583129882812,"z":971.8518676757812,"queued":false,"pushFront":false,"formation":"special/formations/line_closed"}
+end
+hash-quick d3f008a15d0ff90701d9cd7d47cf560a
+turn 251 200
+end
+hash-quick 81ac9b6351a0f409210d574fb54a30ce
+turn 252 200
+cmd 4 {"type":"repair","entities":[205,6354],"target":6377,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 3f1331969d6ee9a059e312a38f1997ca
+turn 253 200
+end
+hash-quick 25d2edd6df5383619424428b60145763
+turn 254 200
+cmd 3 {"type":"walk","entities":[158],"x":676.5863037109375,"z":925.1726684570312,"queued":false,"pushFront":false,"formation":"special/formations/line_closed"}
+end
+hash-quick 570f892a44eee8fa685e81fbad380b10
+turn 255 200
+end
+hash-quick 82196954fff5ba6bd8c60df14436d3dc
+turn 256 200
+cmd 2 {"type":"set-rallypoint","entities":[245],"x":94,"z":458,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/pine","target":4009},"queued":false}
+end
+hash-quick 553bbfd304fe1a5233ff83b5c69fa819
+turn 257 200
+cmd 6 {"type":"train","entities":[422],"template":"units/spart/support_female_citizen","count":3}
+end
+hash-quick 334b81120af2126ddf1ed166dcbf9ff5
+turn 258 200
+cmd 6 {"type":"autoqueue-on","entities":[422]}
+end
+hash-quick b646e6f938b469f95db6e7dd06137670
+turn 259 200
+end
+hash 3b1329341e539c1840af8267f30876fb
+turn 260 200
+end
+hash-quick 7eb4bc45c11aa0e36cc225051ab3164e
+turn 261 200
+end
+hash-quick fe853e3fb2abd3c5e6381e0886515ea2
+turn 262 200
+end
+hash-quick c2218a1b5d4d462c13a0adb658543d25
+turn 263 200
+cmd 4 {"type":"gather","entities":[205,6354],"target":1356,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 97e37c9aa752fecb1f04c312621ae99f
+turn 264 200
+end
+hash-quick a0e0952ed5cb43cb8c88c6b4881a2e1c
+turn 265 200
+cmd 2 {"type":"train","entities":[245],"template":"units/mace/support_female_citizen","count":2}
+cmd 4 {"type":"set-rallypoint","entities":[198],"x":165.14520263671875,"z":798.1926879882812,"data":{"command":"walk"},"queued":false}
+end
+hash-quick 72afde2dbd3a764dec360f2497cb0166
+turn 266 200
+cmd 3 {"type":"walk","entities":[158],"x":546.8231811523438,"z":960.817626953125,"queued":false,"pushFront":false,"formation":"special/formations/line_closed"}
+cmd 6 {"type":"set-rallypoint","entities":[422],"x":994,"z":694,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak_hungarian","target":2478},"queued":false}
+cmd 4 {"type":"set-rallypoint","entities":[198],"x":146,"z":810,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak_hungarian","target":1381},"queued":false}
+end
+hash-quick b6addbf2caf58d9f340c1d5595a0a80f
+turn 267 200
+cmd 7 {"type":"set-rallypoint","entities":[468],"x":812.9492797851562,"z":1035.2561645507812,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak","target":479},"queued":false}
+end
+hash-quick 169dd2c32115091ce208be31afb0de59
+turn 268 200
+end
+hash-quick 58ec7b6df615c9bad5305aca01673fa3
+turn 269 200
+cmd 6 {"type":"walk","entities":[429],"x":1205.3316650390625,"z":796.1696166992188,"queued":false,"pushFront":false}
+end
+hash-quick 80d960a0cd6867aed4aa0901b71dfc22
+turn 270 200
+cmd 3 {"type":"construct","template":"structures/ptol/storehouse","x":577.9672241210938,"z":969.837646484375,"angle":2.356194490192345,"actorSeed":47917,"entities":[158],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 6 {"type":"walk","entities":[429],"x":1187.8131103515625,"z":857.6153564453125,"queued":true,"pushFront":false}
+end
+hash-quick ccfe7213483797e91bd0e84103aa5116
+turn 271 200
+cmd 6 {"type":"walk","entities":[429],"x":1135.30859375,"z":916.6856079101562,"queued":true,"pushFront":false}
+end
+hash-quick 73085692bfd584de15d622bd4a6372cc
+turn 272 200
+end
+hash-quick 92ff8cf4fcab4086a27730ff42c88891
+turn 273 200
+cmd 6 {"type":"walk","entities":[429],"x":1047.2293701171875,"z":935.4019775390625,"queued":true,"pushFront":false}
+end
+hash-quick 7e384653eb628d92de15ce0344969119
+turn 274 200
+end
+hash-quick 0151c99fb739dae7c1225d885be9da77
+turn 275 200
+end
+hash-quick d900fe8644d313cc80318d4382764f44
+turn 276 200
+end
+hash-quick 2e2ce28107aa160ee7037f22e3097a94
+turn 277 200
+end
+hash-quick bf5ef4483393eafdb79b30ca3b047ab0
+turn 278 200
+end
+hash-quick 3997937b5e5115bb219419896b0a6063
+turn 279 200
+end
+hash 4bc0788534d276b12f81581e6d778e70
+turn 280 200
+cmd 7 {"type":"set-rallypoint","entities":[468],"x":812.9492797851562,"z":1035.2561645507812,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak","target":479},"queued":false}
+end
+hash-quick 19ecff86b2a661c4a7042da9eb3b587a
+turn 281 200
+end
+hash-quick ac9c46428004e5e110a4a0e41b0ab734
+turn 282 200
+end
+hash-quick 402c81e76eb13771d31b2cdf524fcf26
+turn 283 200
+cmd 3 {"type":"construct","template":"structures/ptol/house","x":550.9329833984375,"z":1025.139404296875,"angle":2.356194490192345,"actorSeed":19209,"entities":[155,156,157],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 955744da361eed1edd0866d5817f16ca
+turn 284 200
+end
+hash-quick b8d5004ecf93be21de275ad5b2248a35
+turn 285 200
+end
+hash-quick 7e9bdfcfc36ad3dc7fc386a159cb151e
+turn 286 200
+end
+hash-quick aacc3c046807bfe078c6cae48f23841f
+turn 287 200
+end
+hash-quick ca22c091546b0ab583117d4e6d3294c8
+turn 288 200
+end
+hash-quick 1f3c9ac368dc0322860f1b105c971d12
+turn 289 200
+end
+hash-quick f4a0e26ef933e8abf875f49dd61fed93
+turn 290 200
+end
+hash-quick a93647030f79149919d53ee4ca33cbb6
+turn 291 200
+end
+hash-quick 029557a91c4b58be270af3c9a48d9fe7
+turn 292 200
+end
+hash-quick 99810c0c41652c6c042d3d0aa50f6566
+turn 293 200
+end
+hash-quick 2b9e6cedeeb198171855c97416cb7ce5
+turn 294 200
+end
+hash-quick c4444b19b70670163cf447cb30c4237d
+turn 295 200
+cmd 5 {"type":"train","entities":[330],"template":"units/gaul/support_female_citizen","count":1}
+end
+hash-quick f0d31d4ae45c782ba1ee66cfb151c9f7
+turn 296 200
+end
+hash-quick 91c9293e6c2d4daad9726ca0da3d7ce5
+turn 297 200
+end
+hash-quick 1c1c4aac15772efe86e241125121e2ff
+turn 298 200
+end
+hash-quick 5bb7be42f93a16efba7366cbc6709d5d
+turn 299 200
+cmd 2 {"type":"returnresource","entities":[250,6365],"target":6400,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 2 {"type":"returnresource","entities":[250,6365],"target":6400,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash ad88ebd818b9e17fc86fa1df526a725d
+turn 300 200
+end
+hash-quick b86b165202dd0fbda246fd5a25ff2f62
+turn 301 200
+end
+hash-quick a69e63b6590d1620886b0e05a66a5a9e
+turn 302 200
+end
+hash-quick e8c72dc05e99e75067c5f6e44fa16ec1
+turn 303 200
+end
+hash-quick da4cc00703a5cf586d94ce9d49d22da0
+turn 304 200
+end
+hash-quick 135eb3e9e820b80d2ccc8aad36b00ab5
+turn 305 200
+end
+hash-quick da49d52dec612dcd4e0de454798140cd
+turn 306 200
+end
+hash-quick 06bbda34d341f4fa9892209a04d99d51
+turn 307 200
+end
+hash-quick e0b9392ab3037a553fc60381e26aacec
+turn 308 200
+cmd 6 {"type":"train","template":"units/spart/support_female_citizen","count":1,"entities":[422]}
+end
+hash-quick 5a496af89767136d78eecfe3f74285c7
+turn 309 200
+end
+hash-quick 45f43d16bb81fec873f2b2c25d406914
+turn 310 200
+cmd 2 {"type":"returnresource","entities":[250,251,6364,6365,6366,6367,6368],"target":6400,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 0f3ad5894e53c87e0a034a8cdabf6c13
+turn 311 200
+cmd 2 {"type":"returnresource","entities":[250,251,6364,6365,6366,6367,6368],"target":6400,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 0bc7442eb0901b386a405555fa9e1c76
+turn 312 200
+end
+hash-quick d260cd130a94cbb6d4649074ac724a68
+turn 313 200
+end
+hash-quick eb2a9fc728713b2cbe942ba49b2b426d
+turn 314 200
+cmd 4 {"type":"train","entities":[198],"template":"units/gaul/support_female_citizen","count":3}
+end
+hash-quick 22da2f95056f7119944227343bd6f7dc
+turn 315 200
+end
+hash-quick 7e8422b0dde4b303a6b475e0f95d52f3
+turn 316 200
+end
+hash-quick a62987f8bb44c923868a20aefd423dbe
+turn 317 200
+end
+hash-quick 0fa6762f69abc6ce1bae6d037c789fca
+turn 318 200
+end
+hash-quick 5dd89be3666d3121524d2737a149cad3
+turn 319 200
+end
+hash 35009b4925fc4f83af6f9dcecfbbe4cc
+turn 320 200
+cmd 2 {"type":"construct","template":"structures/mace/house","x":127.70060729980469,"z":471.36456298828125,"angle":2.356194490192345,"actorSeed":20816,"entities":[250,251,6364,6365,6366,6367,6368],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 26c622ecdcdbd8df029332f98f17e84a
+turn 321 200
+cmd 2 {"type":"gather","entities":[250,251,6364,6365,6366,6367,6368],"target":4029,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 84392c0b699fa0f2f666ab204e0bc388
+turn 322 200
+end
+hash-quick 28628503b13e0b1a819fdbf618f8d277
+turn 323 200
+end
+hash-quick fca33c5c2221c9eabbb26b4585c49999
+turn 324 200
+end
+hash-quick 6a0661b0f823aa80908588d48da858d1
+turn 325 200
+end
+hash-quick 987059f540ddec82f4f99351b68d7a3c
+turn 326 200
+end
+hash-quick cdc6c64b18e3d5f27428ba06c126274d
+turn 327 200
+cmd 2 {"type":"repair","entities":[6411,6412,6413],"target":6427,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick a7c8f28348736ceb4c70859560d5bc59
+turn 328 200
+cmd 3 {"type":"train","entities":[150],"template":"units/ptol/support_female_citizen","count":4}
+cmd 4 {"type":"set-rallypoint","entities":[198],"x":142,"z":814,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak_hungarian","target":1379},"queued":false}
+end
+hash-quick 2441dbc1885c336e53161cf81d785998
+turn 329 200
+cmd 2 {"type":"gather","entities":[6411,6412,6413],"target":4025,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick fa1071b87cb2cb9a16584bd255b629a2
+turn 330 200
+end
+hash-quick e635698f954311bfc05d03fbd608761e
+turn 331 200
+end
+hash-quick 20115c1d1666bb305b43fd314212e621
+turn 332 200
+end
+hash-quick a762c9f80a5068f19d7d6b274660c9e2
+turn 333 200
+cmd 1 {"type":"train","entities":[288],"template":"units/athen/support_female_citizen","count":1}
+end
+hash-quick ca43fb1442fead04bde64ebc14133963
+turn 334 200
+end
+hash-quick 1b58f81d3b2e21844f654e42562002dc
+turn 335 200
+end
+hash-quick 722bcfab518313a00c7a5819e933141f
+turn 336 200
+cmd 2 {"type":"set-rallypoint","entities":[245],"x":165.3995361328125,"z":480.32757568359375,"data":{"command":"gather","resourceType":{"generic":"food","specific":"fruit"},"resourceTemplate":"gaia/fruit/berry_01","target":265},"queued":false}
+end
+hash-quick b25f1eaed5b290a2e7e8096419dad8f6
+turn 337 200
+cmd 3 {"type":"set-rallypoint","entities":[150],"x":577.9672241210938,"z":969.837646484375,"data":{"command":"repair","target":6406},"queued":false}
+cmd 6 {"type":"returnresource","entities":[427,428,430,6326,6327,6328,6329,6397,6398,6399],"target":6339,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick b10cc0464def899c7ebd9a2b57042fb5
+turn 338 200
+cmd 6 {"type":"walk","entities":[427,428,430,6326,6327,6328,6329,6397,6398,6399],"x":989.5118408203125,"z":730.32470703125,"queued":true,"pushFront":false}
+end
+hash-quick b8760c3491af22d804b81452e6d6fa82
+turn 339 200
+end
+hash 3802a336d76c93fc4b1630233ca0a076
+turn 340 200
+end
+hash-quick c7f836b3c0ceee3629596753bdf08d6c
+turn 341 200
+end
+hash-quick 1b866979ea77665931ba8d8fb8377ef0
+turn 342 200
+cmd 3 {"type":"set-rallypoint","entities":[150],"x":582,"z":994,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak_hungarian","target":2835},"queued":false}
+end
+hash-quick 17a0e12513f72a3820fbca9f1fe8a15d
+turn 343 200
+end
+hash-quick fd16a5869fc4dea78d0391138ae6952f
+turn 344 200
+end
+hash-quick 42404e233da75dd523a6602375d04cf5
+turn 345 200
+end
+hash-quick 9813b17bc61c20b868e2baee671d3d10
+turn 346 200
+cmd 4 {"type":"walk","entities":[206],"x":168.74325561523438,"z":749.5812377929688,"queued":false,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick bafaff84386474b318ed61e41868d748
+turn 347 200
+end
+hash-quick c8482694524a4e11b39515b1ab6f1c1a
+turn 348 200
+cmd 5 {"type":"train","entities":[330],"template":"units/gaul/support_female_citizen","count":1}
+end
+hash-quick b307c18548f4d744b6ecbd51de249288
+turn 349 200
+end
+hash-quick c7f998d4aace7dd15192425e0a91196b
+turn 350 200
+cmd 1 {"type":"construct","template":"structures/athen/house","x":375.935302734375,"z":315.4913330078125,"angle":2.356194490192345,"actorSeed":12294,"entities":[6437,6438,6439,6440],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false}
+cmd 4 {"type":"walk","entities":[206],"x":223.33343505859375,"z":671.069091796875,"queued":false,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick d0590c72feb41c426ec65d3ffcbc497e
+turn 351 200
+cmd 6 {"type":"construct","template":"structures/spart/house","x":989.9208374023438,"z":737.758056640625,"angle":2.356194490192345,"actorSeed":25250,"entities":[427,428,430,6326,6327,6328,6329,6397,6398,6399],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 9fe4643a32c749a86c5e08b7fb95daf3
+turn 352 200
+cmd 4 {"type":"walk","entities":[206],"x":298.77142333984375,"z":700.9342041015625,"queued":true,"pushFront":false,"formation":"special/formations/box"}
+cmd 4 {"type":"walk","entities":[206],"x":343.7466125488281,"z":737.412841796875,"queued":true,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick b80ca17778619730c7667218ef967135
+turn 353 200
+end
+hash-quick 4aedc5135ca99c6149a713874ad3d3b5
+turn 354 200
+cmd 2 {"type":"repair","entities":[250,251,6364,6365,6366,6367,6368,6411,6412,6413],"target":6427,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 8 {"type":"construct","template":"structures/gaul/farmstead","x":1072.3890380859375,"z":465.0515441894531,"angle":2.356194490192345,"actorSeed":20517,"entities":[6358],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick cd5db6d8b5d97807c194e2f6d09e6903
+turn 355 200
+end
+hash-quick 3c9c895ca791618bf3c287616b7ae481
+turn 356 200
+cmd 1 {"type":"repair","entities":[293,294,295,296,6322,6323,6324,6386,6387,6388],"target":6444,"autocontinue":true,"queued":false,"pushFront":false}
+cmd 6 {"type":"repair","entities":[427,428,430,6326,6327,6328,6329,6397,6398,6399],"target":6445,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick b63c3854454b07aeb919b62005ced41b
+turn 357 200
+end
+hash-quick 4692ea75916e483e1cfaad8ceb6adbc0
+turn 358 200
+cmd 4 {"type":"gather","entities":[206],"target":1354,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick c79717c1e3e9151155a892350f1f273c
+turn 359 200
+cmd 1 {"type":"gather","entities":[293,294,295,296,6322,6323,6324,6386,6387,6388],"target":3369,"queued":true,"pushFront":false}
+end
+hash d6a329748247f4df307a2bd1e4b882dd
+turn 360 200
+cmd 2 {"type":"gather","entities":[250],"target":5816,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+cmd 6 {"type":"gather","entities":[427,428,430,6326,6327,6328,6329,6397,6398,6399],"target":2442,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 82a4b707cacf2a8096b209caed330a35
+turn 361 200
+end
+hash-quick c51ae48c6ebb1018f57d2313b2760b91
+turn 362 200
+cmd 6 {"type":"gather","entities":[427,428,430,6326,6327,6328,6329,6397,6398,6399],"target":2445,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick f07b4a42436cda081c9153b38c1dd640
+turn 363 200
+end
+hash-quick a152f7ad3da18b0e13247633d2d64b28
+turn 364 200
+cmd 1 {"type":"repair","entities":[6437,6438,6439,6440],"target":6444,"autocontinue":true,"queued":false,"pushFront":false}
+cmd 2 {"type":"gather","entities":[251],"target":4009,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick fc014e05e8af419571975fee41530594
+turn 365 200
+cmd 1 {"type":"gather","entities":[6437,6438,6439,6440],"target":3348,"queued":true,"pushFront":false}
+end
+hash-quick ec61559f838ba951bccca9da3f70a7a0
+turn 366 200
+cmd 2 {"type":"gather","entities":[6364],"target":4010,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+cmd 2 {"type":"gather","entities":[6365],"target":4011,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+cmd 4 {"type":"train","entities":[198],"template":"units/gaul/support_female_citizen","count":2}
+end
+hash-quick 5a24e9d12e0dd130c085d4acb55f7272
+turn 367 200
+cmd 2 {"type":"gather","entities":[6366],"target":4011,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+cmd 8 {"type":"train","entities":[374],"template":"units/gaul/support_female_citizen","count":4}
+end
+hash-quick 4152accce8b33ba9d9e62b0f45017b03
+turn 368 200
+cmd 1 {"type":"set-rallypoint","entities":[288],"x":452.7567138671875,"z":285.5411376953125,"data":{"command":"gather","resourceType":{"generic":"food","specific":"fruit"},"resourceTemplate":"gaia/fruit/berry_01","target":307},"queued":false}
+cmd 2 {"type":"gather","entities":[6367],"target":4011,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick e927b278d9324011c5a0b18cf100a573
+turn 369 200
+cmd 2 {"type":"gather","entities":[6368],"target":4011,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+cmd 2 {"type":"gather","entities":[6411],"target":4011,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 3ea49736042cb7f51f81ca6045c7836a
+turn 370 200
+cmd 2 {"type":"gather","entities":[6412],"target":4011,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+cmd 2 {"type":"gather","entities":[6413],"target":4011,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick c4b54714aea8ae483dc84f1abd204e4e
+turn 371 200
+end
+hash-quick b73b097af1982402ef2ed0dd9c39013e
+turn 372 200
+end
+hash-quick f659f1ecd48d6589623e0f56bef63b09
+turn 373 200
+end
+hash-quick 4e3bf3f7613e33e085b16369be4559be
+turn 374 200
+end
+hash-quick b81a1f097eb304bdd4372b72fcd95163
+turn 375 200
+cmd 7 {"type":"set-rallypoint","entities":[468],"x":971.174072265625,"z":1082.311767578125,"data":{"command":"walk"},"queued":false}
+end
+hash-quick f85dab73f437d7287b8ad256777b71e1
+turn 376 200
+end
+hash-quick 8fff4c3a985d47b1f7b28531196abfc7
+turn 377 200
+cmd 3 {"type":"repair","entities":[155,156,157],"target":6406,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 6 {"type":"set-rallypoint","entities":[422],"x":986,"z":710,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak_hungarian","target":2442},"queued":false}
+end
+hash-quick 55bc9dc1c7eae8db9c7d92503a78a2eb
+turn 378 200
+cmd 5 {"type":"returnresource","entities":[333,334,336,338,6370,6371,6372,6373,6374,6375],"target":330,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 5 {"type":"returnresource","entities":[333,334,336,338,6370,6371,6372,6373,6374,6375],"target":330,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 5 {"type":"gather","entities":[333,334,336,338,6370,6371,6372,6373,6374,6375],"target":876,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 08b5dcf965789653c1ff2464145ef4a0
+turn 379 200
+end
+hash 3babf1d525aca2cf3b1c2635c4d3313e
+turn 380 200
+end
+hash-quick 743f322a67d4814be326f6b4762ea12e
+turn 381 200
+end
+hash-quick c075eac467a72efcb08936f91ba352d1
+turn 382 200
+cmd 1 {"type":"gather","entities":[297],"target":315,"queued":true,"pushFront":false}
+cmd 4 {"type":"walk","entities":[207],"x":260.1587219238281,"z":826.3826293945312,"queued":false,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick 659345c8b77deed0a30d311ce9392c65
+turn 383 200
+end
+hash-quick be5403458d64554fac6d581de19a204f
+turn 384 200
+cmd 1 {"type":"gather","entities":[297],"target":316,"queued":true,"pushFront":false}
+end
+hash-quick f18f492549d67747fb9737bd66afb131
+turn 385 200
+end
+hash-quick 32f6442066a6bbf7cb6669854cea1f25
+turn 386 200
+cmd 6 {"type":"walk","entities":[429],"x":943.1031494140625,"z":881.6143798828125,"queued":false,"pushFront":false}
+cmd 4 {"type":"walk","entities":[207],"x":420.3302917480469,"z":974.1882934570312,"queued":false,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick 0d79ca549d812d3592806249b69f4ea9
+turn 387 200
+cmd 4 {"type":"walk","entities":[207],"x":466.0732421875,"z":836.088623046875,"queued":true,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick c3f1cfd8dd7a51733400c8c84fff5f50
+turn 388 200
+cmd 1 {"type":"gather","entities":[297],"target":318,"queued":true,"pushFront":false}
+cmd 6 {"type":"walk","entities":[429],"x":854.185302734375,"z":827.1580810546875,"queued":true,"pushFront":false}
+cmd 4 {"type":"walk","entities":[207],"x":388.65557861328125,"z":738.8536376953125,"queued":true,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick 07fd3ea38078df44508847d7a892cced
+turn 389 200
+cmd 2 {"type":"train","entities":[245],"template":"units/mace/support_female_citizen","count":5}
+cmd 4 {"type":"walk","entities":[207],"x":306.2835693359375,"z":685.2818603515625,"queued":true,"pushFront":false,"formation":"special/formations/box"}
+cmd 4 {"type":"walk","entities":[207],"x":220.4000244140625,"z":639.2720947265625,"queued":true,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick 5a42bf92ad4a54e8828524935711f922
+turn 390 200
+cmd 6 {"type":"walk","entities":[429],"x":887.8678588867188,"z":748.5634765625,"queued":true,"pushFront":false}
+cmd 4 {"type":"walk","entities":[207],"x":137.84288024902344,"z":665.2848510742188,"queued":true,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick 0aa141b7e6806eaa7ff19da2d47ae21c
+turn 391 200
+cmd 4 {"type":"walk","entities":[207],"x":92.9166030883789,"z":702.6434936523438,"queued":true,"pushFront":false,"formation":"special/formations/box"}
+cmd 4 {"type":"walk","entities":[207],"x":77.97203826904297,"z":701.8323364257812,"queued":true,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick a5914447a3f5577c2c60663341ba1032
+turn 392 200
+end
+hash-quick 540ba19cdcad8e9d2092328181e85a9e
+turn 393 200
+cmd 1 {"type":"walk","entities":[297],"x":335.5684509277344,"z":107.857177734375,"queued":true,"pushFront":false}
+end
+hash-quick e20e100b0cb4d846decaa25cbdeb2332
+turn 394 200
+cmd 2 {"type":"set-rallypoint","entities":[245],"x":90,"z":478,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/pine","target":4046},"queued":false}
+end
+hash-quick 0aac3263faf025ea9fd3ca6bb19bb889
+turn 395 200
+cmd 1 {"type":"walk","entities":[297],"x":452.1708984375,"z":69.526123046875,"queued":true,"pushFront":false}
+end
+hash-quick 7c26c008d089b98cf24ab07eac40bf42
+turn 396 200
+end
+hash-quick 4e694b2843115073332c96019f352dae
+turn 397 200
+end
+hash-quick 9a0aeadbad6f99377f98475347133cf7
+turn 398 200
+end
+hash-quick 7dd670a2e84ce0592e7a5835e6564c29
+turn 399 200
+cmd 1 {"type":"walk","entities":[297],"x":667.2818603515625,"z":231.28924560546875,"queued":true,"pushFront":false}
+end
+hash 6d0c50faccb8ed9cb651a6d65891adc6
+turn 400 200
+cmd 5 {"type":"research","entity":6414,"template":"gather_lumbering_ironaxes"}
+end
+hash-quick e29a0cf05a27e21e35c6c9edbeba8f01
+turn 401 200
+cmd 1 {"type":"walk","entities":[297],"x":509.5575256347656,"z":487.84527587890625,"queued":true,"pushFront":false}
+cmd 8 {"type":"construct","template":"structures/gaul/house","x":1029.0010228400454,"z":490.38015604353484,"angle":2.356201171875,"actorSeed":14138,"entities":[6360],"autorepair":true,"autocontinue":true,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick bf7b563b318c350feb2b17282b736fa1
+turn 402 200
+end
+hash-quick 9204192fbb6fdaab4de28316e1d19916
+turn 403 200
+end
+hash-quick 2f88dbf28982cfe037878a94d6018937
+turn 404 200
+end
+hash-quick a1590c7c5ef07be98a49b8be85671c4c
+turn 405 200
+cmd 6 {"type":"train","entities":[422],"template":"units/spart/support_female_citizen","count":2}
+end
+hash-quick 6d4b12bc2ebb4dd9a4674149ac10663b
+turn 406 200
+end
+hash-quick 39613281e89231999017a370ea2c236c
+turn 407 200
+end
+hash-quick dffeeb23d9f99ea245dff7861eb7cc88
+turn 408 200
+end
+hash-quick c1ca0579208bb4e16d8210705409cbca
+turn 409 200
+end
+hash-quick c40a718e22878b23263d77b4488b6c5c
+turn 410 200
+end
+hash-quick ff9e5ad6a498f76e2cdf6bf24ab0548c
+turn 411 200
+end
+hash-quick 4d21c90c090a79de91d750219b0965dd
+turn 412 200
+cmd 1 {"type":"train","entities":[288],"template":"units/athen/support_female_citizen","count":5}
+cmd 6 {"type":"autoqueue-on","entities":[422]}
+end
+hash-quick 252288cbcdd907c091100dcdefc56e0c
+turn 413 200
+cmd 5 {"type":"train","entities":[330],"template":"units/gaul/support_female_citizen","count":3}
+end
+hash-quick c14358d3eedb61680f02a6ca72e5fee7
+turn 414 200
+end
+hash-quick 23bf124c87e56a8c67a92e2c633718a1
+turn 415 200
+end
+hash-quick 52f6996ccede13bdb16d05bd42d13a1f
+turn 416 200
+cmd 1 {"type":"set-rallypoint","entities":[288],"x":398,"z":346,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/pine","target":3378},"queued":false}
+end
+hash-quick b85c8bca8a04c28d8da17005e0e44677
+turn 417 200
+end
+hash-quick 64cf63892e666418a76fd7709742d184
+turn 418 200
+cmd 7 {"type":"gather","entities":[473],"target":481,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick ccf8862224b6e9857bb0551c0887cf19
+turn 419 200
+end
+hash 735873f4bafb8b0609394bd558871277
+turn 420 200
+end
+hash-quick a84232eeba07de8e31586b4cfb971dbf
+turn 421 200
+cmd 6 {"type":"set-rallypoint","entities":[422],"x":994,"z":702,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak","target":2445},"queued":false}
+cmd 4 {"type":"research","entity":6378,"template":"gather_wicker_baskets"}
+end
+hash-quick 1a0450b3b554149c28a3e56c383b0a83
+turn 422 200
+end
+hash-quick ee0f6ee36994f3308fb965a59557ca78
+turn 423 200
+cmd 8 {"type":"set-rallypoint","entities":[374],"x":1093.29443359375,"z":444.31536865234375,"data":{"command":"walk"},"queued":false}
+end
+hash-quick 9ad9959f2a1117ae23a6a2b27d0c3066
+turn 424 200
+cmd 8 {"type":"set-rallypoint","entities":[374],"x":1090.0609130859375,"z":425.32177734375,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak","target":384},"queued":false}
+end
+hash-quick 4214e19317e13575a5920efb20bc2c48
+turn 425 200
+end
+hash-quick fd42e1a136ebb14038235041b9bbf2f6
+turn 426 200
+cmd 5 {"type":"set-rallypoint","entities":[330],"x":769.1487426757812,"z":179.9371337890625,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak","target":343},"queued":false}
+cmd 6 {"type":"gather","entities":[6461],"target":2445,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick ceb8f077f2d02bb53c61304671291ffc
+turn 427 200
+end
+hash-quick 15b65e7ef06cf228230071482317f337
+turn 428 200
+end
+hash-quick 28bccdc5cce73333772d224b5d20c4c3
+turn 429 200
+cmd 6 {"type":"gather","entities":[428,6326,6327,6329],"target":2412,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 2a46908c29e2d33fc41b9aeb7bc30f6c
+turn 430 200
+end
+hash-quick 0893b2b2ae865537eaf05a814e55b2ca
+turn 431 200
+end
+hash-quick 9c7b32443206e090ac614994fa94ba7e
+turn 432 200
+end
+hash-quick df2cceb088a7dff72723c6be59dfa7fd
+turn 433 200
+end
+hash-quick a12cc98c804bd73c8574b9d04f2eecf1
+turn 434 200
+end
+hash-quick 1ee8cad17c4381cb602c0c7117b4d106
+turn 435 200
+end
+hash-quick 551cf04fd3ebc10dd993438a2794a108
+turn 436 200
+end
+hash-quick 00f79690e1929acb80cb1f17c83ebeee
+turn 437 200
+end
+hash-quick 245b787411508842352476a2ec7e9a1f
+turn 438 200
+end
+hash-quick 011b10dce44ea46bc66347fd93e99bb5
+turn 439 200
+end
+hash d76daa28f2a6765f1c0f0d83ea872612
+turn 440 200
+cmd 7 {"type":"walk","entities":[6463,6464,6465],"x":985.4956665039062,"z":1075.9925537109375,"queued":false,"pushFront":false,"formation":"special/formations/column_open"}
+end
+hash-quick 2b16626d46168a42289f76ea290a95c2
+turn 441 200
+end
+hash-quick 28e77597a33f99cfc68608365cc836b6
+turn 442 200
+end
+hash-quick af20b82e5a9c1ee7587af432ac376986
+turn 443 200
+cmd 6 {"type":"set-rallypoint","entities":[422],"x":1006,"z":694,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak","target":2425},"queued":false}
+end
+hash-quick fbf9956356b97a74bab679e6bd55343e
+turn 444 200
+end
+hash-quick 1253299ead45317b12358d809b7a5d08
+turn 445 200
+cmd 4 {"type":"construct","template":"structures/gaul/house","x":198.35467529296875,"z":818.1636962890625,"angle":2.356194490192345,"actorSeed":6962,"entities":[6475,6476,6477],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick bd866daafc4e9c78c0241a5f97b0fe23
+turn 446 200
+end
+hash-quick 366170f354eaa2dda641a2a3dcbc88dc
+turn 447 200
+end
+hash-quick 5f6c73323abe93ed232b91394e2c146d
+turn 448 200
+end
+hash-quick 4530bd20f37d2509c65c3a5d09e1cabf
+turn 449 200
+end
+hash-quick 15993fb92cde33f0192ca7186c25b542
+turn 450 200
+end
+hash-quick 0e64fa73e9a383a5c2f983711703cc2c
+turn 451 200
+end
+hash-quick da7ac0013f8815b13e6e20557dfdf133
+turn 452 200
+end
+hash-quick 220653cac75654912171c4532d1636ad
+turn 453 200
+cmd 3 {"type":"construct","template":"structures/ptol/house","x":562.5390625,"z":952.931396484375,"angle":2.356194490192345,"actorSeed":53854,"entities":[155,156,157,158],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 0ccc18109a0972b4c3d3233bed90b51a
+turn 454 200
+cmd 4 {"type":"gather","entities":[6475,6476,6477],"target":1385,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick aa03f4ccec4404b87fded782e4995fb3
+turn 455 200
+end
+hash-quick 752962d99618af75cf0021de17d8b97d
+turn 456 200
+cmd 7 {"type":"walk","entities":[6463,6464,6465],"x":958.0972290039062,"z":1125.40185546875,"queued":false,"pushFront":false,"formation":"special/formations/column_open"}
+end
+hash-quick 35fb6a4da5118ead9c8f60042b2c623c
+turn 457 200
+end
+hash-quick 54b3e3eeb97e5e316129496ca623dbd2
+turn 458 200
+end
+hash-quick 1526b993a9f691d056176b3da6808405
+turn 459 200
+end
+hash 9834a0b79f89f530cfb3576aa67be0e6
+turn 460 200
+end
+hash-quick 543673461acc80c54fa630cced456088
+turn 461 200
+end
+hash-quick 474d3bca1d2312e75242acf1427e8388
+turn 462 200
+end
+hash-quick aec2252410e492a0bd785a0bfffa7350
+turn 463 200
+cmd 3 {"type":"train","entities":[150],"template":"units/ptol/support_female_citizen","count":5}
+end
+hash-quick 5bf739ce625928a467b501d0538ab679
+turn 464 200
+cmd 4 {"type":"set-rallypoint","entities":[198],"x":280.89337158203125,"z":818.8158569335938,"data":{"command":"gather","resourceType":{"generic":"food","specific":"fruit"},"resourceTemplate":"gaia/fruit/berry_01","target":216},"queued":false}
+end
+hash-quick 3306c4431d94a8f79ab16c3f303f846f
+turn 465 200
+cmd 7 {"type":"walk","entities":[6463,6464,6465],"x":957.0149536132812,"z":1122.086669921875,"queued":false,"pushFront":false,"formation":"special/formations/column_open"}
+end
+hash-quick 87fb841bd2fe213c1dbb59ea66a03541
+turn 466 200
+cmd 6 {"type":"walk","entities":[429],"x":949.4805908203125,"z":759.4243774414062,"queued":false,"pushFront":false}
+end
+hash-quick dd6afe74c1cf11028c361e0271487cde
+turn 467 200
+end
+hash-quick c7e466ea7690236e314fa15fa787ffd4
+turn 468 200
+end
+hash-quick 308321686ea722a2717dd4d8f2b838a5
+turn 469 200
+end
+hash-quick 607ae8b42f851d81094326e51c57b057
+turn 470 200
+end
+hash-quick 576923a815d5688fb3b4efc464fb2867
+turn 471 200
+cmd 8 {"type":"train","entities":[374],"template":"units/gaul/support_female_citizen","count":2}
+end
+hash-quick 4a9f281cc7f3b18f51da31a161476322
+turn 472 200
+end
+hash-quick 385c63a4bffad13af21d0f21db7f1591
+turn 473 200
+cmd 6 {"type":"gather","entities":[429],"target":2445,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick b7a421b25c4d72c3eb2be31940e08056
+turn 474 200
+end
+hash-quick 53e059e557c9cb7d3db4d1ed13604a6f
+turn 475 200
+end
+hash-quick b323bb2ce3149471b86e7a42fea23218
+turn 476 200
+end
+hash-quick 2b34c53577bd350f7f139dbd849c7c63
+turn 477 200
+end
+hash-quick d1c977f35a61222864cd702fad02d730
+turn 478 200
+end
+hash-quick 8e239d4982dfed11de1740f241a2e3dd
+turn 479 200
+end
+hash 8cbf590c6be1939e1a644d27a2fc81d1
+turn 480 200
+end
+hash-quick 7bdef27c0736f3f9516f1407f89567de
+turn 481 200
+end
+hash-quick 4051938601012b2a85b283451d601083
+turn 482 200
+end
+hash-quick 7b4a42e562fec6aefc356ab70849aaa4
+turn 483 200
+end
+hash-quick 55efcddf2b3f3fb105706fdc9812c67b
+turn 484 200
+cmd 7 {"type":"construct","template":"structures/rome/stable","x":951.2062377929688,"z":1101.231689453125,"angle":2.356194490192345,"actorSeed":17507,"entities":[6463,6464,6465],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 121f45a192425ab64a5e141a57706eaa
+turn 485 200
+end
+hash-quick dbca07e2ad9c57fc76e9beec6c09e4fd
+turn 486 200
+end
+hash-quick d51a655cd66986aa2cfd34dedddabfd4
+turn 487 200
+cmd 1 {"type":"set-rallypoint","entities":[288],"x":398,"z":346,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/pine","target":3378},"queued":false}
+end
+hash-quick 227c3841a741dff84fbb49968885cd2b
+turn 488 200
+end
+hash-quick 4fe24cbbb3c79c8b099bf5357b23952a
+turn 489 200
+end
+hash-quick a1557255ead18b6ea551b949f559524c
+turn 490 200
+cmd 2 {"type":"research","entity":6330,"template":"gather_wicker_baskets"}
+end
+hash-quick db022b3be961da96c8932dcbd2018811
+turn 491 200
+end
+hash-quick 32fe64a5c67c2fa3f880137591d3d51c
+turn 492 200
+end
+hash-quick d3fd256c8fb7473b49ec79e8481f75b4
+turn 493 200
+end
+hash-quick 2ad29bcae12327f51e4f26e981354cc7
+turn 494 200
+end
+hash-quick af910d16cde01343743a0bf9f31cba46
+turn 495 200
+end
+hash-quick fcef92cbf68be7a7af4ded52585956c6
+turn 496 200
+end
+hash-quick 4a268a3e35b6f6514c680a22552d210b
+turn 497 200
+end
+hash-quick cb9c4c4b0b06371b457bb4548f8ec333
+turn 498 200
+end
+hash-quick fb0299f35ccb9ccf7c4a28ec3fbdecba
+turn 499 200
+end
+hash 6df9e30043ed749af8091a6665039e1e
+turn 500 200
+end
+hash-quick 724b85e2349aea1720b2050fb561e476
+turn 501 200
+end
+hash-quick 64806846666a681e90c56a011ed2e400
+turn 502 200
+end
+hash-quick 787a2b9836120a38b6e3dcb40e99f151
+turn 503 200
+end
+hash-quick 7ae12478ca0272bf3c0a8a0156bf5dfb
+turn 504 200
+end
+hash-quick 46585f2a04762a503a91a26d7ff0ee71
+turn 505 200
+end
+hash-quick b9a4b07dd135b2776ea8403526615dfc
+turn 506 200
+end
+hash-quick 7efa9e5e572b7062fe8c4a746fca4e51
+turn 507 200
+end
+hash-quick 193e2369b7f3d9d9c5739b096d4747c1
+turn 508 200
+cmd 4 {"type":"train","template":"units/gaul/support_female_citizen","count":1,"entities":[198]}
+end
+hash-quick a4afd2e36f78abe141203129f17f4e01
+turn 509 200
+end
+hash-quick c3fbd313e8b3be3f214620a97ef618a5
+turn 510 200
+end
+hash-quick 44d7617e31ac1133bd7ceb3c38c9dede
+turn 511 200
+cmd 7 {"type":"set-rallypoint","entities":[468],"x":806.2387084960938,"z":1014.4795532226562,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak","target":481},"queued":false}
+end
+hash-quick f32ebbcebedb31f4049f299fb899cce8
+turn 512 200
+end
+hash-quick 25eeeb8380bda0ba296b035b8081e358
+turn 513 200
+end
+hash-quick b33ee3952af79f5c9170be478e58750b
+turn 514 200
+cmd 4 {"type":"train","entities":[198],"template":"units/gaul/support_female_citizen","count":5}
+end
+hash-quick 5ec94bcd245c7db35c557ff6ba8f9b36
+turn 515 200
+end
+hash-quick ecba6e69c702c2604a46fe92831d6cf0
+turn 516 200
+end
+hash-quick cca6ecb4d1997b1c1ea7db03215e3b61
+turn 517 200
+end
+hash-quick ed222a9872fe672c665cdd7dc8665736
+turn 518 200
+cmd 5 {"type":"train","entities":[330],"template":"units/gaul/cavalry_javelineer_b","count":1}
+end
+hash-quick 1650840e88075dbb090a8e8154efc8da
+turn 519 200
+cmd 5 {"type":"set-rallypoint","entities":[330],"x":798.358154296875,"z":185.29647827148438,"data":{"command":"walk"},"queued":false}
+end
+hash 90b1daf9d6f8b9606fb361e1d7fa857d
+turn 520 200
+end
+hash-quick cf7128f26203bb2828ce854e006d1943
+turn 521 200
+end
+hash-quick fcb220746209ad06229441b7bad3ea95
+turn 522 200
+end
+hash-quick 7c1485ac244716926fe91ccb77404fda
+turn 523 200
+cmd 5 {"type":"set-rallypoint","entities":[330],"x":799.2409210205078,"z":185.42605590820312,"data":{"command":"gather-near-position","resourceType":{"generic":"food","specific":"meat"},"resourceTemplate":"gaia/fauna_chicken"},"queued":false}
+end
+hash-quick 0d774b3a5b6e0f9995e4f7fca39195e3
+turn 524 200
+end
+hash-quick e6f524c1d390c8daa71160321bdab96f
+turn 525 200
+cmd 4 {"type":"train","entities":[198],"template":"units/gaul/support_female_citizen","count":4}
+end
+hash-quick 28bb0163d42845287bd1b602174a127b
+turn 526 200
+cmd 7 {"type":"repair","entities":[6504,6505,6506],"target":6491,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick e224f279dc36061f4abb4fbaf2a36f8a
+turn 527 200
+end
+hash-quick 1cd72ddb3b603bbce7081e8e6036feb9
+turn 528 200
+cmd 1 {"type":"train","entities":[288],"template":"units/athen/support_female_citizen","count":5}
+cmd 8 {"type":"construct","template":"structures/gaul/house","x":1013.3706088853108,"z":490.3798184337515,"angle":2.356201171875,"actorSeed":63998,"entities":[6360],"autorepair":true,"autocontinue":true,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 6289458b07f97c812dbc2545b105791c
+turn 529 200
+cmd 2 {"type":"set-rallypoint","entities":[245],"x":222.14031982421875,"z":468.743896484375,"data":{"command":"walk"},"queued":false}
+end
+hash-quick e39c00cab25f636822945e4b0fc4b0f3
+turn 530 200
+end
+hash-quick 115bdac5697514219729691b2ca857ed
+turn 531 200
+cmd 2 {"type":"set-rallypoint","entities":[245],"x":231.34619140625,"z":484.7073974609375,"data":{"command":"walk"},"queued":false}
+end
+hash-quick 829e74a8f3c40aa9d3f6d0c074056b34
+turn 532 200
+end
+hash-quick 8aac8bc94e597228012314601deecaca
+turn 533 200
+cmd 4 {"type":"set-rallypoint","entities":[198],"x":142,"z":802,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak","target":1414},"queued":false}
+end
+hash-quick 11cf48878125945ac85f2bb62aaa6ff1
+turn 534 200
+end
+hash-quick 50de47aee88d95c29056c0bc84b104c9
+turn 535 200
+end
+hash-quick 75591369db64c6e02b86343c3e5f8852
+turn 536 200
+end
+hash-quick 6d4ba9d9563025c0a8d52e09f5f84adf
+turn 537 200
+end
+hash-quick db42aecfc08990a6cf3a9cde32ffb959
+turn 538 200
+end
+hash-quick 9e7adf7c1d32a91c91182e67c204cf48
+turn 539 200
+cmd 4 {"type":"walk","entities":[6475,6476,6477],"x":219.60263061523438,"z":744.5628051757812,"queued":false,"pushFront":false,"formation":"special/formations/box"}
+end
+hash 346eed68d191200a21044e336a9f1935
+turn 540 200
+end
+hash-quick ee4b51f40913cad30f535aa2e910b7bc
+turn 541 200
+end
+hash-quick 9007f3c1a683814501b956ea0a3e570e
+turn 542 200
+end
+hash-quick f77519ca32c20573cf9dbf969ff94dff
+turn 543 200
+end
+hash-quick cd43f07b0e94a6c428c1d30701336c7d
+turn 544 200
+cmd 4 {"type":"construct","template":"structures/gaul/house","x":208.51333618164062,"z":794.5806274414062,"angle":2.356194490192345,"actorSeed":3378,"entities":[6475,6476,6477],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 1cfb67ed2aa9eb538b0db638b7a5dbdc
+turn 545 200
+end
+hash-quick 5a083fda9ce236e6906b737827a8d535
+turn 546 200
+cmd 3 {"type":"construct","template":"structures/ptol/outpost","x":638.65869140625,"z":971.5363159179688,"angle":2.356194490192345,"actorSeed":15972,"entities":[155,156,157,158],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick e4f8bdc1e328b89ddd56728e3becbc5b
+turn 547 200
+end
+hash-quick b65ef66f4ec208e5c880538981029904
+turn 548 200
+end
+hash-quick df590538c168d546a6b0ebe224036e71
+turn 549 200
+end
+hash-quick 259595dc44f16113225055a1fbc42d53
+turn 550 200
+end
+hash-quick 301ca9cae1468c50a8dd8d5cdc42a781
+turn 551 200
+end
+hash-quick 2d0114fd5781b49055a0ad5b22b8c4d3
+turn 552 200
+end
+hash-quick 15a7e73f4b09175790c39ff34431217c
+turn 553 200
+cmd 2 {"type":"construct","template":"structures/mace/field","x":231.2582810509029,"z":486.40875578633216,"angle":2.356201171875,"actorSeed":34203,"entities":[6517,6518,6519,6520,6521],"autorepair":true,"autocontinue":true,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 05ee0df0964fa778b75b68e3b4827d84
+turn 554 200
+end
+hash-quick e602cae1f0f80e46290b48f4dfa115d3
+turn 555 200
+end
+hash-quick 73c5b5333f53ee12cd0120f308edb5a8
+turn 556 200
+end
+hash-quick fb5a8d45984da6cb020a9ae4f770a2e8
+turn 557 200
+end
+hash-quick cdaf8f20737a270bea9151d1dd95251a
+turn 558 200
+end
+hash-quick 7110405717c5cff0495dac1593461aa7
+turn 559 200
+cmd 8 {"type":"repair","entities":[6360],"target":6513,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash c2aef7beaaaa572114b64724061e126f
+turn 560 200
+end
+hash-quick 0e368431d7b05c35558ff993fd52dbb7
+turn 561 200
+cmd 5 {"type":"walk","entities":[6373],"x":903.6563720703125,"z":220.90667724609375,"queued":false,"pushFront":false}
+end
+hash-quick 2649d57714a3de01ca8ffc9852d84ea2
+turn 562 200
+end
+hash-quick 3f44f484e3bdc624cb66964652b8f744
+turn 563 200
+end
+hash-quick 2e1fd25fca447e44d509941286ba352b
+turn 564 200
+end
+hash-quick 5d250fdcdd1e6c27b3edd041d4e2bd0d
+turn 565 200
+end
+hash-quick 5383358b202e96028c87f98ea14a4da1
+turn 566 200
+end
+hash-quick aaa40223e261fef1731aed1e679536cd
+turn 567 200
+end
+hash-quick 51f7c5786fc7090b5a470bdc1c383b4a
+turn 568 200
+end
+hash-quick 8023468c42c8e6728933eeec15be47c6
+turn 569 200
+cmd 2 {"type":"train","entities":[245],"template":"units/mace/support_female_citizen","count":5}
+cmd 5 {"type":"construct","template":"structures/gaul/farmstead","x":889.51611328125,"z":195.5714111328125,"angle":2.356194490192345,"actorSeed":7380,"entities":[6373],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 673449ce41b28c4950d7b4e6fd0e5f7c
+turn 570 200
+cmd 3 {"type":"construct","template":"structures/ptol/house","x":560.8822631835938,"z":978.6006469726562,"angle":2.356194490192345,"actorSeed":45512,"entities":[155,156],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 129bbdcbe6259c2b27c919b551bce9b5
+turn 571 200
+end
+hash-quick 09e6a36b7f405c9b0c913162e154a584
+turn 572 200
+end
+hash-quick f75ec31d4fce2e9d2665a20d7729c36e
+turn 573 200
+end
+hash-quick 1139f08142ab38f930cf5463916a642f
+turn 574 200
+cmd 5 {"type":"gather","entities":[6373],"target":926,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 1bc6819ff0a4035aa5d4976b4301854f
+turn 575 200
+end
+hash-quick d4278ba4463ba8e434880281ca4ab101
+turn 576 200
+end
+hash-quick 3e1ca18d84fbbbc1191b372d6ec2e569
+turn 577 200
+cmd 6 {"type":"construct","template":"structures/spart/house","x":1027.032470703125,"z":686.2081909179688,"angle":2.356194490192345,"actorSeed":16880,"entities":[6529,6530],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 3cae3ac64b183555e9c334f5384fdbc3
+turn 578 200
+end
+hash-quick 4823bd9ae45d2fe9b4abe969847e0833
+turn 579 200
+cmd 1 {"type":"construct","template":"structures/athen/house","x":418.2863464355469,"z":334.64410400390625,"angle":2.356194490192345,"actorSeed":38316,"entities":[6532,6533,6534,6535,6536],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false}
+end
+hash 45dfec158300f34eaa15500e8d9c8213
+turn 580 200
+end
+hash-quick 8f4d57df19eb596af80ecbf28116cbf6
+turn 581 200
+end
+hash-quick 44fdc7180a2a30af440ae29d0c839927
+turn 582 200
+end
+hash-quick 6ce64255187c7ce34aad5904b4a822cf
+turn 583 200
+end
+hash-quick 01916b5e4e14402d2ec13d72bac78a09
+turn 584 200
+end
+hash-quick 08049722393b9b1da829309e613cc105
+turn 585 200
+cmd 1 {"type":"repair","entities":[6532,6533,6534,6535,6536],"target":6544,"autocontinue":true,"queued":false,"pushFront":false}
+end
+hash-quick 18f554fb0eff6f8276fa41cc489f2cc6
+turn 586 200
+cmd 8 {"type":"train","entities":[374],"template":"units/gaul/support_female_citizen","count":4}
+end
+hash-quick 87a3d57a3d239801d5ec517d399770ee
+turn 587 200
+end
+hash-quick 66d5c673ab451d2a1381ceeea12aace9
+turn 588 200
+end
+hash-quick a3541e8b7ca1fc15239baf2a0362c7ae
+turn 589 200
+cmd 1 {"type":"gather","entities":[6532,6533,6534,6535,6536],"target":3378,"queued":true,"pushFront":false}
+end
+hash-quick fe903dd357019089ec5f6d8ac639495d
+turn 590 200
+end
+hash-quick 0fb603af4208796cbc95452d866f5db3
+turn 591 200
+end
+hash-quick 7bb324bba52ff2f7bd60f3249444b5a1
+turn 592 200
+end
+hash-quick fd0e6e26266f9b52a70edcea8994a866
+turn 593 200
+end
+hash-quick 7b9484099fc57ed1d83ef58177def558
+turn 594 200
+end
+hash-quick 30e4057c7c257a6227e2a3814d8db629
+turn 595 200
+end
+hash-quick 7014b4c96f06712c565e2b4bfbef0a40
+turn 596 200
+cmd 5 {"type":"train","entities":[330],"template":"units/gaul/support_female_citizen","count":5}
+end
+hash-quick 808a9c6856844394f1060e1285b41b50
+turn 597 200
+end
+hash-quick c56f7917cf65bad4cf16c7bc5181d98f
+turn 598 200
+end
+hash-quick 8988b7a8d7874bc9b87d43e901b19d9f
+turn 599 200
+end
+hash 8c603eeda551f9943446f697013fb70e
+turn 600 200
+end
+hash-quick 1bfe26d093d5229604d0c96f3e78485f
+turn 601 200
+end
+hash-quick 5a05038d210e0cef7b682c04e2b45d3f
+turn 602 200
+cmd 3 {"type":"walk","entities":[159],"x":628.9965209960938,"z":1084.72998046875,"queued":false,"pushFront":false,"formation":"special/formations/line_closed"}
+end
+hash-quick 08afe71c651a44d82b12d62f016c5043
+turn 603 200
+end
+hash-quick dac998f487fbe90e421d14f2e08381ab
+turn 604 200
+cmd 5 {"type":"set-rallypoint","entities":[330],"x":862.3323364257812,"z":302.3306884765625,"data":{"command":"walk"},"queued":false}
+end
+hash-quick e4b5c0974c411bb35366fb7a9b62265f
+turn 605 200
+end
+hash-quick 390236dcb8474c7c36ef0361481f3f5b
+turn 606 200
+cmd 2 {"type":"walk","entities":[254],"x":109.82405090332031,"z":704.2747802734375,"queued":true,"pushFront":false}
+cmd 2 {"type":"walk","entities":[254],"x":319.1973571777344,"z":656.34375,"queued":true,"pushFront":false}
+cmd 2 {"type":"walk","entities":[254],"x":356.252197265625,"z":573.517822265625,"queued":true,"pushFront":false}
+cmd 5 {"type":"set-rallypoint","entities":[330],"x":845.7618408203125,"z":283.50506591796875,"data":{"command":"walk"},"queued":false}
+end
+hash-quick dd59fbfec0effa6697613c85864cc403
+turn 607 200
+cmd 2 {"type":"walk","entities":[254],"x":300.427490234375,"z":430.8258056640625,"queued":true,"pushFront":false}
+end
+hash-quick 2ffd9c5f9afa867ac5416ad4a67003ba
+turn 608 200
+cmd 2 {"type":"walk","entities":[254],"x":314.3671569824219,"z":386.6993713378906,"queued":true,"pushFront":false}
+end
+hash-quick 0425454d6e50e839982cb8ef6f420eba
+turn 609 200
+cmd 2 {"type":"walk","entities":[254],"x":260.8199768066406,"z":358.9017333984375,"queued":true,"pushFront":false}
+end
+hash-quick 9b9a4ca941ea1299a05cd253bccfb7b5
+turn 610 200
+cmd 2 {"type":"walk","entities":[254],"x":135.23214721679688,"z":327.685791015625,"queued":true,"pushFront":false}
+cmd 5 {"type":"set-rallypoint","entities":[330],"x":846,"z":298,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak_hungarian","target":856},"queued":false}
+end
+hash-quick 517c1619d90c26fa425466f9a9a16e53
+turn 611 200
+cmd 2 {"type":"walk","entities":[254],"x":107.94158935546875,"z":328.02142333984375,"queued":true,"pushFront":false}
+end
+hash-quick d93d76a72587b1b245087ba670f52e90
+turn 612 200
+end
+hash-quick dbe2c007d936589073e3181a1cea1ac3
+turn 613 200
+cmd 1 {"type":"set-rallypoint","entities":[288],"x":453.0440673828125,"z":279.1607666015625,"data":{"command":"gather","resourceType":{"generic":"food","specific":"fruit"},"resourceTemplate":"gaia/fruit/berry_01","target":308},"queued":false}
+end
+hash-quick 55796ac0874a84df55e0956d0ee0f864
+turn 614 200
+cmd 8 {"type":"research","entity":6524,"template":"gather_wicker_baskets"}
+cmd 4 {"type":"walk","entities":[207],"x":208.8031005859375,"z":667.988037109375,"queued":false,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick afa925fcae4a0543f5e0bb48a34aad93
+turn 615 200
+end
+hash-quick cc349f21ad1bf4e0ddf59bff11bc1fc6
+turn 616 200
+end
+hash-quick 2b61b7e896546cf34532ab134782de4b
+turn 617 200
+end
+hash-quick 0b7387f997e18970ce03af25f0deb935
+turn 618 200
+cmd 4 {"type":"walk","entities":[207],"x":15.090620994567871,"z":737.5941772460938,"queued":false,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick aaf26daf391c19fbcbfa178cedcc0fdd
+turn 619 200
+cmd 5 {"type":"construct","template":"structures/gaul/house","x":856.3353271484375,"z":268.6192626953125,"angle":2.356194490192345,"actorSeed":43923,"entities":[333,334,335,338,6370,6371,6374,6375],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash 6c351bd8d4da1ac39e11dd9f4c0bec85
+turn 620 200
+end
+hash-quick f94ae15a8bafd8bf5d1a46ff29fa2656
+turn 621 200
+end
+hash-quick 0963b1812d699a04bc78e2c8465e67f0
+turn 622 200
+end
+hash-quick 6886f4249669b9678447b53cc0475533
+turn 623 200
+cmd 2 {"type":"construct","template":"structures/mace/house","x":241.1935666323781,"z":470.81076876022973,"angle":2.356201171875,"actorSeed":60587,"entities":[6517,6518,6519,6520,6521],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 5 {"type":"gather","entities":[333,334,335,338,6370,6371,6374,6375],"target":856,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick b60a0f1ba61f6f7914c2c2e7c8465a63
+turn 624 200
+end
+hash-quick 8474212e6c9956e8772dc53b1a494dd5
+turn 625 200
+cmd 2 {"type":"repair","entities":[6517,6518,6519,6520,6521],"target":6531,"autocontinue":true,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+cmd 4 {"type":"walk","entities":[207],"x":9.877164840698242,"z":740.9765625,"queued":true,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick c23389144fc2022358dbd7d4e711d7a6
+turn 626 200
+end
+hash-quick 0f700400712f700b5beb929139d5e9a7
+turn 627 200
+end
+hash-quick d35fa42e86072c6fc144b1b1da93c067
+turn 628 200
+end
+hash-quick 218ae5fa348074cbbac0caf126d33327
+turn 629 200
+end
+hash-quick 167b0b2c8129be8e264e3034215d7b49
+turn 630 200
+end
+hash-quick a9a43f5f8b8d060b78f88560c173526a
+turn 631 200
+cmd 3 {"type":"train","entities":[150],"template":"units/ptol/cavalry_archer_b","count":4}
+end
+hash-quick 17b18a56bfcc731d91715f7d33e95b2d
+turn 632 200
+end
+hash-quick a5d5e7a5c24f767b0ea9e60b6dd04a86
+turn 633 200
+end
+hash-quick b5f747fff17dd71bf946a92ced21e960
+turn 634 200
+end
+hash-quick d0a55229e564c7e0937423b9da263a92
+turn 635 200
+end
+hash-quick 6e7ad69e341302487173e11a23ee54cb
+turn 636 200
+cmd 3 {"type":"walk","entities":[159],"x":627.1741333007812,"z":1075.693359375,"queued":false,"pushFront":false,"formation":"special/formations/line_closed"}
+cmd 7 {"type":"set-rallypoint","entities":[468],"x":974,"z":1094,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak_hungarian","target":1242},"queued":false}
+end
+hash-quick 73ba6a324c95d8b1807b2b18a5b24880
+turn 637 200
+end
+hash-quick 3dbcb4dbdd09c92da2a7f470efd1b738
+turn 638 200
+end
+hash-quick d94336aefec5cfc1e7a747f37e4d9c2d
+turn 639 200
+end
+hash aee9bca03886193c686a5e7d2106792b
+turn 640 200
+end
+hash-quick bef3aae8241cb1959bf9fdbb057dce24
+turn 641 200
+end
+hash-quick fe779aa6a1e42888c6bc75c8232d803d
+turn 642 200
+end
+hash-quick 088ddfe8ddecabe2e2e1f8036a7b2084
+turn 643 200
+end
+hash-quick 21bbb69362ab1bd9f9bb9dcb73a31e74
+turn 644 200
+cmd 4 {"type":"walk","entities":[207],"x":5.796019077301025,"z":715.486083984375,"queued":false,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick 82e539f5357be60de75a1f6e7309902a
+turn 645 200
+end
+hash-quick bd0283f062fea11e96db834805ab696e
+turn 646 200
+cmd 6 {"type":"walk","entities":[6554,6555],"x":984.3765869140625,"z":766.5326538085938,"queued":false,"pushFront":false}
+end
+hash-quick a55e606614e4efa500e58c282d06d3ca
+turn 647 200
+end
+hash-quick 0cf4892f45851f64bc978846ec6a2dd2
+turn 648 200
+cmd 1 {"type":"construct","template":"structures/athen/sentry_tower","x":438.90625,"z":368.8685302734375,"angle":2.356194490192345,"actorSeed":8664,"entities":[6533],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false}
+cmd 3 {"type":"gather","entities":[159],"target":5977,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 774f4dd3de2ac998fc03c4432a3cc939
+turn 649 200
+end
+hash-quick 550c3f7b7409a36a37ec3f8c6edd7d30
+turn 650 200
+end
+hash-quick 01f3bfbc2576ba857df56accf7ea7de7
+turn 651 200
+end
+hash-quick b0698717bc2fc2a110579a3fe200389a
+turn 652 200
+cmd 1 {"type":"gather","entities":[6533],"target":3378,"queued":true,"pushFront":false}
+cmd 4 {"type":"walk","entities":[207],"x":36.79010009765625,"z":432.5323486328125,"queued":true,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick fc1b64d276da9b5c8b1e436d6bbddffe
+turn 653 200
+end
+hash-quick bbf4bdf4f8a5c0a5ee6a54e5361062d7
+turn 654 200
+end
+hash-quick ac069fbb9fa4b279bb5ca33c676b8172
+turn 655 200
+end
+hash-quick 69569458d2548952ce0f84d44ef85672
+turn 656 200
+cmd 6 {"type":"construct","template":"structures/spart/barracks","x":987.9776611328125,"z":767.009765625,"angle":2.356194490192345,"actorSeed":20728,"entities":[6554,6555],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick edbaafc50cf6d8a01bffc87569e088c3
+turn 657 200
+end
+hash-quick b5c56c528d2a4ba3a8b8fc5ee1cf5375
+turn 658 200
+cmd 7 {"type":"walk","entities":[477],"x":509.41302490234375,"z":718.7608642578125,"queued":false,"pushFront":false,"formation":"special/formations/column_open"}
+end
+hash-quick c181e23e838d6d3e38da573f9a495284
+turn 659 200
+end
+hash 777b1d134dbd955cc1168868f95cd81d
+turn 660 200
+end
+hash-quick 328ba98355d51446a79f9c20dbb03a97
+turn 661 200
+cmd 7 {"type":"walk","entities":[477],"x":390.7825927734375,"z":1011.8478393554688,"queued":false,"pushFront":false,"formation":"special/formations/column_open"}
+end
+hash-quick 38c09c6c78e78fcae4f06d112f83c322
+turn 662 200
+end
+hash-quick 27ee0c644179f454c8434b7efdcab776
+turn 663 200
+cmd 4 {"type":"walk","entities":[207],"x":433.085693359375,"z":40.053531646728516,"queued":true,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick d2ae53768daf29ac46e1f7fc112bb2fe
+turn 664 200
+cmd 5 {"type":"returnresource","entities":[337],"target":6414,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 5 {"type":"walk","entities":[337],"x":949.04345703125,"z":209.34783935546875,"queued":true,"pushFront":false}
+cmd 6 {"type":"set-rallypoint","entities":[422],"x":987.9776611328125,"z":767.009765625,"data":{"command":"repair","target":6561},"queued":false}
+cmd 4 {"type":"walk","entities":[207],"x":982.1785278320312,"z":103.23908996582031,"queued":true,"pushFront":false,"formation":"special/formations/box"}
+cmd 4 {"type":"walk","entities":[207],"x":1274.9405517578125,"z":568.7129516601562,"queued":true,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick 06240bce4e75a6dfebeadaa97d588d0c
+turn 665 200
+cmd 5 {"type":"walk","entities":[337],"x":851.3478393554688,"z":355.89129638671875,"queued":true,"pushFront":false}
+end
+hash-quick 1677e2aec9b6dd1f30195f7023fedcad
+turn 666 200
+cmd 5 {"type":"walk","entities":[337],"x":690.8478393554688,"z":404.7391357421875,"queued":true,"pushFront":false}
+cmd 5 {"type":"walk","entities":[337],"x":621.0652465820312,"z":348.91302490234375,"queued":true,"pushFront":false}
+cmd 4 {"type":"walk","entities":[207],"x":861.8549194335938,"z":1240.0372314453125,"queued":true,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick 0979edb1e63a40dd8a0a8553fda6d863
+turn 667 200
+cmd 5 {"type":"walk","entities":[337],"x":586.1739501953125,"z":286.10870361328125,"queued":true,"pushFront":false}
+end
+hash-quick 21710ea6c55504cc680cf17f1345b00f
+turn 668 200
+cmd 5 {"type":"walk","entities":[337],"x":579.1956787109375,"z":258.1956481933594,"queued":true,"pushFront":false}
+end
+hash-quick 39f5aa819eba0f7214c95af09ce11616
+turn 669 200
+cmd 8 {"type":"construct","template":"structures/gaul/house","x":1005.557247262316,"z":482.56276094502255,"angle":2.356201171875,"actorSeed":47198,"entities":[6360],"autorepair":true,"autocontinue":true,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+cmd 5 {"type":"walk","entities":[337],"x":586.1739501953125,"z":209.34783935546875,"queued":true,"pushFront":false}
+cmd 4 {"type":"walk","entities":[207],"x":315.26629638671875,"z":1189.01904296875,"queued":true,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick 26198c436585679d2e09f5a24bc5ff17
+turn 670 200
+cmd 5 {"type":"walk","entities":[337],"x":614.0869750976562,"z":146.54348754882812,"queued":true,"pushFront":false}
+end
+hash-quick a3daeba4241714c54ff9db43cf17bc90
+turn 671 200
+cmd 5 {"type":"walk","entities":[337],"x":725.7391357421875,"z":62.80434799194336,"queued":true,"pushFront":false}
+end
+hash-quick 996750fec306661c0baae5a3cdc77611
+turn 672 200
+cmd 5 {"type":"walk","entities":[337],"x":774.5869750976562,"z":76.76087188720703,"queued":true,"pushFront":false}
+cmd 5 {"type":"walk","entities":[337],"x":774.5869750976562,"z":83.73912811279297,"queued":true,"pushFront":false}
+cmd 5 {"type":"walk","entities":[337],"x":879.2608642578125,"z":146.54348754882812,"queued":true,"pushFront":false}
+cmd 5 {"type":"gather","entities":[337],"target":859,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+cmd 4 {"type":"walk","entities":[207],"x":10.870065689086914,"z":729.52001953125,"queued":true,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick 87d94f8c9fb6263ecb0667d0bbb06440
+turn 673 200
+cmd 6 {"type":"set-rallypoint","entities":[422],"x":985.0927734375,"z":796.3261108398438,"data":{"command":"walk"},"queued":false}
+end
+hash-quick 3d1bd23a0ce18f9d1dcdce20294ead86
+turn 674 200
+cmd 2 {"type":"construct","template":"structures/mace/field","x":256.7868867018462,"z":480.748230458425,"angle":2.356201171875,"actorSeed":64103,"entities":[6519],"autorepair":true,"autocontinue":true,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+cmd 6 {"type":"set-rallypoint","entities":[422],"x":987.9776611328125,"z":767.009765625,"data":{"command":"repair","target":6561},"queued":true}
+end
+hash-quick f461deafd668187c3e4b3f062666bbe7
+turn 675 200
+end
+hash-quick 28dba2906bc4a4fe504c57d79cd7dac9
+turn 676 200
+cmd 4 {"type":"walk","entities":[6475,6476,6477,6402],"x":263.4784240722656,"z":848.8236694335938,"queued":false,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick 84014e3ff3dc388efbc3b7f171b986f8
+turn 677 200
+end
+hash-quick 583a0fb8e8d296cf41249149ac5ceabc
+turn 678 200
+end
+hash-quick 6f623d4f0cb80ba64587fc6465e64e38
+turn 679 200
+end
+hash d57528f5ce03c23df7dba44b1a01dc52
+turn 680 200
+end
+hash-quick 1051314defe4ab36eeab6bd69eb63dfe
+turn 681 200
+cmd 1 {"type":"set-rallypoint","entities":[288],"x":398,"z":346,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/pine","target":3378},"queued":false}
+cmd 1 {"type":"train","entities":[288],"template":"units/athen/support_female_citizen","count":5}
+cmd 2 {"type":"delete-entities","entities":[6572]}
+cmd 2 {"type":"delete-entities","entities":[6572]}
+cmd 8 {"type":"construct","template":"structures/gaul/field","x":1052.645263671875,"z":454.8287353515625,"angle":2.356194490192345,"actorSeed":50472,"entities":[6359],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 8 {"type":"returnresource","entities":[6359],"target":6524,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 5 {"type":"construct","template":"structures/gaul/house","x":775.8800659179688,"z":139.89083862304688,"angle":2.356194490192345,"actorSeed":56298,"entities":[6507],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 5 {"type":"gather","entities":[6507],"target":343,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+cmd 4 {"type":"construct","template":"structures/gaul/farmstead","x":330.2218322753906,"z":885.9148559570312,"angle":2.356194490192345,"actorSeed":1390,"entities":[6475,6476,6477,6402],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 4 {"type":"gather","entities":[6475,6476,6477,6402],"target":6077,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+cmd 4 {"type":"train","entities":[198],"template":"units/gaul/infantry_javelineer_b","count":4}
+cmd 4 {"type":"set-rallypoint","entities":[198],"x":154,"z":786,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak_hungarian","target":1385},"queued":false}
+end
+hash-quick 4c8ded8eb6e6fc04c45ac7b1a0ea79c3
+turn 682 200
+end
+hash-quick eea26d157d12f92ed31cadc8bac915bf
+turn 683 200
+end
+hash-quick 67d6690f2d597cf2ea0d0c4d343dea45
+turn 684 200
+end
+hash-quick 8fcab5323753f8285e4bb6dbfce22d46
+turn 685 200
+end
+hash-quick 59cbb6df1205baa2f37f474338be6e00
+turn 686 200
+cmd 2 {"type":"delete-entities","entities":[6572]}
+end
+hash-quick 680da7c8b6ffd8bcbd84fe6ff5fcf718
+turn 687 200
+end
+hash-quick 90d48152d6ee600c25f015a33f82c514
+turn 688 200
+end
+hash-quick 66dc0ef326684d8f1f5e66042e573324
+turn 689 200
+end
+hash-quick 8d81d3a46f717d0188a2f6ab463ac458
+turn 690 200
+end
+hash-quick 8947f39de79341db59b519ac2420b6cb
+turn 691 200
+end
+hash-quick ea61092c7d6537077e952ad3f2bbe148
+turn 692 200
+end
+hash-quick 4310b12f92744dea6a77e3704cd19f1b
+turn 693 200
+end
+hash-quick f5fde9e7223239a6400a76cbbca5c736
+turn 694 200
+end
+hash-quick 58e62cb98b8f43ff8debcec913852ad6
+turn 695 200
+end
+hash-quick 34eee76f9ab7ec408f0a6830f9bbf92c
+turn 696 200
+end
+hash-quick 7999dbfa4effd01af045fa382adcb5db
+turn 697 200
+end
+hash-quick a4126e169b27a1fde7718fb7fe4bcbed
+turn 698 200
+end
+hash-quick fb369c63b6b1970cc86841bb78e2d813
+turn 699 200
+end
+hash 5865a69aabcf22d54853ce7a585134c2
+turn 700 200
+end
+hash-quick 24cdf9978dd9d5623bf1dcbbe12f3c72
+turn 701 200
+end
+hash-quick 124e5c8d144af10352b175e4b0bc6a90
+turn 702 200
+cmd 2 {"type":"set-rallypoint","entities":[245],"x":122.0274658203125,"z":626.5753784179688,"data":{"command":"gather","resourceType":{"generic":"food","specific":"fruit"},"resourceTemplate":"gaia/fruit/apple","target":6258},"queued":false}
+end
+hash-quick f75ab2090cca285362d781eff5d1a5bc
+turn 703 200
+cmd 5 {"type":"walk","entities":[339,6545],"x":852.9935913085938,"z":190.99835205078125,"queued":false,"pushFront":false}
+end
+hash-quick 3761a3513b5e52121c3792fe16f43da5
+turn 704 200
+end
+hash-quick db5366323410fdd3679ea8b1c1f8ed84
+turn 705 200
+end
+hash-quick 996db5a7edab6f0515c3526d029d5285
+turn 706 200
+cmd 6 {"type":"walk","entities":[6581,6582],"x":982.7510375976562,"z":788.9198608398438,"queued":false,"pushFront":false}
+end
+hash-quick de9be41dc5d0eff8c7d0d0641b9e3395
+turn 707 200
+end
+hash-quick 35dc3eb176d9eb13bd5fce85794991b1
+turn 708 200
+cmd 6 {"type":"repair","entities":[6581,6582],"target":6561,"autocontinue":true,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick a9945879737a5e520b85c47aae42f482
+turn 709 200
+end
+hash-quick af7f7df577d018c66e16b500aed00d00
+turn 710 200
+cmd 4 {"type":"set-rallypoint","entities":[198],"x":154,"z":786,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak_hungarian","target":1385},"queued":false}
+end
+hash-quick 468ca2273433039c5239970cadf18ee1
+turn 711 200
+end
+hash-quick b794ec515e9cf3de0e7a72796c08a249
+turn 712 200
+end
+hash-quick 15f62f3a1a9b2eb26f0fa9c3fb1a5eb4
+turn 713 200
+cmd 4 {"type":"set-rallypoint","entities":[198],"x":138,"z":794,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak_hungarian","target":1443},"queued":false}
+end
+hash-quick a5d891d7eecc92185ccdd6d5dd70824a
+turn 714 200
+cmd 2 {"type":"train","entities":[245],"template":"units/mace/support_female_citizen","count":5}
+cmd 6 {"type":"set-rallypoint","entities":[422],"x":989.1675415039062,"z":790.943115234375,"data":{"command":"walk"},"queued":false}
+end
+hash-quick 8fb443dbe9fa0b6257ba1f30b6317502
+turn 715 200
+end
+hash-quick 2bf0cf334b44075715be4ebb9f65a79d
+turn 716 200
+cmd 6 {"type":"set-rallypoint","entities":[422],"x":987.9776611328125,"z":767.009765625,"data":{"command":"repair","target":6561},"queued":true}
+end
+hash-quick 386a109d29dc73f0890a143bc36b9b0d
+turn 717 200
+end
+hash-quick d4e123e54b61ab787bd71fa7b538457a
+turn 718 200
+end
+hash-quick f5208c22f7b0f75fa020b714d04dabfa
+turn 719 200
+end
+hash ab2d691cf462275ebb1cef21b9fde7fe
+turn 720 200
+cmd 3 {"type":"construct","template":"structures/ptol/house","x":579.29443359375,"z":1002.7599487304688,"angle":2.356194490192345,"actorSeed":23607,"entities":[155,156,157,158],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 1aedc86357a19bbd608df4514347a4e4
+turn 721 200
+end
+hash-quick 048c657498a330782fb86417b97d2f62
+turn 722 200
+end
+hash-quick 47f23c76a7fabd87e33ea055d769841b
+turn 723 200
+cmd 5 {"type":"walk","entities":[339,6545],"x":867.808349609375,"z":229.49478149414062,"queued":false,"pushFront":false}
+cmd 7 {"type":"construct","template":"structures/rome/house","x":984.6935424804688,"z":1075.179931640625,"angle":2.356194490192345,"actorSeed":50907,"entities":[6463,6464,6465,6504,6505,6506],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 41b336cc705a521a609aa6480b69c24b
+turn 724 200
+end
+hash-quick 6a94cae73dbe358c059d8de061d4548e
+turn 725 200
+end
+hash-quick e1ba36dfdafdf803b16ef63723596660
+turn 726 200
+cmd 3 {"type":"gather","entities":[155,156,157,158],"target":2958,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 3 {"type":"gather","entities":[155,156,157,158],"target":2958,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 1bd4774d03ceaeaaa98a18897d752714
+turn 727 200
+end
+hash-quick b36363401635da187c295f7a48f3b31e
+turn 728 200
+end
+hash-quick e2c1e88e7f8269eea5ab1d76a7f86ecc
+turn 729 200
+cmd 3 {"type":"gather","entities":[155,156,157,158],"target":2958,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick c2a9ecf0e796daf5ea5fa8e688666786
+turn 730 200
+cmd 4 {"type":"walk","entities":[6402],"x":226.48812866210938,"z":777.4808959960938,"queued":false,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick 29f11f1a5d7314c667adff338370ee27
+turn 731 200
+cmd 3 {"type":"attack","entities":[155,156,157,158],"target":477,"queued":false,"pushFront":false,"allowCapture":false,"formation":"special/formations/null"}
+cmd 5 {"type":"walk","entities":[339,6545],"x":871.6494140625,"z":211.64251708984375,"queued":false,"pushFront":false}
+cmd 6 {"type":"construct","template":"structures/spart/house","x":1046.41943359375,"z":687.5773315429688,"angle":2.356194490192345,"actorSeed":36103,"entities":[6529,6530],"autorepair":true,"autocontinue":true,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 3fc8a8cb70fb69efd5d5b242f4eb2790
+turn 732 200
+cmd 8 {"type":"walk","entities":[383],"x":954.87939453125,"z":320.7440185546875,"queued":false,"pushFront":false}
+cmd 5 {"type":"walk","entities":[339,6545],"x":874.402587890625,"z":205.79998779296875,"queued":false,"pushFront":false}
+end
+hash-quick 3580c21c65ca18dba35027abdf66418a
+turn 733 200
+cmd 1 {"type":"construct","template":"structures/athen/barracks","x":408.76690673828125,"z":296.426025390625,"angle":2.356194490192345,"actorSeed":64319,"entities":[6584,6585,6586,6587,6588],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false}
+cmd 3 {"type":"attack","entities":[155,156,157,158],"target":477,"queued":false,"pushFront":false,"allowCapture":false,"formation":"special/formations/null"}
+cmd 8 {"type":"walk","entities":[383],"x":932.172607421875,"z":301.04742431640625,"queued":false,"pushFront":false}
+cmd 6 {"type":"walk","entities":[431],"x":905.8731079101562,"z":770.9528198242188,"queued":false,"pushFront":false}
+end
+hash-quick 4142b5ee00cd6a32c535a66585f041e9
+turn 734 200
+end
+hash-quick f644fd648365f8d006ef51bfeb0db098
+turn 735 200
+end
+hash-quick 35370e3276b82ca09440d1011c100fb6
+turn 736 200
+cmd 6 {"type":"walk","entities":[431],"x":882.6881103515625,"z":767.1103515625,"queued":true,"pushFront":false}
+end
+hash-quick bbe39d07b4ec7ebf878c4d9bf153e3ba
+turn 737 200
+cmd 5 {"type":"gather","entities":[339,6545],"target":6007,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 3aa5b70682a51cbe7cc8e362ea61caad
+turn 738 200
+cmd 1 {"type":"repair","entities":[6584,6585,6586,6587,6588],"target":6608,"autocontinue":true,"queued":false,"pushFront":false}
+cmd 2 {"type":"construct","template":"structures/mace/house","x":138.1695556640625,"z":613.74951171875,"angle":2.356194490192345,"actorSeed":12961,"entities":[6598,6599,6600,6601,6602],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 6 {"type":"gather","entities":[431],"target":6041,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 2ec83dd5cbfd64e35d8f6638149d7117
+turn 739 200
+cmd 6 {"type":"walk","entities":[431],"x":871.2211303710938,"z":766.87158203125,"queued":true,"pushFront":false}
+end
+hash 23e795635442f1fb89d228c901e978f2
+turn 740 200
+end
+hash-quick 9364b02af96958cd849e8ec99cfb0a56
+turn 741 200
+cmd 1 {"type":"gather","entities":[6584,6585,6586,6587,6588],"target":3411,"queued":true,"pushFront":false}
+end
+hash-quick cbcd82a12702c4af9375e65c76547436
+turn 742 200
+cmd 6 {"type":"gather","entities":[431],"target":6040,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 52ded57418b064efb5a3a42635d170cc
+turn 743 200
+end
+hash-quick 5187cc621a7a6aa519a7c55ec76bede9
+turn 744 200
+end
+hash-quick 4c15032b99aeeefa5a2e10c5f5834596
+turn 745 200
+end
+hash-quick 513431ba4f17d010e1e5a6bd52e7188e
+turn 746 200
+cmd 8 {"type":"tribute","player":5,"amounts":{"wood":100}}
+end
+hash-quick b189a3024d9cd6199b778f14e3922181
+turn 747 200
+cmd 4 {"type":"gather","entities":[207,6402],"target":5958,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 3398a7181967906f97ad81f7ec5a6bbf
+turn 748 200
+end
+hash-quick 31159d7d658d73e61ad219fc68ca2880
+turn 749 200
+cmd 7 {"type":"attack","entities":[477],"target":6344,"queued":false,"pushFront":false,"allowCapture":false,"formation":"special/formations/null"}
+cmd 7 {"type":"walk","entities":[477],"x":527.28759765625,"z":963.007080078125,"queued":false,"pushFront":false,"formation":"special/formations/column_open"}
+cmd 7 {"type":"walk","entities":[477],"x":509.41302490234375,"z":551.2825927734375,"queued":false,"pushFront":false,"formation":"special/formations/column_open"}
+end
+hash-quick 21e62abce673e896fa8f0d6dd21e576d
+turn 750 200
+end
+hash-quick 21cf8308afef87fe3b04a6e0a8b835f1
+turn 751 200
+cmd 2 {"type":"set-rallypoint","entities":[245],"x":231.25828552246094,"z":486.40875244140625,"data":{"command":"gather","resourceType":{"generic":"food","specific":"grain"},"resourceTemplate":"structures/mace/field","target":6606},"queued":false}
+end
+hash-quick 3b8bbe51b0d3aa83a52d2d85ccf93836
+turn 752 200
+cmd 3 {"type":"repair","entities":[155,156,157,158],"target":6603,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 2 {"type":"walk","entities":[254],"x":386.1112976074219,"z":509.4398193359375,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[254],"x":359.4859924316406,"z":397.3739013671875,"queued":true,"pushFront":false}
+cmd 5 {"type":"construct","template":"structures/gaul/house","x":753.47607421875,"z":149.04568481445312,"angle":2.356194490192345,"actorSeed":41709,"entities":[6459],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 5 {"type":"gather","entities":[6459],"target":349,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+cmd 4 {"type":"walk","entities":[207],"x":32.43815612792969,"z":508.9655456542969,"queued":false,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick 367f4c166dbaa741a8ca0bdd0d3a64b8
+turn 753 200
+end
+hash-quick 7dfa17cdf45d40dfa492409f902025d2
+turn 754 200
+end
+hash-quick 390294b8e0e85899b3e443b06fd65c1b
+turn 755 200
+cmd 4 {"type":"walk","entities":[207],"x":93.81547546386719,"z":312.92547607421875,"queued":false,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick ffb8a5adac4c56bee7bc46b8c6c85674
+turn 756 200
+cmd 2 {"type":"walk","entities":[254],"x":271.1753845214844,"z":325.8899230957031,"queued":true,"pushFront":false}
+end
+hash-quick 9b3b03d7757a6bf5d3841da6a755dc0f
+turn 757 200
+cmd 2 {"type":"walk","entities":[254],"x":159.90591430664062,"z":327.5904541015625,"queued":true,"pushFront":false}
+end
+hash-quick bd0ca0b81bf6b885020a913f311b2c71
+turn 758 200
+cmd 2 {"type":"walk","entities":[254],"x":134.44924926757812,"z":338.37115478515625,"queued":true,"pushFront":false}
+end
+hash-quick baf725365a228b480ef6a2cb7fb5ecf9
+turn 759 200
+cmd 2 {"type":"walk","entities":[254],"x":112.53849792480469,"z":346.4023132324219,"queued":true,"pushFront":false}
+end
+hash dd877f8eeee5c658e6fc0212711e2ea3
+turn 760 200
+end
+hash-quick a42558a3fba4a19634e01005a047e55a
+turn 761 200
+end
+hash-quick 469f62e94d18e7b7e25c799a97d90f1b
+turn 762 200
+end
+hash-quick 3c75d435afde30977ca86175d3fcac62
+turn 763 200
+cmd 8 {"type":"train","entities":[374],"template":"units/gaul/support_female_citizen","count":4}
+cmd 4 {"type":"walk","entities":[207],"x":294.1465759277344,"z":106.14763641357422,"queued":true,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick f91cf81921e7478990bbc194d6a5ca49
+turn 764 200
+end
+hash-quick 6bfcea4228fbb003f1145e34ee0d3006
+turn 765 200
+cmd 4 {"type":"walk","entities":[207],"x":832.6583251953125,"z":34.577449798583984,"queued":true,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick 2b937657b567f280ef53188377ff4c87
+turn 766 200
+end
+hash-quick 1626c9f29fc57b929ca5b3b62f922a92
+turn 767 200
+end
+hash-quick 1943712dd0ebf33e39fa7fe5c66b4193
+turn 768 200
+cmd 4 {"type":"walk","entities":[207],"x":1075.8743896484375,"z":182.10394287109375,"queued":true,"pushFront":false,"formation":"special/formations/box"}
+cmd 4 {"type":"walk","entities":[207],"x":1270.1280517578125,"z":684.0640258789062,"queued":true,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick ae4e1f07fd3dc5e2e9cfc2d7ca524488
+turn 769 200
+end
+hash-quick 83161f9ec04207ebb61477fc94a61eb7
+turn 770 200
+end
+hash-quick 449c17e343c9d217e16e8dcfe6a72c57
+turn 771 200
+cmd 3 {"type":"set-rallypoint","entities":[150],"x":539.0369873046875,"z":1037.3780822753906,"data":{"command":"gather","resourceType":{"generic":"food","specific":"meat"},"resourceTemplate":"resource|gaia/fauna_deer","target":6596},"queued":false}
+cmd 4 {"type":"walk","entities":[207],"x":995.5252685546875,"z":1160.281005859375,"queued":true,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick cc7c362971a21414ee02d52c962f9786
+turn 772 200
+end
+hash-quick 79e2c65135328ea2b9239b6804b2f77c
+turn 773 200
+cmd 8 {"type":"repair","entities":[6359],"target":6575,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 4 {"type":"walk","entities":[207],"x":734.684814453125,"z":1259.736572265625,"queued":true,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick 114477385bcdae84a4fb9ea8939fb3b6
+turn 774 200
+end
+hash-quick 7df97fd86d6f4de2ce3f48851f716485
+turn 775 200
+cmd 4 {"type":"walk","entities":[207],"x":66.19559478759766,"z":884.1534423828125,"queued":true,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick 0e49afb510bf9fc5a12718dfb3476668
+turn 776 200
+end
+hash-quick 2610d98a902a7fa881860d7a7fa87abf
+turn 777 200
+end
+hash-quick c6a0210f9b08784521174479fb08e4bc
+turn 778 200
+end
+hash-quick f3ff9ffc2dcf9945700ae03e26d6deae
+turn 779 200
+end
+hash e1f0e7aaa97c48cfdc8f9a882c8a2033
+turn 780 200
+end
+hash-quick 3b371f56eb30bf39e9b3223c5af5492f
+turn 781 200
+cmd 1 {"type":"research","entity":6340,"template":"gather_lumbering_ironaxes"}
+end
+hash-quick acbda52d27059a54a536b35879fd4eaf
+turn 782 200
+end
+hash-quick f6687053e4288d45b03bb81efc42434d
+turn 783 200
+cmd 6 {"type":"set-rallypoint","entities":[422],"x":1178.4629516601562,"z":717.287841796875,"data":{"command":"gather","resourceType":{"generic":"food","specific":"fruit"},"resourceTemplate":"gaia/fruit/apple","target":6281},"queued":false}
+end
+hash-quick 49b4046c238f08e0ec5d0fefbdcd59b2
+turn 784 200
+end
+hash-quick 3dbf8dacf338cbd5c15bac0bad600a14
+turn 785 200
+end
+hash-quick 74ed7531c9f1ec8b766470ea60a11f16
+turn 786 200
+end
+hash-quick 928b47a9d4d7596daa67625b25e6c284
+turn 787 200
+end
+hash-quick 64dc4e4dc97b3433be693f4f61345a89
+turn 788 200
+end
+hash-quick 0b058867f9fc969e2cb98fb15d84832d
+turn 789 200
+end
+hash-quick d02fe5aea6d821b1ec171e2a2eb5e957
+turn 790 200
+cmd 8 {"type":"construct","template":"structures/gaul/house","x":997.7438886489097,"z":474.74570107356067,"angle":2.356201171875,"actorSeed":51572,"entities":[6360],"autorepair":true,"autocontinue":true,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+cmd 4 {"type":"train","entities":[198],"template":"units/gaul/support_female_citizen","count":4}
+end
+hash-quick e836a82e89d43e29b8edf8620c8db82f
+turn 791 200
+end
+hash-quick 8f48633df30804e159eee3a5f31e5aa8
+turn 792 200
+cmd 5 {"type":"research","entity":6414,"template":"gather_capacity_basket"}
+end
+hash-quick c0cc86b1ed6930fb1f7a704f307f4ef0
+turn 793 200
+cmd 5 {"type":"research","entity":6414,"template":"gather_capacity_basket"}
+end
+hash-quick da5a25a26f6231e55cc9d36ac7ec626e
+turn 794 200
+end
+hash-quick c08fb219e3f8bfb4512e70531505e6ad
+turn 795 200
+end
+hash-quick cd79fc0af63510cc04697a40016ca19d
+turn 796 200
+end
+hash-quick 2cc155c7b5ef3e366a1c21df13aefcd2
+turn 797 200
+end
+hash-quick 5b9ef7f2038efdddf935dcecefbc35d3
+turn 798 200
+cmd 4 {"type":"research","entity":6393,"template":"gather_lumbering_ironaxes"}
+end
+hash-quick 767222b3685028ba34a7adf032a50fd8
+turn 799 200
+end
+hash 7e045859f2311692cf7a8e6085710487
+turn 800 200
+end
+hash-quick d838d49658f578638f5966a147602973
+turn 801 200
+end
+hash-quick a12d9f8628598d30142711fbb7c80f86
+turn 802 200
+end
+hash-quick 8ca73ecd3ef669ac84d46a698e4e18e4
+turn 803 200
+end
+hash-quick ae7d78e1ac5858f5c176e28fcce745e5
+turn 804 200
+end
+hash-quick 23b80f69365bcf2e1437e93ff9d71f93
+turn 805 200
+end
+hash-quick 329abbd20e82a6f1b1dd2972655b5df5
+turn 806 200
+end
+hash-quick e3fe52ddabf5f0d22d2524647ee436b9
+turn 807 200
+end
+hash-quick ccf30cbfa21bad0558069b34081de0f9
+turn 808 200
+end
+hash-quick 1d93f2fb408cc2d818aebbec2a839f98
+turn 809 200
+end
+hash-quick 0e2753f188123fdd10a7292704bcce61
+turn 810 200
+end
+hash-quick f58933e638ce7cd793e391bbf7b89bf6
+turn 811 200
+cmd 5 {"type":"train","entities":[330],"template":"units/gaul/support_female_citizen","count":4}
+end
+hash-quick f3aeb4557c7787b57fda3564fd69454e
+turn 812 200
+end
+hash-quick b9e9e47413888b35dfb9590ca69a7858
+turn 813 200
+end
+hash-quick 971bad687d788f73f077cbb02b586323
+turn 814 200
+end
+hash-quick 3a09f97fc169ba7fa1dbf04e147b73db
+turn 815 200
+end
+hash-quick 5fac2a52955a92e26554f6e486d19bf6
+turn 816 200
+end
+hash-quick caf9bbfff9ab8a7a1673e03a99c9b3d2
+turn 817 200
+end
+hash-quick 06520d14e7afbc519fd9ed5fdad25d6d
+turn 818 200
+end
+hash-quick b7ee2cf078aa1504bd390c1bca4ed5c1
+turn 819 200
+end
+hash 449a10e8042cf35b4eb9ab7c5550c3f4
+turn 820 200
+cmd 8 {"type":"walk","entities":[383],"x":835.786376953125,"z":235.841064453125,"queued":false,"pushFront":false}
+end
+hash-quick fc2d7035d943c6c080c6b4159ed22e40
+turn 821 200
+end
+hash-quick 9b99fb47f27f4980a30d6829979eea2c
+turn 822 200
+end
+hash-quick 12d258b0d50e0e429dee7ca6dfa878b8
+turn 823 200
+end
+hash-quick 53572d1a6ac83ff8e1499115a7c686d4
+turn 824 200
+end
+hash-quick 623e38a78e475f0aef97638ed7dd3144
+turn 825 200
+end
+hash-quick 516c7aff712f89b6054c30022d0b7de3
+turn 826 200
+end
+hash-quick fd37a9e797a99a89dd6f1e5b84c71488
+turn 827 200
+cmd 1 {"type":"train","entities":[288],"template":"units/athen/support_female_citizen","count":5}
+end
+hash-quick 039f41e040feaf72e8722c04a05046b4
+turn 828 200
+end
+hash-quick 19f81799a9dd1157dc29df11e8e240de
+turn 829 200
+cmd 6 {"type":"research","entity":6339,"template":"gather_lumbering_ironaxes"}
+end
+hash-quick 73c1ea92dc37766049f29a00d27f1cfd
+turn 830 200
+end
+hash-quick 7acec4c869c832997844f6f5159b6b76
+turn 831 200
+end
+hash-quick 45068b8cea4b672b1d6b3d7066950346
+turn 832 200
+end
+hash-quick f16df9317d94ca0172f770718b1920f2
+turn 833 200
+end
+hash-quick 366b483f7503be2fd3323a2d084930d0
+turn 834 200
+end
+hash-quick 8af1aff634ab46ac37a4a75c1565ae7b
+turn 835 200
+cmd 4 {"type":"walk","entities":[199],"x":253.6292724609375,"z":815.7151489257812,"queued":false,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick 6c43927b1c3dc482ba0bd98334747006
+turn 836 200
+end
+hash-quick 835238462dfde1e0e146ee66e4186109
+turn 837 200
+cmd 5 {"type":"construct","template":"structures/gaul/house","x":741.7423095703125,"z":153.93011474609375,"angle":2.356194490192345,"actorSeed":63769,"entities":[331],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 00569dba2897901fb6528e138a3a43cf
+turn 838 200
+cmd 3 {"type":"train","entities":[150],"template":"units/ptol/infantry_slinger_b","count":7}
+end
+hash-quick a33b76061ee1e8192c51cbabbb9abfe5
+turn 839 200
+cmd 7 {"type":"construct","template":"structures/rome/storehouse","x":967.1537475585938,"z":1083.97021484375,"angle":2.356194490192345,"actorSeed":848,"entities":[6463,6464,6465,6504,6505,6506,6589,6590,6591],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash 8ec8da7880dbf3b6fc53d8231f3231ee
+turn 840 200
+cmd 5 {"type":"gather","entities":[331],"target":348,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 023f8eb94f7b23973e856bf633d558dc
+turn 841 200
+end
+hash-quick 24aee92302f06ffcbe3f70094cf715f2
+turn 842 200
+end
+hash-quick 83920954808cb21f625ea60141d6666e
+turn 843 200
+cmd 4 {"type":"construct","template":"structures/gaul/field","x":261.2830810546875,"z":827.0994873046875,"angle":2.356194490192345,"actorSeed":30708,"entities":[199],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 3f39add0dc4366428c6701e48be9248a
+turn 844 200
+cmd 3 {"type":"gather","entities":[155,156,157,158],"target":2902,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 693832f7f7ec8836032386f9d1615ff1
+turn 845 200
+end
+hash-quick 0f1603f08a81f11123f726a22461636c
+turn 846 200
+end
+hash-quick cb065d370724ed2d47660704ca5567b7
+turn 847 200
+end
+hash-quick 48e1a7dc1c710d1de18fe20564fb0f22
+turn 848 200
+cmd 6 {"type":"construct","template":"structures/spart/farmstead","x":1166.949951171875,"z":721.1327514648438,"angle":2.356194490192345,"actorSeed":38845,"entities":[6653,6654],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 4 {"type":"set-rallypoint","entities":[198],"x":261.2830810546875,"z":827.0994873046875,"data":{"command":"repair","target":6662},"queued":false}
+cmd 7 {"type":"repair","entities":[6643,6644,6645],"target":6661,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 3f5bece50edd3af25632518c7e21f9bd
+turn 849 200
+end
+hash-quick 694e2b0d5acd98facb366a8b28279d7c
+turn 850 200
+cmd 4 {"type":"set-rallypoint","entities":[198],"x":261.2830810546875,"z":827.0994873046875,"data":{"command":"repair","target":6662},"queued":false}
+end
+hash-quick a6f34f83d5db754dae44b158c56d5fda
+turn 851 200
+cmd 3 {"type":"construct","template":"structures/ptol/house","x":590.2941284179688,"z":1025.5093994140625,"angle":2.356194490192345,"actorSeed":12308,"entities":[155,156,157,158],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 2 {"type":"construct","template":"structures/mace/field","x":246.85625858539922,"z":502.0007944240325,"angle":2.356201171875,"actorSeed":43325,"entities":[6519],"autorepair":true,"autocontinue":true,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 7a5ee4fb7b67e55caad20f92ad1c5795
+turn 852 200
+end
+hash-quick 1bf1ef59717f49cb3483f39d51d3045b
+turn 853 200
+cmd 8 {"type":"walk","entities":[383],"x":784.2767333984375,"z":282.124755859375,"queued":false,"pushFront":false}
+cmd 6 {"type":"repair","entities":[6653,6654],"target":6670,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 6 {"type":"gather","entities":[6653,6654],"target":6281,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick e1156b49abb98f60e51940c891d5efdb
+turn 854 200
+end
+hash-quick bef8dede22f5f0969222bfe38b13852d
+turn 855 200
+end
+hash-quick e0478a8538be3e8c8515c2edf0cd9f63
+turn 856 200
+end
+hash-quick da1a5805a1dac1447d0a91867a5d4a9a
+turn 857 200
+end
+hash-quick 1ccfa651b7f62c2f8b13e98d25ac03e6
+turn 858 200
+end
+hash-quick 993cc9250321f61d8c544439fdaa4d4d
+turn 859 200
+cmd 1 {"type":"repair","entities":[6663,6664,6665,6666,6667],"target":6608,"autocontinue":true,"queued":false,"pushFront":false}
+cmd 1 {"type":"repair","entities":[6663,6664,6665,6666,6667],"target":6608,"autocontinue":true,"queued":false,"pushFront":false}
+cmd 2 {"type":"set-rallypoint","entities":[245],"x":246.85626220703125,"z":502.00079345703125,"data":{"command":"repair","target":6672},"queued":false}
+end
+hash e85f9132070411f599e52fd9bbacf099
+turn 860 200
+end
+hash-quick c4166317f7e85fc18cc29f8ac9a7a222
+turn 861 200
+end
+hash-quick ee8d0ec6639e1e8b930486e8d0436d3a
+turn 862 200
+end
+hash-quick f71194fffe56abc0d4ae47a3dfb762bb
+turn 863 200
+end
+hash-quick 2d8c9f4d463dfbbd00c634b9c4cb72ab
+turn 864 200
+end
+hash-quick 503d05d37f954eec72e7867ff217571f
+turn 865 200
+cmd 7 {"type":"set-rallypoint","entities":[468],"x":974,"z":1094,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak_hungarian","target":1242},"queued":false}
+end
+hash-quick c08b971b6607c1cb496ba508290c09c1
+turn 866 200
+end
+hash-quick f2825049d91b9b11519939a71aa99657
+turn 867 200
+end
+hash-quick 3c4fa1ebfc1747942050ada233ea2efe
+turn 868 200
+cmd 2 {"type":"repair","entities":[6517,6518,6520,6521,6677,6678,6679,6680],"target":6672,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 2 {"type":"repair","entities":[6517,6518,6520,6521,6677,6678,6679,6680],"target":6672,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick aae4444fa6bd1ee44d457d93d59ed214
+turn 869 200
+end
+hash-quick 3d0a6be0930442dff5bba7f02d222e5b
+turn 870 200
+end
+hash-quick b68bddf60d041222d18f0ebb87a70fd1
+turn 871 200
+cmd 1 {"type":"construct","template":"structures/athen/farmstead","x":418.4483947753906,"z":168.0220947265625,"angle":2.356194490192345,"actorSeed":38839,"entities":[6663,6664,6665,6666,6667],"autorepair":true,"autocontinue":true,"queued":true,"pushFront":false}
+cmd 1 {"type":"gather","entities":[6663,6664,6665,6666,6667],"target":6286,"queued":true,"pushFront":false}
+cmd 2 {"type":"repair","entities":[6678,6679],"target":6672,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 2 {"type":"gather","entities":[6520,6521,6677,6680,6681],"target":6606,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 2 {"type":"repair","entities":[6517,6518,6520,6677,6678,6679],"target":6672,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 2 {"type":"repair","entities":[6517,6518,6520,6677,6678,6679],"target":6672,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 2 {"type":"repair","entities":[6517,6518,6520,6677,6678,6679],"target":6672,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 8 {"type":"walk","entities":[383],"x":965.851318359375,"z":372.3693542480469,"queued":false,"pushFront":false}
+cmd 8 {"type":"walk","entities":[383],"x":823.8475341796875,"z":458.95623779296875,"queued":false,"pushFront":false}
+cmd 4 {"type":"walk","entities":[6656,6657,6658,6659],"x":196.13116455078125,"z":802.7359619140625,"queued":false,"pushFront":false,"formation":"special/formations/box"}
+end
+hash-quick 0974ef37e2c0790d22c3f58947932561
+turn 872 200
+cmd 8 {"type":"walk","entities":[383],"x":821.1376953125,"z":443.4244384765625,"queued":false,"pushFront":false}
+end
+hash-quick e96f17653516433ba4b7651fb3e9a57f
+turn 873 200
+end
+hash-quick 22122fb7fc74c4fbde2320eb3e9d3c89
+turn 874 200
+end
+hash-quick 0abff00d26356d0be9646de8b6fd0862
+turn 875 200
+cmd 8 {"type":"walk","entities":[383],"x":870.6028442382812,"z":611.1585693359375,"queued":true,"pushFront":false}
+end
+hash-quick 567dd2017f4c6f20a944fbdc2c5c67a1
+turn 876 200
+cmd 2 {"type":"construct","template":"structures/mace/house","x":251.1305220721068,"z":480.74788851067274,"angle":2.356201171875,"actorSeed":18464,"entities":[6517,6518,6520,6677,6678,6679],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick b6cac15852a127d36d6317c7210eda66
+turn 877 200
+end
+hash-quick e570c7b07341db2ec221a4eeedc88ee8
+turn 878 200
+end
+hash-quick 5b1a81a62042349c9bc6d25a6b78d8c5
+turn 879 200
+cmd 2 {"type":"repair","entities":[6517,6518,6520,6677,6678,6679],"target":6672,"autocontinue":true,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+cmd 8 {"type":"walk","entities":[383],"x":1069.0506591796875,"z":672.8118896484375,"queued":true,"pushFront":false}
+end
+hash 44da71fa533c3008e7b3e35f4111dce8
+turn 880 200
+end
+hash-quick 567859d7fdf6a0b7aa8c68a6ba5d86b0
+turn 881 200
+end
+hash-quick 996f7283b2875153e00a21c9c2e89837
+turn 882 200
+end
+hash-quick b4683f99c0b3bbd1ab82fb28d5651ff2
+turn 883 200
+end
+hash-quick ac0f3ceb37b71168cd2d1bb6eb2f2147
+turn 884 200
+end
+hash-quick 2604619ae655295e0c8b42a294c128c9
+turn 885 200
+end
+hash-quick 51e337af22361c00320878ebf1e7a80c
+turn 886 200
+end
+hash-quick d715317028d3c1bd24a88d343aabe632
+turn 887 200
+end
+hash-quick 4d6b4eb5d989a64d86f54b341da3014a
+turn 888 200
+end
+hash-quick a671c2917c31d989ce9d26952175eadd
+turn 889 200
+end
+hash-quick 94306803d6157018a83a615c5e9e78cb
+turn 890 200
+end
+hash-quick 78386af04a4d6828fffd3b59922c7eae
+turn 891 200
+end
+hash-quick 8e614e5393c0235b7a580e6064234099
+turn 892 200
+cmd 8 {"type":"walk","entities":[383],"x":1160.048828125,"z":613.1915283203125,"queued":true,"pushFront":false}
+end
+hash-quick d655c7a7989a11c0a787809ab357d5e4
+turn 893 200
+end
+hash-quick d6f190009b00bf1196b105838309b392
+turn 894 200
+cmd 2 {"type":"gather","entities":[6598,6599,6600,6601,6602],"target":6258,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 2 {"type":"gather","entities":[6598,6599,6600,6601,6602],"target":6258,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 2 {"type":"gather","entities":[6598,6599,6600,6601,6602],"target":6258,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 8e98829f4572a10da0f5c38f12f4e49a
+turn 895 200
+end
+hash-quick afbf4a329253ea636adbcd3d51011979
+turn 896 200
+end
+hash-quick 21e0e8ab159a5a252fc9023438c85c5c
+turn 897 200
+cmd 1 {"type":"returnresource","entities":[293,294,295,296,6322,6323,6324,6386,6387,6388,6437,6438,6439,6440,6532,6534,6535],"target":6340,"queued":false,"pushFront":false}
+end
+hash-quick 6b408071e71443c60e27dfcc91bb4eb1
+turn 898 200
+end
+hash-quick 5e0c5c22a33fe1e2b7311c02696c486b
+turn 899 200
+end
+hash 18d76cc6e80942ddd18aeef118140adc
+turn 900 200
+end
+hash-quick e1ebb5d060f2699fd9e686d9cb1a3f0a
+turn 901 200
+end
+hash-quick 77d4a0e1e4d8599432d08d8bcac7e11f
+turn 902 200
+end
+hash-quick 2cdc02251de7d4d7bcf14589006fce32
+turn 903 200
+end
+hash-quick e39e471ea54cf7c7cecbed27b0fea31e
+turn 904 200
+end
+hash-quick e841e587ab3eab47ffecdada829454ea
+turn 905 200
+end
+hash-quick 89aefda89dac92df2fef8e21b16e139a
+turn 906 200
+end
+hash-quick c9f3c8fd67b63c32f3de706d311952c3
+turn 907 200
+cmd 8 {"type":"research","entity":6310,"template":"gather_capacity_basket"}
+cmd 7 {"type":"attack","entities":[477],"target":297,"queued":false,"pushFront":false,"allowCapture":false,"formation":"special/formations/null"}
+end
+hash-quick 2c5cd582572e0061f809e8202b2ede1a
+turn 908 200
+end
+hash-quick a9e0bc3ddda5ed4e1994616263566629
+turn 909 200
+end
+hash-quick 2ddba34c432c8c97f7d238541f9fb1fd
+turn 910 200
+end
+hash-quick 0bca8822ba125073c8c4a8ca6d4971fd
+turn 911 200
+end
+hash-quick 5453e33e1c8dc95921f7acbd7f940ecc
+turn 912 200
+end
+hash-quick 5569494bf12dccb30b350fcbeaa36bde
+turn 913 200
+end
+hash-quick 0c0bee58937ddd7f38f3527ab6f2f2fa
+turn 914 200
+cmd 2 {"type":"construct","template":"structures/mace/farmstead","x":136.79226684570312,"z":631.2263793945312,"angle":2.356201171875,"actorSeed":25430,"entities":[6598,6599,6600,6601,6602],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 343ea8c3fad3708ba62d26b97a834b1c
+turn 915 200
+cmd 1 {"type":"construct","template":"structures/athen/house","x":385.461669921875,"z":303.53094482421875,"angle":2.356194490192345,"actorSeed":53706,"entities":[293,294,295,296,6322,6323,6324,6386,6387,6388,6437,6438,6439,6440,6532,6534,6535],"autorepair":true,"autocontinue":true,"queued":true,"pushFront":false}
+end
+hash-quick ef495860470a90d8f78adc6b0c59f749
+turn 916 200
+end
+hash-quick 842e7d71686d7c59a30d42ec7a134739
+turn 917 200
+end
+hash-quick 05442ca73467aefbeda1f05f162813f7
+turn 918 200
+cmd 7 {"type":"walk","entities":[477],"x":858.3260498046875,"z":718.7608642578125,"queued":false,"pushFront":false,"formation":"special/formations/column_open"}
+end
+hash-quick cab286d3d9fbbfa9bcac2a810609c80f
+turn 919 200
+cmd 7 {"type":"walk","entities":[477],"x":858.3260498046875,"z":718.7608642578125,"queued":false,"pushFront":false,"formation":"special/formations/column_open"}
+end
+hash 882c4b29d1a8bca4d4d5ea13fcfe407e
+turn 920 200
+cmd 1 {"type":"gather","entities":[293,294,295,296,6322,6323,6324,6386,6387,6388,6437,6438,6439,6440,6532,6534,6535],"target":3398,"queued":true,"pushFront":false}
+end
+hash-quick 7bbfaca19b05f169ca7c0cc8c46d8215
+turn 921 200
+end
+hash-quick bd7f5be26018fbadaf093fd0849f6e40
+turn 922 200
+end
+hash-quick a71cad8e0bcfa4a10f8519e05886a7e3
+turn 923 200
+end
+hash-quick be3fa947f0ffdd17b2449c297c642e57
+turn 924 200
+end
+hash-quick 37a8aa69ccf7ee18834893dbac445cc0
+turn 925 200
+end
+hash-quick 4a1303d404afe0fd34c96b7973e49a07
+turn 926 200
+end
+hash-quick 91c614aa361a5b7c247a6fbcd3992369
+turn 927 200
+end
+hash-quick 491f8eea8178a179471191f8a8397649
+turn 928 200
+cmd 8 {"type":"construct","template":"structures/gaul/field","x":1071.2960205078125,"z":436.9007568359375,"angle":2.356194490192345,"actorSeed":15642,"entities":[6362],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 0a7017e22b3c4bf1bd10d65598763c48
+turn 929 200
+end
+hash-quick 479772194837fe43d95a664e2b4c639a
+turn 930 200
+end
+hash-quick 0b2786afd66a0185a7b63ce0be6e0abd
+turn 931 200
+end
+hash-quick 4b1a1f2668ef12c3858f5bdf0b157ab9
+turn 932 200
+end
+hash-quick 9d6dff7e64859820368a274da5ea690f
+turn 933 200
+end
+hash-quick f79ec6d041f5c71308261d06c66a79aa
+turn 934 200
+cmd 3 {"type":"walk","entities":[159,6728,6729,6727,6726],"x":668.7576293945312,"z":1105.342529296875,"queued":false,"pushFront":false,"formation":"special/formations/line_closed"}
+end
+hash-quick 7b900ba36d6ccf75168c1011dc3715d1
+turn 935 200
+end
+hash-quick 1b887425e27d2ddcf8097326fc5693b4
+turn 936 200
+end
+hash-quick 4e8df35ce13a68c2a682bed0517f92e9
+turn 937 200
+end
+hash-quick 52add0b150b192edb168d8af6afe4cd0
+turn 938 200
+end
+hash-quick 93366d3fab2d6f1effcab20ec5377127
+turn 939 200
+end
+hash b0460ca637c9ae1f53537e818dc22ca5
+turn 940 200
+cmd 3 {"type":"set-rallypoint","entities":[150],"x":482,"z":1110,"data":{"command":"gather","resourceType":{"generic":"stone","specific":"rock"},"resourceTemplate":"gaia/rock/temperate_large_02","target":166},"queued":false}
+cmd 2 {"type":"walk","entities":[254],"x":89.69227600097656,"z":391.854736328125,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[254],"x":314.8445129394531,"z":384.4063720703125,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[254],"x":318.20501708984375,"z":384.4568786621094,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[254],"x":321.8993835449219,"z":383.03466796875,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[254],"x":322.12542724609375,"z":381.347900390625,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[254],"x":322.87286376953125,"z":381.3479309082031,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[254],"x":322.597900390625,"z":380.7903747558594,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[254],"x":322.89630126953125,"z":380.7904052734375,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[254],"x":322.21246337890625,"z":379.4068603515625,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[254],"x":321.5357666015625,"z":378.0377197265625,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[254],"x":357.0201721191406,"z":377.1077880859375,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[254],"x":343.88433837890625,"z":380.1831970214844,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[254],"x":342.8392333984375,"z":380.1831970214844,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[254],"x":341.7940979003906,"z":380.18316650390625,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[254],"x":341.04754638671875,"z":380.18316650390625,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[254],"x":333.68267822265625,"z":380.45928955078125,"queued":false,"pushFront":false}
+cmd 6 {"type":"walk","entities":[6581,6582,6616,6617],"x":976.6137084960938,"z":797.8098754882812,"queued":false,"pushFront":false}
+cmd 6 {"type":"construct","template":"structures/spart/farmstead","x":985.5018920898438,"z":800.99609375,"angle":2.356194490192345,"actorSeed":24705,"entities":[6554,6555,6581,6582,6616,6617],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 6 {"type":"train","entities":[6732],"template":"units/spart/infantry_javelineer_b","count":2}
+cmd 6 {"type":"autoqueue-on","entities":[6732]}
+end
+hash-quick b14fae4add3a52aeb3f21c826ac15379
+turn 941 200
+cmd 2 {"type":"walk","entities":[254],"x":333.68267822265625,"z":380.45928955078125,"queued":false,"pushFront":false}
+end
+hash-quick 9c1921e1a4febf33fab7acc3270d41a2
+turn 942 200
+end
+hash-quick 11364831245af024a08b7c26680fc31e
+turn 943 200
+cmd 5 {"type":"train","entities":[330],"template":"units/gaul/support_female_citizen","count":8}
+cmd 6 {"type":"set-rallypoint","entities":[6732],"x":982,"z":694,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak","target":2508},"queued":false}
+end
+hash-quick 96978d1c18ee8950372f9410c4d6b495
+turn 944 200
+end
+hash-quick 7b909840ebb0c37e9790d7d62d70d433
+turn 945 200
+end
+hash-quick 7663b2d27241329cad97361c0620f308
+turn 946 200
+end
+hash-quick d3fb407887c37339a40e9ab63571b447
+turn 947 200
+end
+hash-quick 4a2a6448bd438d222795e524dc6b7d4a
+turn 948 200
+cmd 2 {"type":"walk","entities":[254],"x":320.23138427734375,"z":380.45928955078125,"queued":false,"pushFront":false}
+end
+hash-quick 3df755030c08bc20ea6d31cb2b8fb67f
+turn 949 200
+end
+hash-quick c29135d89009e809ac9979362c7a4e39
+turn 950 200
+end
+hash-quick f4b379557498603ad32177a82e788096
+turn 951 200
+end
+hash-quick 77232c356e9cf14748fbfae115477ffe
+turn 952 200
+end
+hash-quick 027fd2e5f5545e40004812b1a4c5239f
+turn 953 200
+cmd 2 {"type":"walk","entities":[254],"x":326.4619140625,"z":376.37762451171875,"queued":false,"pushFront":false}
+end
+hash-quick 47c69eb2aa25d86929dcba1a98969731
+turn 954 200
+end
+hash-quick 733dcf003bea14fc76abd13023a9d53d
+turn 955 200
+end
+hash-quick 9c1b479e4167dfef717717894fe1302c
+turn 956 200
+end
+hash-quick e2f315b8c07d2c57c7f3f4c52ca858df
+turn 957 200
+cmd 8 {"type":"construct","template":"structures/gaul/storehouse","x":968.0280151367188,"z":499.20263671875,"angle":2.356194490192345,"actorSeed":22539,"entities":[376,378,6496,6498,6538,6593,6594,6595,6703],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 3583f9df2a74304b234234a428964481
+turn 958 200
+end
+hash-quick e6f37f6b40f4b0995ac71043d80b6e35
+turn 959 200
+end
+hash a2d5dab9c33f74e6cc4f0913c2a6a348
+turn 960 200
+end
+hash-quick f351d07083df9f1837d0b991c8bda45d
+turn 961 200
+cmd 2 {"type":"walk","entities":[254],"x":323.974365234375,"z":378.0931396484375,"queued":false,"pushFront":false}
+end
+hash-quick 5d84eb936cab13c68dee11de70a776fd
+turn 962 200
+end
+hash-quick 92eca6375d1e39e0876ae21b6d999f2f
+turn 963 200
+end
+hash-quick 62ad0f66e8919d520928c1179ad805c2
+turn 964 200
+end
+hash-quick 1ee742fa7d6e893f673810868375d829
+turn 965 200
+cmd 2 {"type":"walk","entities":[254],"x":323.974365234375,"z":378.0931396484375,"queued":false,"pushFront":false}
+cmd 5 {"type":"set-rallypoint","entities":[330],"x":777.86376953125,"z":170.0596923828125,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak","target":342},"queued":false}
+end
+hash-quick 6353b5a11fe753b7fd28544451083406
+turn 966 200
+end
+hash-quick d828725ad3b7256d0b1706826d58fd11
+turn 967 200
+end
+hash-quick c5cfd8c3879368addb0ef955321e1884
+turn 968 200
+end
+hash-quick 6eaeb6f8109c230d5c9bddb06046fdd9
+turn 969 200
+end
+hash-quick 49c3fc3ec452f873b227fec7b36dd05e
+turn 970 200
+cmd 2 {"type":"walk","entities":[254],"x":324.77166748046875,"z":386.2785949707031,"queued":false,"pushFront":false}
+end
+hash-quick 17ac2aa49b427395bbe69fce5e03a04f
+turn 971 200
+cmd 3 {"type":"walk","entities":[159,6726,6727,6728,6729],"x":630.2105712890625,"z":1078.5732421875,"queued":false,"pushFront":false,"formation":"special/formations/line_closed"}
+cmd 3 {"type":"gather","entities":[159,6726,6727,6728,6729],"target":5978,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 2 {"type":"walk","entities":[254],"x":327.6575012207031,"z":377.9852600097656,"queued":false,"pushFront":false}
+end
+hash-quick f3b87e37ff67acaaa9b26c28524019c2
+turn 972 200
+cmd 5 {"type":"walk","entities":[337],"x":690.9367065429688,"z":214.81838989257812,"queued":false,"pushFront":false}
+end
+hash-quick 23f159d39b534aad3be6eadb85af54dd
+turn 973 200
+cmd 5 {"type":"walk","entities":[337],"x":739.7725830078125,"z":184.86032104492188,"queued":false,"pushFront":false}
+end
+hash-quick 70319b4d30d57b46c8916ad5f2bc5d7a
+turn 974 200
+cmd 2 {"type":"walk","entities":[254],"x":327.1343994140625,"z":377.415771484375,"queued":false,"pushFront":false}
+end
+hash-quick 019564ab7328b97d349b2c13c346fe78
+turn 975 200
+end
+hash-quick 8de37569bc00ea0a3c3137af15d71d01
+turn 976 200
+end
+hash-quick 42ce291eb06cee7067a33b890eb9b321
+turn 977 200
+cmd 8 {"type":"train","entities":[374],"template":"units/gaul/support_female_citizen","count":2}
+end
+hash-quick a4f7c0224f164eeae77a511183797aa3
+turn 978 200
+cmd 2 {"type":"walk","entities":[254],"x":324.2795104980469,"z":366.44110107421875,"queued":false,"pushFront":false}
+end
+hash-quick 8b8466d9fd45b63ce45ce04a4b6ce646
+turn 979 200
+end
+hash 6e40b915fde314bb75afcb20ae986c1d
+turn 980 200
+end
+hash-quick f243291666c24192aeab59b214ee6d86
+turn 981 200
+end
+hash-quick f722d20d0263d632476c5e01759d3874
+turn 982 200
+end
+hash-quick beb6284e377c32ebc3933965c609a940
+turn 983 200
+cmd 2 {"type":"walk","entities":[254],"x":316.462890625,"z":381.85833740234375,"queued":false,"pushFront":false}
+cmd 6 {"type":"train","entities":[422],"template":"units/spart/support_female_citizen","count":1}
+end
+hash-quick 2744b920b28185f48770d2fcbcad8189
+turn 984 200
+cmd 6 {"type":"autoqueue-on","entities":[422]}
+end
+hash-quick 9d301d777bb79f54882fe146053a4506
+turn 985 200
+end
+hash-quick 52bb86c34853475bea184107a500d0f5
+turn 986 200
+end
+hash-quick 66b4d333f918860e1d2ee37a1ad3b849
+turn 987 200
+cmd 5 {"type":"construct","template":"structures/gaul/storehouse","x":734.332275390625,"z":127.89199829101562,"angle":2.356194490192345,"actorSeed":27940,"entities":[337],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 062d82b5f76d7a44a872b1f776953b58
+turn 988 200
+end
+hash-quick ad25a454f4549aba9e5c3345c91cb623
+turn 989 200
+end
+hash-quick 879b94dc5097d4b2225002e35c294758
+turn 990 200
+cmd 3 {"type":"research","entity":6480,"template":"gather_lumbering_ironaxes"}
+end
+hash-quick 9261cd4fcd1921ac69bbb3b5379c390c
+turn 991 200
+end
+hash-quick 3329332dea6ab156d7653d41a025acc3
+turn 992 200
+cmd 1 {"type":"train","entities":[6733],"template":"units/athen/infantry_slinger_b","count":4}
+end
+hash-quick 5fd6fd7a73e36f16e0df509a75e5d9d2
+turn 993 200
+end
+hash-quick 8bbc11eb96b2b76f2e933f2a62016885
+turn 994 200
+cmd 2 {"type":"gather","entities":[254],"target":5996,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick a8fa79bdad682b911878a0d7ce33fbfd
+turn 995 200
+end
+hash-quick 72ba080284b8d3d416a2a5aab5960b49
+turn 996 200
+cmd 1 {"type":"set-rallypoint","entities":[6733],"x":394,"z":350,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/pine","target":3406},"queued":false}
+end
+hash-quick 96ef06274c2e3d06e0cb14c8767bac26
+turn 997 200
+end
+hash-quick 7463f7fe3a81ff3b883cb6690c7a9dc2
+turn 998 200
+end
+hash-quick 068d73f7fe6a7ae8bc1e170f905218b6
+turn 999 200
+end
+hash 88476edb6142423145804a727b72d155
+turn 1000 200
+cmd 6 {"type":"gather","entities":[6653,6654,6710,6711,6746,6747],"target":6281,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 26298f42b79b41ef36cede648e5a46e3
+turn 1001 200
+end
+hash-quick 7ef7c383cda7567870d14b141c8e7af1
+turn 1002 200
+end
+hash-quick 9dbdfe88d3fb89b9e61739510d437a9a
+turn 1003 200
+end
+hash-quick 337c1b001def1ad4535bdc455dbf3eec
+turn 1004 200
+cmd 6 {"type":"repair","entities":[6653,6654,6710,6711,6746,6747],"target":6669,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick dcbb1816863f7655b11882d785b81571
+turn 1005 200
+end
+hash-quick 4851c85615c075346e737627f7e0417c
+turn 1006 200
+end
+hash-quick 514bf8d50b4c3bb4f718c275e6c8d122
+turn 1007 200
+cmd 6 {"type":"gather","entities":[6653,6654,6710,6711,6746,6747],"target":6281,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 3454774ea5e3d9c70fe96e9ff0c3fc9b
+turn 1008 200
+end
+hash-quick 442bb0e216c56a24c02502bfdc507395
+turn 1009 200
+end
+hash-quick 84c846039bcd0b6e9ee7011386892230
+turn 1010 200
+end
+hash-quick 200e0d3c9d1098ae4ae6359641dbe28a
+turn 1011 200
+end
+hash-quick 7155167101d8b6125b2ec3e420346ab2
+turn 1012 200
+end
+hash-quick 338e0d2a47468ee65c0f0669d166cc45
+turn 1013 200
+cmd 2 {"type":"train","entities":[245],"template":"units/mace/support_female_citizen","count":10}
+cmd 8 {"type":"set-rallypoint","entities":[374],"x":1071.2960205078125,"z":436.9007568359375,"data":{"command":"repair","target":6730},"queued":false}
+end
+hash-quick ef491160a7826485a22ffa0e8932fdf4
+turn 1014 200
+end
+hash-quick a5dd1e40d2616d8f78ec19308a0ece7e
+turn 1015 200
+end
+hash-quick 41a80c6cc5f3f47de166177f608898e9
+turn 1016 200
+end
+hash-quick dcb9b647af085d401615b6d78cbb4589
+turn 1017 200
+cmd 1 {"type":"repair","entities":[6663,6664,6665,6666,6667],"target":6693,"autocontinue":true,"queued":false,"pushFront":false}
+cmd 6 {"type":"set-rallypoint","entities":[422],"x":1002,"z":694,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak","target":2455},"queued":false}
+end
+hash-quick 60d687cced9e03039d30705a66dcf33b
+turn 1018 200
+cmd 5 {"type":"construct","template":"structures/gaul/barracks","x":760.7880249023438,"z":127.09370422363281,"angle":2.356194490192345,"actorSeed":39030,"entities":[6507,6508,6509],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick bf9636fed6b34e71e5913f9994014c0b
+turn 1019 200
+end
+hash fa3fe5fedda28c9347d6b22c8e272b41
+turn 1020 200
+end
+hash-quick 17d2eea80929b95766b07d4cd3e06753
+turn 1021 200
+cmd 1 {"type":"gather","entities":[6663,6664,6665,6666,6667],"target":6286,"queued":true,"pushFront":false}
+end
+hash-quick 9c0e208943b1345865ec23bd0ec5f00a
+turn 1022 200
+cmd 5 {"type":"gather","entities":[6507,6508,6509],"target":342,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 5cd52ecddca6de53b33ba8f3dfd35973
+turn 1023 200
+cmd 6 {"type":"walk","entities":[6529,6530],"x":1062.08154296875,"z":737.68505859375,"queued":false,"pushFront":false}
+end
+hash-quick 9ac38a3bcd0091688d4e0256c106317b
+turn 1024 200
+end
+hash-quick a511a776568872d0d1f8ef0ea144c350
+turn 1025 200
+end
+hash-quick dfe5733b2affbafb3e4c4f597f9c5e13
+turn 1026 200
+cmd 5 {"type":"walk","entities":[331,332,6394,6410,6436,6459],"x":765.4421997070312,"z":179.61929321289062,"queued":false,"pushFront":false}
+end
+hash-quick 7134f35d7d25f6d1ab292c10af3fde5a
+turn 1027 200
+end
+hash-quick 63add0f5e508983562cfd73d81473d7b
+turn 1028 200
+cmd 3 {"type":"set-rallypoint","entities":[150],"x":482,"z":1110,"data":{"command":"gather","resourceType":{"generic":"stone","specific":"rock"},"resourceTemplate":"gaia/rock/temperate_large_02","target":166},"queued":false}
+end
+hash-quick d5f1a5a1a8410d3e9d069f1209f4ea3f
+turn 1029 200
+end
+hash-quick 3e40749ad5bb38402dae9a0a1b39b1f3
+turn 1030 200
+end
+hash-quick 596a6c5a06a533170d1a4c647b731618
+turn 1031 200
+cmd 5 {"type":"gather","entities":[331,332,6394,6410,6436,6459],"target":342,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick d6493603c5c37d7772ac155491c627a3
+turn 1032 200
+end
+hash-quick 6f1a2fa9265dc2358197f658ff21fd73
+turn 1033 200
+end
+hash-quick e0694e34cf1b182dfda30fb9980c29e6
+turn 1034 200
+end
+hash-quick 3d291e43ba22dbae8ab7e27e14cd65ed
+turn 1035 200
+end
+hash-quick 016083ed0c64bb57a3c78469547f2d54
+turn 1036 200
+end
+hash-quick a01b8ede3b1d6562f8cca74792513b42
+turn 1037 200
+end
+hash-quick 8958c2b5d94701ec9b7f5cbcc5ce1213
+turn 1038 200
+end
+hash-quick 039898ac708eaa1858c2b4f64b58b243
+turn 1039 200
+end
+hash 7f4afe6e715d11c5c92997875ea02006
+turn 1040 200
+cmd 2 {"type":"construct","template":"structures/mace/field","x":189.92279895030342,"z":489.22711582268556,"angle":2.356201171875,"actorSeed":15534,"entities":[246,247,248,249,6447,6448],"autorepair":true,"autocontinue":true,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick cc4c33716f5da2262374220b349679b3
+turn 1041 200
+end
+hash-quick a1b6013405fc4beca2ac80fb1f60e725
+turn 1042 200
+cmd 3 {"type":"walk","entities":[151,152,153,154,6430,6432,6433],"x":621.8010864257812,"z":1073.8935546875,"queued":false,"pushFront":false,"formation":"special/formations/line_closed"}
+end
+hash-quick 57152fa34789401fdd2530c8df150ec9
+turn 1043 200
+cmd 8 {"type":"gather","entities":[375,377,379,380,381,382,6497,6499,6537,6592,6701,6702,6704],"target":4478,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 9470ddfa75ba9168c1d5c467fae38bec
+turn 1044 200
+end
+hash-quick 6cc22ec457ab04fb85921525e3e1a916
+turn 1045 200
+end
+hash-quick 43fbeac8431fac3a25b8a83454a6a0ed
+turn 1046 200
+end
+hash-quick 1c6cb7efe16bd02bad295000905df44a
+turn 1047 200
+end
+hash-quick fb126aec54925980d62989167c0c3018
+turn 1048 200
+end
+hash-quick 4acddea8a539a5f4b71584b448cfe2f6
+turn 1049 200
+end
+hash-quick 8a1ec6f2710af0fe4dac3fd3086abad2
+turn 1050 200
+end
+hash-quick 8d8456593ebbe7e01e20b08738af9700
+turn 1051 200
+end
+hash-quick 057fe154db1e0e69facf0236405d3596
+turn 1052 200
+cmd 3 {"type":"construct","template":"structures/ptol/farmstead","x":635.858154296875,"z":1091.67236328125,"angle":2.356194490192345,"actorSeed":59635,"entities":[151,152,153,154,6430,6432,6433],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 465d3706cf18492e30dfbd9fb7169450
+turn 1053 200
+end
+hash-quick db6c8951ea03850268b655efa35b9a16
+turn 1054 200
+end
+hash-quick ed484b6a21bfe9ff0eb99b1c546a0aa8
+turn 1055 200
+cmd 1 {"type":"train","entities":[288],"template":"units/athen/support_female_citizen","count":1}
+end
+hash-quick 6cd0e5d723d7b1f60e4caf2d91b833bd
+turn 1056 200
+cmd 5 {"type":"returnresource","entities":[6394],"target":330,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 5 {"type":"returnresource","entities":[6394],"target":330,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick ad08f49c99eefc3fa5041309f0e5d96f
+turn 1057 200
+end
+hash-quick d379e293806060beab081a5813810958
+turn 1058 200
+end
+hash-quick fb70007cc118570e96e9edb0b9a6156e
+turn 1059 200
+cmd 6 {"type":"walk","entities":[6529,6530],"x":1068.80322265625,"z":712.4393310546875,"queued":false,"pushFront":false}
+end
+hash 42c290e0934e1fabeb75a0ae30921453
+turn 1060 200
+end
+hash-quick 5ade422f865cdf7fd44fa7e1d3227c70
+turn 1061 200
+cmd 1 {"type":"set-rallypoint","entities":[288],"x":418.4483947753906,"z":168.0220947265625,"data":{"command":"repair","target":6693},"queued":false}
+end
+hash-quick 5d9f682fa7fbfd4d8dacff2f3c4021a1
+turn 1062 200
+end
+hash-quick d945fbd172554bace935d4b66a30bd83
+turn 1063 200
+cmd 5 {"type":"construct","template":"structures/gaul/field","x":794.7905883789062,"z":191.57009887695312,"angle":2.356194490192345,"actorSeed":26349,"entities":[6394],"autorepair":true,"autocontinue":true,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick f71e5fc28b27f5cfac5e72926f73bae7
+turn 1064 200
+cmd 1 {"type":"set-rallypoint","entities":[288],"x":415.37908935546875,"z":176.48822021484375,"data":{"command":"gather","resourceType":{"generic":"food","specific":"fruit"},"resourceTemplate":"gaia/fruit/apple","target":6286},"queued":true}
+end
+hash-quick 1669c63748ba2e1893b611fcb41fae73
+turn 1065 200
+cmd 8 {"type":"train","entities":[374],"template":"units/gaul/infantry_javelineer_b","count":2}
+end
+hash-quick 224926204b369040b9d1c1cd6c0176e7
+turn 1066 200
+end
+hash-quick e97dc72ff341ca00a31a5e1d9bc9f61a
+turn 1067 200
+end
+hash-quick 039a3a3fbf7e9c1ff89f3388a0845b64
+turn 1068 200
+cmd 6 {"type":"construct","template":"structures/spart/house","x":1059.99072265625,"z":696.176513671875,"angle":2.356194490192345,"actorSeed":16222,"entities":[6529,6530],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick beaa1a7db7c7284b601ac2bb70cd08b8
+turn 1069 200
+end
+hash-quick efc39021d9b5146f49da3a918e810242
+turn 1070 200
+end
+hash-quick 2343916f9a55f229a4a798031c53c596
+turn 1071 200
+end
+hash-quick 506b0d08b9d1f5aef3f2e7ddadc05a79
+turn 1072 200
+end
+hash-quick 11560a0228448f453eaf0d6ffa795b09
+turn 1073 200
+end
+hash-quick f8ed000046adf89ef233b480c94a0e29
+turn 1074 200
+cmd 1 {"type":"walk","entities":[297],"x":766.0719604492188,"z":650.7981567382812,"queued":false,"pushFront":false}
+cmd 5 {"type":"construct","template":"structures/gaul/field","x":811.9526977539062,"z":208.012451171875,"angle":2.356194490192345,"actorSeed":29982,"entities":[6394],"autorepair":true,"autocontinue":true,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick c521b347387198dce16e812c0ffff91b
+turn 1075 200
+end
+hash-quick 812ec0253cebe3a4db26fca1f9668095
+turn 1076 200
+end
+hash-quick fda80aa6fa82716fd51e40d57cdb02c6
+turn 1077 200
+end
+hash-quick 48eca80e71cb30322f56d142a2f928a4
+turn 1078 200
+end
+hash-quick 7454ab94f7b0e6fb482b01f3ee6ad0cb
+turn 1079 200
+cmd 3 {"type":"construct","template":"structures/ptol/house","x":535.5038452148438,"z":948.2916259765625,"angle":2.356194490192345,"actorSeed":47160,"entities":[155,156,157,158],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash 7849370efbae2607590e7e79734dec03
+turn 1080 200
+cmd 1 {"type":"walk","entities":[297],"x":710.9566040039062,"z":574.8955078125,"queued":false,"pushFront":false}
+end
+hash-quick cc93dff20db457c1980abddeea719394
+turn 1081 200
+end
+hash-quick 6bc4734888c576d73c9942a9a87d8985
+turn 1082 200
+end
+hash-quick 8f0217a768851d007cc9c8162f06a58b
+turn 1083 200
+end
+hash-quick ba467871579b2c5b6b41e061b333f110
+turn 1084 200
+end
+hash-quick 393eacda3b0f7b65fa3cbb68be7eec58
+turn 1085 200
+end
+hash-quick 0f7ca839f1ecc42bd9428ea84f2652d8
+turn 1086 200
+cmd 3 {"type":"construct","template":"structures/ptol/house","x":517.756591796875,"z":940.8062744140625,"angle":2.356194490192345,"actorSeed":4523,"entities":[155,156,157,158],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 994bf6dc00bc1b4db7910245c5b5d6f3
+turn 1087 200
+end
+hash-quick 0024d48dd7896cc94990c5eedbe2df2f
+turn 1088 200
+end
+hash-quick 61ebe128577567ac583967704cbe9d86
+turn 1089 200
+end
+hash-quick 05ec567a1976b5350be0528430eb4ef1
+turn 1090 200
+cmd 1 {"type":"gather","entities":[297],"target":6015,"queued":false,"pushFront":false}
+end
+hash-quick ff5cb052d2254d598651775384db7ed8
+turn 1091 200
+end
+hash-quick ca0a6cda7e00de7685cd0ad0f9dafdbb
+turn 1092 200
+cmd 1 {"type":"gather","entities":[297],"target":6011,"queued":true,"pushFront":false}
+cmd 8 {"type":"construct","template":"structures/gaul/house","x":955.9697265625,"z":480.78643798828125,"angle":2.356194490192345,"actorSeed":45166,"entities":[377,6592],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 1e6ebd7f680aada5f53633cc504cdc97
+turn 1093 200
+cmd 5 {"type":"set-rallypoint","entities":[6769],"x":718,"z":130,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak","target":2292},"queued":false}
+cmd 6 {"type":"train","entities":[422],"template":"units/spart/support_female_citizen","count":2}
+end
+hash-quick 0537fab6b22ba4e5d3edc416a638e24a
+turn 1094 200
+cmd 1 {"type":"walk","entities":[297],"x":518.450439453125,"z":495.31024169921875,"queued":true,"pushFront":false}
+cmd 3 {"type":"set-rallypoint","entities":[150],"x":482,"z":1110,"data":{"command":"gather","resourceType":{"generic":"stone","specific":"rock"},"resourceTemplate":"gaia/rock/temperate_large_02","target":166},"queued":false}
+end
+hash-quick 9d4b46d257e2b0d17360aa9a97e6e7ec
+turn 1095 200
+end
+hash-quick 02961cf3e948578ed01ead9da1a99a99
+turn 1096 200
+cmd 6 {"type":"autoqueue-on","entities":[422]}
+end
+hash-quick abde7ce51db78f6b5eed334c854b8535
+turn 1097 200
+end
+hash-quick a71f95da81ecda669b70b45f5770c6f9
+turn 1098 200
+end
+hash-quick 68afe959dba943d7078c12b1328fbd2e
+turn 1099 200
+end
+hash 65393e3358b2f4b5b698e2e0c97b1040
+turn 1100 200
+end
+hash-quick 73baceb2020d96a1a7ed55d7d9ec9288
+turn 1101 200
+end
+hash-quick 52dacd4b90d94d5c97445ec7af2bcc76
+turn 1102 200
+end
+hash-quick db2fa1d13fd69d52dc000b510f2aa31a
+turn 1103 200
+end
+hash-quick 81f164de9d144b1074bd95c561a2c427
+turn 1104 200
+end
+hash-quick 128d701c3ac41b3950a4cafda83d8c80
+turn 1105 200
+cmd 1 {"type":"train","entities":[288],"template":"units/athen/support_female_citizen","count":1}
+cmd 6 {"type":"set-rallypoint","entities":[422],"x":1059.4354248046875,"z":739.921142578125,"data":{"command":"walk"},"queued":false}
+end
+hash-quick 0eb838129a1c89a23559c4ec343c3d6d
+turn 1106 200
+cmd 5 {"type":"returnresource","entities":[332],"target":330,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 51378d9b01a06726a0cec5240dd7732a
+turn 1107 200
+end
+hash-quick df1076c185825b53c573df9e1c960409
+turn 1108 200
+cmd 2 {"type":"set-rallypoint","entities":[245],"x":106,"z":494,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/pine","target":4015},"queued":false}
+end
+hash-quick 3c0b7c5128af05201fa38364ee2fd399
+turn 1109 200
+end
+hash-quick fc6e51b41c8c78fb6cd2ea09c255284b
+turn 1110 200
+end
+hash-quick 46e21dab3055b71c11a36c32e11b62c2
+turn 1111 200
+end
+hash-quick 2df92e63614bb74b5d599a622cb79101
+turn 1112 200
+end
+hash-quick e1b9f520cbda138aea0a5e63dacf1625
+turn 1113 200
+end
+hash-quick 0b1f6514d5903aecdad51da703c67373
+turn 1114 200
+end
+hash-quick 5129dfedd56d5806ee1d731042c0347a
+turn 1115 200
+end
+hash-quick 0072ef50638ca62583d5689228d2cc1c
+turn 1116 200
+end
+hash-quick 6f99e51efa503b8ac932525f89fc00d9
+turn 1117 200
+cmd 5 {"type":"construct","template":"structures/gaul/field","x":795.5615234375,"z":229.15069580078125,"angle":2.356194490192345,"actorSeed":30658,"entities":[332],"autorepair":true,"autocontinue":true,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick a79888d9ebc30d2e583d2e8a05889abc
+turn 1118 200
+end
+hash-quick 446edad37a44a720d00b90f860d46d45
+turn 1119 200
+end
+hash f784908af989fe1b3623e65ad980461d
+turn 1120 200
+end
+hash-quick 4246e8bf71bb27ccc7ebdc4afccc396c
+turn 1121 200
+end
+hash-quick 5b2f54c2e943fb5baf3823193566c304
+turn 1122 200
+end
+hash-quick bae3eaf8ffab6f8dc16c38c79bb1f904
+turn 1123 200
+end
+hash-quick 84b6696a283624a6539b93af2a61533f
+turn 1124 200
+end
+hash-quick 612aa7ad719ad559dd1c24113fded655
+turn 1125 200
+end
+hash-quick d36233963fa76dd8ca4d08a225016572
+turn 1126 200
+cmd 1 {"type":"returnresource","entities":[6536,6584,6586,6587,6588],"target":6340,"queued":false,"pushFront":false}
+end
+hash-quick 8d25e2b07ce81e9fd91c9083cf39763a
+turn 1127 200
+cmd 1 {"type":"returnresource","entities":[6536,6584,6586,6587,6588],"target":6340,"queued":false,"pushFront":false}
+cmd 8 {"type":"gather","entities":[6360],"target":4481,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 37cc7dd4f4fe4c21b4bd5cc692ffe051
+turn 1128 200
+end
+hash-quick 89f3ed8ac4e038503a9fc37d0608b63f
+turn 1129 200
+cmd 3 {"type":"gather","entities":[6342,6343,6344,6345,6346],"target":162,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 75e76259823e9399284300ddb4042478
+turn 1130 200
+end
+hash-quick fbc89ddcb8b929520c10fd17d068d320
+turn 1131 200
+end
+hash-quick a543aa70ee9442c8bc963aacd0fff9c9
+turn 1132 200
+cmd 2 {"type":"construct","template":"structures/mace/barracks","x":125.17778015136719,"z":499.6169128417969,"angle":2.356194490192345,"actorSeed":12237,"entities":[6365,6366,6367,6368,6412,6413],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 344d339d566f2b03053b49b095a10bdc
+turn 1133 200
+end
+hash-quick add0e3b56c6c0904da89b882bf6f7934
+turn 1134 200
+end
+hash-quick 1ca57ad5734de822b235a41151f5ce65
+turn 1135 200
+cmd 2 {"type":"gather","entities":[6365,6366,6367,6368,6412,6413],"target":4047,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 2 {"type":"gather","entities":[6365,6366,6367,6368,6412,6413],"target":4047,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick aa31ce44b0f5227b787f06bc983c5ff3
+turn 1136 200
+cmd 1 {"type":"construct","template":"structures/athen/field","x":431.95416259765625,"z":282.72021484375,"angle":2.356194490192345,"actorSeed":59422,"entities":[6536,6584,6586,6587,6588],"autorepair":true,"autocontinue":true,"queued":true,"pushFront":false}
+end
+hash-quick cfb1fe1fcc849bd99cc0be2909bebbfb
+turn 1137 200
+end
+hash-quick f975454953463b8ae2b20ae5c6e70f13
+turn 1138 200
+end
+hash-quick 4b26c755b190215a4165626c4e69b1e8
+turn 1139 200
+end
+hash 178f21b0b56bc915b36ef20e94d4323a
+turn 1140 200
+end
+hash-quick 0ee9f3ea34f3f2e987e1d23118195ba3
+turn 1141 200
+cmd 1 {"type":"walk","entities":[289,290,291,292,6456],"x":502.52972412109375,"z":343.1748352050781,"queued":false,"pushFront":false}
+end
+hash-quick a65feb15b6bed3be3162fa28952dd6e8
+turn 1142 200
+end
+hash-quick 8bfe814066bf8b8ed5e1e2c0fb1782e9
+turn 1143 200
+cmd 2 {"type":"repair","entities":[6365,6366,6367,6368,6412,6413],"target":6821,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick b2dd788c304c00db0f2a2c99b306b605
+turn 1144 200
+end
+hash-quick 8da28cfd7e75e1a2b491f63188ac4d04
+turn 1145 200
+cmd 3 {"type":"walk","entities":[151,152,153,154,6430,6432,6433],"x":611.1626586914062,"z":1074.63916015625,"queued":false,"pushFront":false,"formation":"special/formations/line_closed"}
+end
+hash-quick d0308b475fb3bf78afa5c3f2e47e5ef6
+turn 1146 200
+cmd 2 {"type":"gather","entities":[6365,6366,6367,6368,6412,6413],"target":4048,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 41394f3b07671bcfe259bb984d23ad3c
+turn 1147 200
+cmd 1 {"type":"construct","template":"structures/athen/farmstead","x":509.3515625,"z":350.77423095703125,"angle":2.356194490192345,"actorSeed":19472,"entities":[289,290,291,292,6456],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false}
+end
+hash-quick 277bf4d97185514b4ef513697b1df332
+turn 1148 200
+cmd 3 {"type":"gather","entities":[151,152,153,154,6430,6432,6433],"target":6266,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 1f7784f9594cc388efb83478b92fd59b
+turn 1149 200
+cmd 1 {"type":"gather","entities":[289,290,291,292,6456],"target":6279,"queued":true,"pushFront":false}
+end
+hash-quick 44b4df6e1191a097dfda80f7386445cc
+turn 1150 200
+end
+hash-quick 1a69f4c02497d7125b858bed883889fb
+turn 1151 200
+end
+hash-quick b1946f5a3c615503e26ff5296c22ecb6
+turn 1152 200
+end
+hash-quick 364909f95d3f9eee6cca3fa146941a1b
+turn 1153 200
+end
+hash-quick d4602ce022c1924d9804772bf83d1604
+turn 1154 200
+end
+hash-quick ed2e37f76c1f1034feffb25e5e500c35
+turn 1155 200
+end
+hash-quick 850a67de4acb6d3c1a3c08988b047d2b
+turn 1156 200
+end
+hash-quick 2bb01e7a90bed74c7b9980b61b9409e3
+turn 1157 200
+cmd 8 {"type":"train","entities":[374],"template":"units/gaul/support_female_citizen","count":2}
+end
+hash-quick 5cabdc84cf6e14baa3c674a0f0482a2f
+turn 1158 200
+end
+hash-quick c6130037bac50f6604cce3d3bb233ac9
+turn 1159 200
+end
+hash 96b28fe61bf77813ab2fc9100333aef3
+turn 1160 200
+end
+hash-quick 549e32c6188d6e0bdf05d179e69a6bb7
+turn 1161 200
+cmd 1 {"type":"train","entities":[6733],"template":"units/athen/infantry_slinger_b","count":2}
+cmd 6 {"type":"set-rallypoint","entities":[422],"x":1065.24267578125,"z":735.7229614257812,"data":{"command":"walk"},"queued":false}
+end
+hash-quick f3a99748edd8ac60927f60d2988f1d56
+turn 1162 200
+end
+hash-quick a4b1763deb635167704f00f8ddc4d9a1
+turn 1163 200
+end
+hash-quick 3402c9bcb3c859f9693f485eba881e71
+turn 1164 200
+end
+hash-quick 24d3bb6b796096a21470fd02d8b57070
+turn 1165 200
+cmd 1 {"type":"set-rallypoint","entities":[6733],"x":410,"z":354,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/pine","target":3411},"queued":false}
+end
+hash-quick 609a92151f6dfa9910b13f78bcaf97ae
+turn 1166 200
+cmd 5 {"type":"construct","template":"structures/gaul/field","x":762.0719604492188,"z":191.76998901367188,"angle":2.356194490192345,"actorSeed":61551,"entities":[6436],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick e19c33fad4596816288c2a2a78a9398a
+turn 1167 200
+end
+hash-quick 15d0698531da2fa3c115d2302b13c636
+turn 1168 200
+end
+hash-quick 45a82ea91d87c1421214fef14da0e511
+turn 1169 200
+end
+hash-quick 8ca1676053b463cc9f661dac4234f0a3
+turn 1170 200
+end
+hash-quick 01dda03d48c73b734ad5bc204067f8d6
+turn 1171 200
+end
+hash-quick cc9479f5d87892d83961c02fe606ba9c
+turn 1172 200
+end
+hash-quick 967f39d37419439f2a6db776344b38f9
+turn 1173 200
+end
+hash-quick 64adea15db9e3f7f33a19fbb9d72ecdc
+turn 1174 200
+cmd 1 {"type":"train","entities":[288],"template":"units/athen/support_female_citizen","count":2}
+end
+hash-quick b4b75636cd85c2b22573355f05620268
+turn 1175 200
+cmd 2 {"type":"walk","entities":[6679],"x":224.78302001953125,"z":542.0614013671875,"queued":false,"pushFront":false}
+end
+hash-quick f23a22a629fd8bcc47c1257d2824aa44
+turn 1176 200
+cmd 2 {"type":"gather","entities":[6679],"target":258,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 55da18b8a503378c9d955d88c320b261
+turn 1177 200
+cmd 3 {"type":"train","entities":[150],"template":"units/ptol/support_female_citizen","count":5}
+cmd 2 {"type":"gather","entities":[6679],"target":258,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 9b4458e7488453da9854245648176499
+turn 1178 200
+end
+hash-quick c0be2e5141aff5f2c6ab2ede11645cdc
+turn 1179 200
+end
+hash 151a85c36b4c519268eda1cd0cceb945
+turn 1180 200
+cmd 6 {"type":"construct","template":"structures/spart/field","x":1067.4349365234375,"z":735.4503173828125,"angle":2.356194490192345,"actorSeed":53341,"entities":[6853,6854],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 655529ffac0c95223d568e74153e7d26
+turn 1181 200
+end
+hash-quick 5c91a035cc7afcf049db228f40490502
+turn 1182 200
+cmd 5 {"type":"train","entities":[330],"template":"units/gaul/support_female_citizen","count":6}
+end
+hash-quick 6ec723cc1d1f3d380040448cb4e7f76d
+turn 1183 200
+end
+hash-quick ba3ebf9707a382e91bd8e6e31ff25b12
+turn 1184 200
+end
+hash-quick 25158d0c94cd3072f5059ec28f1fc4b0
+turn 1185 200
+end
+hash-quick 6936cdcf8e419804e9257cdd2935fe05
+turn 1186 200
+end
+hash-quick b6fce44591650937030d786288b59428
+turn 1187 200
+end
+hash-quick 00acf07f8e47a4ea82da2eb44a47b43a
+turn 1188 200
+cmd 2 {"type":"returnresource","entities":[6600,6601],"target":6759,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick e79ee6d9ff4753e1ed1a507bd4768428
+turn 1189 200
+cmd 2 {"type":"returnresource","entities":[6600,6601],"target":6759,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 6 {"type":"tribute","player":5,"amounts":{"wood":100}}
+end
+hash-quick 1d8124c069dc54793fdf735e2433b407
+turn 1190 200
+end
+hash-quick 2c59dfb6d4f861e55ba693dc96c42fb2
+turn 1191 200
+cmd 2 {"type":"walk","entities":[6600,6601],"x":112.18630981445312,"z":638.0638427734375,"queued":true,"pushFront":false}
+end
+hash-quick ee12d36216bdfdcab310291de0fe443e
+turn 1192 200
+end
+hash-quick 01ba9d9b258082f28a8286e1260413dd
+turn 1193 200
+cmd 2 {"type":"gather","entities":[6600,6601],"target":6258,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+cmd 2 {"type":"gather","entities":[6600,6601],"target":6258,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 293e1689e73f05579bb38ea280a0ce90
+turn 1194 200
+cmd 2 {"type":"gather","entities":[6600,6601],"target":6258,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick fc75d03b9e8ef62200a99f6e75c6cccc
+turn 1195 200
+end
+hash-quick dc4d821da8c54096f88bb65c2ac27345
+turn 1196 200
+end
+hash-quick 85a20d445a5f8e6b84edd93c0d215237
+turn 1197 200
+end
+hash-quick c644427901497be94391ab5197e4434d
+turn 1198 200
+cmd 5 {"type":"construct","template":"structures/gaul/house","x":799.2775268554688,"z":163.85134887695312,"angle":2.356194490192345,"actorSeed":47479,"entities":[6847,6848,6849,6850],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick f528ada128b4ceeee2a85987f0b14987
+turn 1199 200
+end
+hash cb7bb3e81c8e6ed37a09c90457df2035
+turn 1200 200
+cmd 3 {"type":"set-rallypoint","entities":[150],"x":594,"z":966,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/oak","target":2831},"queued":false}
+end
+hash-quick 32ff5d57cd06b9ce4513e07461e6314e
+turn 1201 200
+end
+hash-quick cf8980b81b35f981748f2765bae8087b
+turn 1202 200
+end
+hash-quick 2a062c8ea3ba62a121a7129c49467fbe
+turn 1203 200
+end
+hash-quick 692b343c9b69d7c65ce59de710546377
+turn 1204 200
+cmd 1 {"type":"research","entity":6389,"template":"gather_farming_plows"}
+end
+hash-quick 6e99010a3e1403aad4b33ecefd8c6605
+turn 1205 200
+end
+hash-quick 95d2693274ebc88878d943bc9822b1f4
+turn 1206 200
+end
+hash-quick 5d777c5a83d44684ee85f8165a2be9d5
+turn 1207 200
+cmd 5 {"type":"construct","template":"structures/gaul/house","x":807.5488891601562,"z":171.59771728515625,"angle":2.356194490192345,"actorSeed":10175,"entities":[6847,6848,6849,6850],"autorepair":true,"autocontinue":true,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 972278b5af7436f466054be3c5cee8d6
+turn 1208 200
+end
+hash-quick 3f0a75ef1c6cfda389f7d4f39aad20bb
+turn 1209 200
+cmd 5 {"type":"construct","template":"structures/gaul/house","x":807.675048828125,"z":171.76690673828125,"angle":2.356194490192345,"actorSeed":30521,"entities":[6847,6848,6849,6850],"autorepair":true,"autocontinue":true,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 0774e73a480c3e3269fbc0e2627eaa80
+turn 1210 200
+end
+hash-quick 706313a9bf10729d7a7db11e0fe67dd7
+turn 1211 200
+end
+hash-quick 781e51c14005ab8989ffe4e4c0e8fc65
+turn 1212 200
+end
+hash-quick f3e6cb244c8f65529a8537122c8ed29b
+turn 1213 200
+end
+hash-quick c86c33f6e12f3005034b5e3b7e06f819
+turn 1214 200
+cmd 5 {"type":"construct","template":"structures/gaul/house","x":815.7962646484375,"z":181.008544921875,"angle":2.356194490192345,"actorSeed":28501,"entities":[6847,6848,6849,6850],"autorepair":true,"autocontinue":true,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick a0d9814a5de207b1a61b62632ad46dbb
+turn 1215 200
+end
+hash-quick e0ac9efc36d26b7fc47a61007eaf6e28
+turn 1216 200
+end
+hash-quick 96f0e58cdf5b15fdd206772673f2bcdc
+turn 1217 200
+end
+hash-quick 89d467371e5c43d853fa10ae63107332
+turn 1218 200
+end
+hash-quick dfa7c1bb69ec659089c71a1a58023e25
+turn 1219 200
+end
+hash 7770a8f6691c7f1b42ffd02a8807b77a
+turn 1220 200
+end
+hash-quick 4dc131d30985831d7b88e0e85dfab353
+turn 1221 200
+cmd 5 {"type":"construct","template":"structures/gaul/house","x":823.6502685546875,"z":189.57550048828125,"angle":2.356194490192345,"actorSeed":18611,"entities":[6847,6848,6849,6850],"autorepair":true,"autocontinue":true,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 8fad191f18d01c8c5662d41dd961b7b8
+turn 1222 200
+cmd 8 {"type":"walk","entities":[381,382],"x":808.8416137695312,"z":295.4241943359375,"queued":false,"pushFront":false}
+end
+hash-quick c52239c3c1ce400e4ee3c9cd0e9952d2
+turn 1223 200
+end
+hash-quick 15673c8856cd9525fd0a835a63df9c6e
+turn 1224 200
+end
+hash-quick 9ea4ef40822e242081985708eea36e7a
+turn 1225 200
+cmd 2 {"type":"set-rallypoint","entities":[245],"x":94,"z":482,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/pine","target":4048},"queued":false}
+end
+hash-quick 15543e03f403205c8658e0430ee6ccf6
+turn 1226 200
+end
+hash-quick dda440a03ed95c7a9e6a7ed2c802b1c9
+turn 1227 200
+end
+hash-quick ca743415cda767f8673f4ecb693b8ce5
+turn 1228 200
+end
+hash-quick 1f9bf5b2e7d199dc6cbbea067453ddf7
+turn 1229 200
+cmd 1 {"type":"set-rallypoint","entities":[288],"x":431.95416259765625,"z":282.72021484375,"data":{"command":"repair","target":6823},"queued":false}
+end
+hash-quick 9643ad111249c1a3cb0a3cd0abeee5f8
+turn 1230 200
+end
+hash-quick e41d054f2f0bb54a9c8c4d02beac8945
+turn 1231 200
+cmd 8 {"type":"tribute","player":5,"amounts":{"wood":100}}
+end
+hash-quick a4377117ebfc56c3e2beea4058d4d4f9
+turn 1232 200
+end
+hash-quick 681dd2db21764f2447df67fb7f890c87
+turn 1233 200
+end
+hash-quick d83f102b106951682d42bbe16518186d
+turn 1234 200
+end
+hash-quick 9ac303743636fda4e2fa396e2381e613
+turn 1235 200
+cmd 6 {"type":"construct","template":"structures/spart/field","x":1053.9724504622784,"z":753.1782036480158,"angle":2.356201171875,"actorSeed":61951,"entities":[6853],"autorepair":true,"autocontinue":true,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 3f31f543e6bd78a3b710059bec2d0c05
+turn 1236 200
+end
+hash-quick 614dee2da13ab4e40656c67f7433d202
+turn 1237 200
+end
+hash-quick d32df0e818221c7f209a58c783fe3149
+turn 1238 200
+cmd 8 {"type":"tribute","player":5,"amounts":{"wood":100}}
+cmd 5 {"type":"construct","template":"structures/gaul/field","x":779.9934692382812,"z":245.56011962890625,"angle":2.356194490192345,"actorSeed":55858,"entities":[6847,6848,6849,6850],"autorepair":true,"autocontinue":true,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick c9fa34f0f3d913c7c6e7cfa426d5872c
+turn 1239 200
+end
+hash 98f612ca972d3a42191f499ac930f96f
+turn 1240 200
+end
+hash-quick 0930032e6757908c4fabb973c6798a87
+turn 1241 200
+end
+hash-quick c5aa2ce1ab313122d9d5cf2783862039
+turn 1242 200
+cmd 2 {"type":"returnresource","entities":[6598,6599,6602],"target":6759,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 34e246d6a1a65feb57ce43ae1692c597
+turn 1243 200
+end
+hash-quick 2f0de51ac7fa0d196facf50d06bc9557
+turn 1244 200
+cmd 2 {"type":"gather","entities":[6598,6599,6602],"target":6278,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 77781d096bf7228311f0f625b74a5d4b
+turn 1245 200
+cmd 2 {"type":"gather","entities":[6598,6599,6602],"target":6278,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+cmd 2 {"type":"gather","entities":[6598,6599,6602],"target":6278,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick c0f124fd2ad944255857a59b30762539
+turn 1246 200
+end
+hash-quick ef32c4f0d51a49de820f7d5f5eded6ce
+turn 1247 200
+end
+hash-quick d4eda688257b10a39ede1e00a09c0463
+turn 1248 200
+end
+hash-quick e07e5ceb335e594e0bf807ba7613660d
+turn 1249 200
+end
+hash-quick a7f42eed26fd43b248c123a348f892cb
+turn 1250 200
+end
+hash-quick a81b4a09277cc9a92df5abb0798bb695
+turn 1251 200
+cmd 6 {"type":"set-rallypoint","entities":[422],"x":1053.9724578857422,"z":753.1782073974609,"data":{"command":"repair","target":6883},"queued":false}
+end
+hash-quick 3735b967aaca042f6cabab46a5f92e3f
+turn 1252 200
+end
+hash-quick 4c063994c9a125acc5268e90730c4f1f
+turn 1253 200
+cmd 1 {"type":"construct","template":"structures/athen/house","x":428.778564453125,"z":309.2571105957031,"angle":2.356194490192345,"actorSeed":8584,"entities":[6536,6584,6586,6587,6588],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false}
+end
+hash-quick b2dadcd7e1718e0874a4ca953225d376

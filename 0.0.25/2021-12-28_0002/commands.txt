@@ -1,0 +1,116 @@
+start {"settings":{"Biome":"generic/aegean","CheatsEnabled":false,"CircularMap":true,"DisableSpies":false,"DisableTreasures":false,"LastManStanding":false,"LockTeams":true,"RevealMap":false,"ExploreMap":false,"Name":"Mainland","Size":320,"Nomad":false,"PlayerData":[{"AI":false,"Civ":"pers","Color":{"r":21,"g":55,"b":149},"Name":"weirdJokes (1897)","Team":0},{"AI":false,"Civ":"brit","Color":{"r":50,"g":170,"b":170},"Name":"011235813 (21)","Team":0},{"AI":false,"Civ":"rome","Color":{"r":160,"g":80,"b":200},"Name":"RAYDE (1429)","Team":0},{"AI":false,"Civ":"kush","Color":{"r":220,"g":115,"b":16},"Name":"hooohooo (1209)","Team":1},{"AI":false,"Civ":"ptol","Color":{"r":86,"g":180,"b":31},"Name":"seeh (spec=i not play)","Team":1},{"AI":false,"Civ":"iber","Color":{"r":231,"g":200,"b":5},"Name":"KatGor (1296)","Team":1},{"AI":false,"Civ":"mace","Color":{"r":150,"g":20,"b":20},"Name":"Vrayer (1387)","Team":1},{"AI":"petra","AIDiff":5,"AIBehavior":"random","Civ":"gaul","Color":{"r":64,"g":64,"b":64},"Name":"Cativolcus","Team":1}],"PopulationCap":200,"RegicideGarrison":false,"Seed":3003420491,"AISeed":1032737567,"StartingResources":300,"TriggerScripts":["scripts/TriggerHelper.js","scripts/ConquestCommon.js","scripts/Conquest.js"],"VictoryConditions":["conquest"]},"gameSpeed":1,"map":"maps/random/mainland","mapType":"random","script":"mainland.js","mapPreview":"cropped:0.78125,0.5859375:session/icons/mappreview/mainland.png","matchID":"65255010F0B551E5","timestamp":1640719535,"engine_version":"0.0.25","mods":[{"mod":"public","name":"0ad","version":"0.0.25","ignoreInCompatibilityChecks":false},{"mod":"customrating0.25.2","name":"customrating","version":"0.25.2","ignoreInCompatibilityChecks":true},{"mod":"feldmap","name":"feldmap","version":"0.1.0","ignoreInCompatibilityChecks":true},{"mod":"boonGUI2.1","name":"boonGUI","version":"2.1","ignoreInCompatibilityChecks":true},{"mod":"autociv-2021-0824","name":"autociv","version":"25.1.0","ignoreInCompatibilityChecks":true}]}
+turn 0 200
+end
+hash 40eca3e218bd1600b7d2fb06c0eebdc7
+turn 1 200
+end
+hash-quick 39de5618bbbe697ac6e06644e47415c3
+turn 2 200
+end
+hash-quick bb735594a0443ac76a8a00652399cbb5
+turn 3 200
+end
+hash-quick 868cb0f452a9956c41422fb75946b4df
+turn 4 200
+end
+hash-quick a9433cf87cd804bf31b10896c8eb510b
+turn 5 200
+end
+hash-quick 2bd464453e1d8f68d828f1b9ac275819
+turn 6 200
+cmd 7 {"type":"attack-request","source":7,"player":3}
+cmd 7 {"type":"attack-request","source":7,"player":2}
+cmd 7 {"type":"attack-request","source":7,"player":1}
+end
+hash-quick ab102edc5e1a9bec693ac6ee17d1d184
+turn 7 200
+end
+hash-quick 57c05e630ef101891c64c9e690da9817
+turn 8 200
+cmd 3 {"type":"train","entities":[150],"template":"units/rome/support_female_citizen","count":6}
+cmd 4 {"type":"map-flare","target":{"z":900.1956176757812,"x":286.10870361328125}}
+cmd 5 {"type":"map-flare","target":{"x":375.0154113769531,"y":23,"z":278.95953369140625}}
+end
+hash-quick 46289c2e6d54141d98eb1168af14b02a
+turn 9 200
+end
+hash-quick d26c1d110ecf90bc535d56ac20f9b277
+turn 10 200
+end
+hash-quick 983a1d02f698502a1e9e0da7b464d229
+turn 11 200
+end
+hash-quick c9041305cec95d9d307d46639766c01e
+turn 12 200
+end
+hash-quick 4d945a89a0e00c23a50beb3aeb546f88
+turn 13 200
+end
+hash-quick 6924c016df9ba37af3d069cb3bd5a3d7
+turn 14 200
+end
+hash-quick 5be5d157dca0eceef6e4bdfbb27c47a3
+turn 15 200
+cmd 3 {"type":"train","entities":[150],"template":"units/rome/support_female_citizen","count":1}
+cmd 6 {"type":"walk","entities":[288,289,290,291],"x":571.7374877929688,"z":1051.55126953125,"queued":false,"pushFront":false}
+end
+hash-quick 49cc0c2416ac6205fada7640c887bf18
+turn 16 200
+end
+hash-quick 503e0b954ad4f9309fa45baee3e052cc
+turn 17 200
+cmd 2 {"type":"garrison","entities":[239,240,241,242,244,248],"target":238,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 6 {"type":"gather","entities":[288,289,290,291],"target":331,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick b3bd93755c5825b3a0be122efb583369
+turn 18 200
+end
+hash-quick d3c982f97a3e92fd22549a2393794cb6
+turn 19 200
+cmd 1 {"type":"garrison","entities":[197,198,199,200],"target":196,"queued":false,"pushFront":false}
+end
+hash c8afd3ab84bfb132386487c2cce2f5c4
+turn 20 200
+cmd 6 {"type":"map-flare","target":{"x":562.3346557617188,"y":23,"z":1061.3765869140625}}
+end
+hash-quick 2c69660f9750693c6b83856a0a0914ca
+turn 21 200
+end
+hash-quick 51f40022f4c86795a50644b7cb98b39f
+turn 22 200
+end
+hash-quick d9c06b11b6ce4d0e5d2772c2341d44ed
+turn 23 200
+cmd 1 {"type":"gather","entities":[205],"target":220,"queued":false,"pushFront":false}
+cmd 2 {"type":"gather","entities":[243,244,245,246],"target":250,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 4 {"type":"gather","entities":[358,359,360,361],"target":365,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 881cb1e15803815b4abf107cad977dd1
+turn 24 200
+end
+hash-quick 37f6ebabf4f52443806162a813147594
+turn 25 200
+cmd 3 {"type":"gather","entities":[151,152,153,154],"target":168,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 8a508c6ae1be78380ccc2f7daeb09637
+turn 26 200
+end
+hash-quick deba1117a62b106a3d9f7959099ad574
+turn 27 200
+end
+hash-quick a47b93799c9939745402864846111096
+turn 28 200
+end
+hash-quick 9bdb9b0f220c508ebf172580becfa9a4
+turn 29 200
+end
+hash-quick 4fc6538a0ba240ec231dfc06002841a0
+turn 30 200
+end
+hash-quick 0ea9c9b9aac3c37e0c823d16149785bb
+turn 31 200
+end
+hash-quick 7eb1491e09234baea8f06d7e12af3771
+turn 32 200
+end
+hash-quick ce0b7265160115a32a6cbfb397729818

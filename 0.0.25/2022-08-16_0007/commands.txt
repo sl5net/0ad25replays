@@ -1,0 +1,122 @@
+start {"settings":{"Biome":"generic/nubia","CheatsEnabled":false,"CircularMap":true,"DisableSpies":false,"DisableTreasures":false,"LastManStanding":false,"LockTeams":true,"RevealMap":false,"ExploreMap":false,"Name":"Mainland","Size":256,"Nomad":false,"PlayerData":[{"AI":false,"Civ":"cart","Color":{"r":21,"g":55,"b":149},"Name":"seeh (1188)","Team":-1},{"AI":false,"Civ":"pers","Color":{"r":150,"g":20,"b":20},"Name":"drOCTOPUS (1338)","Team":-1}],"PopulationCap":300,"RatingEnabled":false,"RegicideGarrison":false,"Seed":2503608142,"AISeed":2918003574,"StartingResources":300,"TriggerScripts":["scripts/TriggerHelper.js","scripts/ConquestCommon.js","scripts/Conquest.js"],"VictoryConditions":["conquest"]},"gameSpeed":0.25,"map":"maps/random/mainland","mapType":"random","script":"mainland.js","mapPreview":"cropped:0.78125,0.5859375:session/icons/mappreview/mainland.png","matchID":"9D96FBE2007A1B75","timestamp":1660669217,"engine_version":"0.0.25","mods":[{"mod":"public","name":"0ad","version":"0.0.25","ignoreInCompatibilityChecks":false},{"mod":"feldmap","name":"feldmap","version":"0.1.0","ignoreInCompatibilityChecks":true},{"mod":"LocalRatings-master","name":"LocalRatings","version":"0.26.1","ignoreInCompatibilityChecks":true},{"mod":"autociv-KateGUIv5","name":"autociv","version":"25.2.6","ignoreInCompatibilityChecks":true},{"mod":"boonGUI-with-working-hardcoded-beepIdle","name":"boonGUI","version":"2.4.1b","ignoreInCompatibilityChecks":true},{"mod":"StarGUI7","name":"","version":"25.0.7","ignoreInCompatibilityChecks":true},{"mod":"customrating0.25.2","name":"customrating","version":"0.25.2","ignoreInCompatibilityChecks":true}]}
+turn 0 200
+end
+hash 1a18797f1c2dc82e9181d4f7dc1ce992
+turn 1 200
+end
+hash-quick b779db6790742003c78c5fae54206f30
+turn 2 200
+end
+hash-quick b779db6790742003c78c5fae54206f30
+turn 3 200
+end
+hash-quick b779db6790742003c78c5fae54206f30
+turn 4 200
+end
+hash-quick b779db6790742003c78c5fae54206f30
+turn 5 200
+cmd 2 {"type":"gather","entities":[191,192,193,194],"target":200,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 20193c5cf7387a1e0dda2491dd8aff99
+turn 6 200
+end
+hash-quick 6fd27053cb574c46101e2fe7754cff71
+turn 7 200
+cmd 1 {"type":"gather","entities":[151,152,153,154,155,156,157,158,159],"target":177,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 2 {"type":"gather","entities":[191,192,193,194],"target":207,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 6cfc98e9411e4c7acb1b875fed50dea9
+turn 8 200
+end
+hash-quick d91390d777d8ef7c1bc9b9e2427ed0a3
+turn 9 200
+cmd 1 {"type":"train","template":"units/cart/cavalry_javelineer_b","count":1,"entities":[150]}
+end
+hash-quick a0e66cd3f2343a92822453345da091ee
+turn 10 200
+cmd 1 {"type":"train","template":"units/cart/infantry_archer_b","count":1,"entities":[150]}
+cmd 1 {"type":"train","template":"units/cart/infantry_spearman_b","count":1,"entities":[150]}
+cmd 1 {"type":"train","template":"units/cart/support_female_citizen","count":1,"entities":[150]}
+cmd 2 {"type":"gather","entities":[195,196,197,198],"target":200,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick e9a5d1d3350091c52868b8a9c6cfc0e2
+turn 11 200
+end
+hash-quick eaa7fa9a64dd8b18b7731340e436c3c8
+turn 12 200
+end
+hash-quick 10bf82883a0eb8ba66352d6dfc69c4d8
+turn 13 200
+end
+hash-quick 66ed17d48ca334882f7aad115c343eb1
+turn 14 200
+cmd 1 {"type":"set-rallypoint","entities":[150],"x":604.7438354492188,"z":836.1567993164062,"data":{"command":"gather-near-position","resourceType":{"generic":"food","specific":"meat"},"resourceTemplate":"gaia/fauna_chicken"},"queued":true}
+cmd 1 {"type":"set-rallypoint","entities":[150],"x":604.7438354492188,"z":836.1567993164062,"data":{"command":"gather-near-position","resourceType":{"generic":"food","specific":"meat"},"resourceTemplate":"gaia/fauna_chicken"},"queued":true}
+cmd 2 {"type":"gather","entities":[199],"target":212,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick c0982c713285406e4c1c7823d352dbed
+turn 15 200
+cmd 2 {"type":"train","entities":[190],"template":"units/pers/cavalry_javelineer_b","count":2}
+end
+hash-quick 3d1b7d0fb2152db0b0a3c87675b0a6dd
+turn 16 200
+end
+hash-quick 387fb3fd799950274a132f0d481522db
+turn 17 200
+end
+hash-quick bac7d064d324479614de56fe0af65816
+turn 18 200
+end
+hash-quick c0d4a4fb698bfe165539f36e248fc880
+turn 19 200
+cmd 2 {"type":"set-rallypoint","entities":[190],"x":397.38897705078125,"z":138.32720947265625,"data":{"command":"gather-near-position","resourceType":{"generic":"food","specific":"meat"},"resourceTemplate":"gaia/fauna_chicken"},"queued":false}
+end
+hash 6e33cbb38a8ba979c2f89475d2e2d22f
+turn 20 200
+end
+hash-quick fa21110e6fc1f6a67005d8f5de6da8fb
+turn 21 200
+end
+hash-quick c1d83a679622426fa3c50239677e374b
+turn 22 200
+end
+hash-quick 9a38af7296cb635ce80e0e41bba09def
+turn 23 200
+end
+hash-quick 1f5948dbbfa5cd347fdfc92117ae56c4
+turn 24 200
+end
+hash-quick 6eac4547da348f7d14d8a7f5553c5180
+turn 25 200
+end
+hash-quick cd0b0b047caef559c2d20a2c551f5a74
+turn 26 200
+end
+hash-quick a359153ae9bd05ca712f497df8fa635e
+turn 27 200
+end
+hash-quick bc4cddb208177d54e60266177ca30b75
+turn 28 200
+end
+hash-quick 53c9c0d7014e4a0fc131bdfaf424e037
+turn 29 200
+end
+hash-quick ce5d150110e5e1bdb867a3d4bf813799
+turn 30 200
+end
+hash-quick e7ad8d87ed174a276017dbf69eb0810e
+turn 31 200
+end
+hash-quick 30f55b04a9c9556ea1624606a4db9ec4
+turn 32 200
+end
+hash-quick 833b56c22c6509eabf0ce2e31467ca8e
+turn 33 200
+end
+hash-quick 1864561d5c4e1aafe6a26e316718304f
+turn 34 200
+end
+hash-quick 7e4f3f9733166839d8c5eb5747803f23
+turn 35 200
+end
+hash-quick 3c6be1c4818e1aa378367a8f9665acc8

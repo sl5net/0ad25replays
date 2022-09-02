@@ -1,0 +1,2866 @@
+start {"settings":{"Biome":"generic/aegean","CheatsEnabled":false,"CircularMap":true,"DisableSpies":false,"DisableTreasures":false,"LastManStanding":false,"LockTeams":true,"RevealMap":false,"ExploreMap":false,"Name":"Mainland","Size":192,"Nomad":false,"PlayerData":[{"AI":false,"Civ":"kush","Color":{"r":160,"g":80,"b":200},"Name":"LetswaveaBook (1833)","Team":0},{"AI":false,"Civ":"spart","Color":{"r":231,"g":200,"b":5},"Name":"vaccine-poison (1281)","Team":1}],"PopulationCap":300,"RatingEnabled":false,"RegicideGarrison":false,"Seed":192041136,"AISeed":4009478363,"StartingResources":300,"TriggerScripts":["scripts/TriggerHelper.js","scripts/ConquestCommon.js","scripts/Conquest.js"],"VictoryConditions":["conquest"]},"gameSpeed":1,"map":"maps/random/mainland","mapType":"random","script":"mainland.js","mapPreview":"cropped:0.78125,0.5859375:session/icons/mappreview/mainland.png","matchID":"2951206810670D85","timestamp":1634059540,"engine_version":"0.0.25","mods":[{"mod":"public","name":"0ad","version":"0.0.25","ignoreInCompatibilityChecks":false},{"mod":"autociv-2021-0824","name":"autociv","version":"25.1.0","ignoreInCompatibilityChecks":true},{"mod":"feldmap","name":"feldmap","version":"0.1.0","ignoreInCompatibilityChecks":true},{"mod":"customrating0.25.2","name":"customrating","version":"0.25.2","ignoreInCompatibilityChecks":true},{"mod":"boongui_1.6.5","name":"boongui","version":"1.6.5","ignoreInCompatibilityChecks":true}]}
+turn 1959 200
+cmd 2 {"type":"construct","template":"structures/spart/storehouse","x":232.0377197265625,"z":665.0778198242188,"angle":2.356194490192345,"actorSeed":50696,"entities":[197,198,1939,1998,1999,2000,2013,2014,2028,2029,2030,2031,2048,2049,2050],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+turn 1960 200
+end
+turn 1961 200
+end
+turn 1962 200
+end
+turn 1963 200
+end
+turn 1964 200
+end
+turn 1965 200
+end
+turn 1966 200
+end
+turn 1967 200
+end
+turn 1968 200
+end
+turn 1969 200
+end
+turn 1970 200
+end
+turn 1971 200
+end
+turn 1972 200
+cmd 2 {"type":"walk","entities":[192,193,1908,1909,1938,1962,1963,1965],"x":342.16314697265625,"z":745.78515625,"queued":false,"pushFront":false}
+end
+turn 1973 200
+cmd 2 {"type":"walk","entities":[192,193,1908,1909,1938,1962,1963,1965],"x":297.6087646484375,"z":728.51171875,"queued":false,"pushFront":false}
+end
+turn 1974 200
+cmd 2 {"type":"walk","entities":[192,193,1908,1909,1938,1962,1963,1965],"x":259.5233154296875,"z":709.1116943359375,"queued":false,"pushFront":false}
+end
+turn 1975 200
+end
+turn 1976 200
+end
+turn 1977 200
+cmd 2 {"type":"repair","entities":[192,193,1908,1909,1938,1962,1963,1965],"target":2092,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+turn 1978 200
+end
+turn 1979 200
+end
+turn 1980 200
+cmd 1 {"type":"returnresource","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"target":150,"queued":false,"pushFront":false}
+end
+turn 1981 200
+end
+turn 1982 200
+end
+turn 1983 200
+end
+turn 1984 200
+end
+turn 1985 200
+end
+turn 1986 200
+cmd 1 {"type":"walk","entities":[160],"x":344.2890319824219,"z":238.26031494140625,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk-custom","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075,2084,2085],"targetPositions":[{"x":"402.85","y":"696.01"},{"x":"403.81","y":"697.16"},{"x":"404.77","y":"698.32"},{"x":"405.73","y":"699.48"},{"x":"406.69","y":"700.63"},{"x":"407.65","y":"701.79"},{"x":"408.61","y":"702.94"},{"x":"409.57","y":"704.10"},{"x":"410.62","y":"705.18"},{"x":"411.66","y":"706.26"},{"x":"412.71","y":"707.34"},{"x":"413.76","y":"708.41"}],"targetClasses":{"attack":["Unit","Structure"]},"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+turn 1987 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075,2084,2085],"x":384.8958740234375,"z":677.2307739257812,"queued":false,"pushFront":false}
+end
+turn 1988 200
+end
+turn 1989 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075,2084,2085],"x":424.22467041015625,"z":647.5187377929688,"queued":false,"pushFront":false}
+end
+turn 1990 200
+cmd 2 {"type":"walk-custom","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075,2084,2085],"targetPositions":[{"x":"377.21","y":"651.22"},{"x":"378.74","y":"650.74"},{"x":"380.27","y":"650.27"},{"x":"381.80","y":"649.80"},{"x":"383.34","y":"649.32"},{"x":"384.87","y":"648.85"},{"x":"386.40","y":"648.37"},{"x":"387.94","y":"647.94"},{"x":"389.49","y":"647.52"},{"x":"391.04","y":"647.09"},{"x":"392.48","y":"646.64"},{"x":"394.09","y":"646.62"}],"targetClasses":{"attack":["Unit","Structure"]},"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick a628884ae224f69ab7e744549c38e8b9
+turn 1991 200
+cmd 2 {"type":"walk-custom","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075,2084,2085],"targetPositions":[{"x":"328.36","y":"650.53"},{"x":"329.20","y":"650.61"},{"x":"330.04","y":"650.70"},{"x":"330.88","y":"650.78"},{"x":"331.72","y":"650.86"},{"x":"332.56","y":"650.95"},{"x":"333.35","y":"651.03"},{"x":"334.17","y":"650.82"},{"x":"334.98","y":"650.61"},{"x":"335.80","y":"650.40"},{"x":"336.62","y":"650.19"},{"x":"337.44","y":"649.98"}],"targetClasses":{"attack":["Unit","Structure"]},"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick fffa52d9acc7d8fe0e0b510c09534c9c
+turn 1992 200
+cmd 1 {"type":"returnresource","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"target":150,"queued":true,"pushFront":false}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075,2084,2085],"x":289.91949462890625,"z":636.797607421875,"queued":false,"pushFront":false}
+end
+hash-quick 1da56c240c406761384affb8b17b5afa
+turn 1993 200
+end
+hash-quick 1bc6ce56e248412249f48e2090a2cbdc
+turn 1994 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075,2084,2085],"x":255.4677734375,"z":615.4246826171875,"queued":false,"pushFront":false}
+end
+hash-quick d08584e03923fc1f7671596298c5334d
+turn 1995 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":344.67596435546875,"z":223.54202270507812,"queued":true,"pushFront":false}
+end
+hash-quick b15b81b629fda7323379a661a728d642
+turn 1996 200
+end
+hash-quick 924d69361ed32e2393c858d0ff56a682
+turn 1997 200
+end
+hash-quick 1b6abc9ec5106af2b3d556d5070940f6
+turn 1998 200
+end
+hash-quick 56053066c26b4cc8f71994673d089c22
+turn 1999 200
+end
+hash 57fb8a34eb1603b4f8fd26d97b2ae727
+turn 2000 200
+end
+hash-quick d115d171683526f2fddcef28fae8ca9b
+turn 2001 200
+end
+hash-quick d951dd8f838908d358a23578124b8a41
+turn 2002 200
+end
+hash-quick c3015e9400d35cd1ac579f7061e3f09c
+turn 2003 200
+end
+hash-quick 36bf929b6931b38e44273ba866a7787a
+turn 2004 200
+end
+hash-quick 057678b7df33c9077a1df6fed0d1c808
+turn 2005 200
+end
+hash-quick e0062bd96d1574048c31eed6224654fa
+turn 2006 200
+end
+hash-quick 21ae86b5e45bb6774e345be7e8b2e5f5
+turn 2007 200
+end
+hash-quick 99dc79e1003bbeabe9acef25684e4728
+turn 2008 200
+end
+hash-quick b79796c94b12f9fda6a5ccb09e6da1af
+turn 2009 200
+end
+hash-quick 4216167a21b3c0ab8d1731c644d1da2a
+turn 2010 200
+end
+hash-quick 9ac9e39a3c378e2900c614133f2fb2bb
+turn 2011 200
+cmd 2 {"type":"train","entities":[2087],"template":"units/spart/infantry_javelineer_b","count":4}
+end
+hash-quick bffd5781260cb1f042579dacc988e772
+turn 2012 200
+end
+hash-quick 1790a84f761390d7d9053c8fe2c5bbb3
+turn 2013 200
+cmd 2 {"type":"set-rallypoint","entities":[2087],"x":210,"z":662,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/cypress_wild","target":499},"queued":false}
+end
+hash-quick 631b2116f361a911b9ba956e01de0976
+turn 2014 200
+end
+hash-quick 3df73ff5a90ef86684f40e5d1e26b36d
+turn 2015 200
+end
+hash-quick 4a1b925f143c9453c16174615a25dd99
+turn 2016 200
+cmd 1 {"type":"returnresource","entities":[155,156,2078,2079,2080,2081],"target":1973,"queued":false,"pushFront":false}
+end
+hash-quick 9878f087cde1915d074d78f74d00094c
+turn 2017 200
+end
+hash-quick be37036765bee448b88e94300b2a48e5
+turn 2018 200
+end
+hash-quick 6cc935a86965497558e0b8a160afaae6
+turn 2019 200
+end
+hash 7d0c02b57581e624428daeba02b93d4d
+turn 2020 200
+end
+hash-quick fb198962b2549d7d531b0e1cbd3d80da
+turn 2021 200
+end
+hash-quick 6b6e7a2cdeb59e72c7da3fbce52b8648
+turn 2022 200
+end
+hash-quick fd2d9b987a3371e06e15178330bceb32
+turn 2023 200
+end
+hash-quick df3899c7f3543849c79d55823bb15707
+turn 2024 200
+end
+hash-quick 38ab88b2c4d13d2f655b41c68f082db4
+turn 2025 200
+end
+hash-quick 351b704683e31380bafd25b3de9069da
+turn 2026 200
+cmd 2 {"type":"train","entities":[190],"template":"units/spart/support_female_citizen","count":7}
+end
+hash-quick 0a15f178c1ab22478bf1df65dea10886
+turn 2027 200
+end
+hash-quick 6e4518577b0187324abea9bf31733db8
+turn 2028 200
+end
+hash-quick 9498df00da270bb4b6e292257ff5edcd
+turn 2029 200
+end
+hash-quick 901d3d80d8c9a8526e0ea4bdbd039cc5
+turn 2030 200
+end
+hash-quick 870eabe1ad56dd8ac914df6a5f35cbd8
+turn 2031 200
+end
+hash-quick 7eab01b78ef591ec1ec7d501e2dca383
+turn 2032 200
+end
+hash-quick ec79fc19c7a8bc24355f1cb021d013f7
+turn 2033 200
+end
+hash-quick b032d34f2ba3cfe5724e8e7480b1ade0
+turn 2034 200
+cmd 1 {"type":"walk","entities":[155,156,2078,2079,2080,2081],"x":308.5129699707031,"z":162.48275756835938,"queued":false,"pushFront":false}
+end
+hash-quick ecf9e717f4ca6f10aef8348f5cf72bd4
+turn 2035 200
+cmd 1 {"type":"walk","entities":[155,156,2078,2079,2080,2081],"x":309.5991516113281,"z":172.48846435546875,"queued":false,"pushFront":false}
+cmd 1 {"type":"walk-custom","entities":[155,156,2078,2079,2080,2081],"targetPositions":[{"x":"317.32","y":"189.07"},{"x":"316.36","y":"187.44"},{"x":"315.40","y":"185.80"},{"x":"314.44","y":"184.17"},{"x":"313.21","y":"182.73"},{"x":"312.10","y":"181.44"}],"targetClasses":{"attack":["Unit","Structure"]},"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 2bc2e74ec1bf0b1ba9985d1bdcecff65
+turn 2036 200
+cmd 1 {"type":"walk-custom","entities":[155,156,2078,2079,2080,2081],"targetPositions":[{"x":"325.41","y":"206.04"},{"x":"328.23","y":"215.25"},{"x":"330.64","y":"224.57"},{"x":"333.06","y":"233.90"},{"x":"334.94","y":"243.32"},{"x":"336.01","y":"252.88"}],"targetClasses":{"attack":["Unit","Structure"]},"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 014ca49809fb94ead9766160aef4390a
+turn 2037 200
+end
+hash-quick a255daa7132b72fa6d416350cc0aee71
+turn 2038 200
+end
+hash-quick b0370b7b10ea09153a3043256a38b533
+turn 2039 200
+end
+hash 81c1d48680aeeb7e52fdbd480c34e943
+turn 2040 200
+end
+hash-quick 6c96f4cd728f79c79e0134692073e336
+turn 2041 200
+cmd 2 {"type":"stop-production","entity":190,"id":15}
+end
+hash-quick e73cfaf2587b8cef51cc1a3e8cfa5d0f
+turn 2042 200
+end
+hash-quick 6c6a5f0856f0f7b67270922bf924da74
+turn 2043 200
+end
+hash-quick a2db0899d913e598038437c024c1e4ae
+turn 2044 200
+end
+hash-quick 575ef298df9c77a8aedd38051cb40a17
+turn 2045 200
+end
+hash-quick ced7469761fa56e4d9a315f6ef6b089a
+turn 2046 200
+end
+hash-quick 6b578cf775e8b8cd74241d1066105ee8
+turn 2047 200
+end
+hash-quick aca0750dcec9fbf707f4de07433bc886
+turn 2048 200
+cmd 1 {"type":"walk","entities":[159,160,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":398.6582336425781,"z":304.2677917480469,"queued":false,"pushFront":false}
+end
+hash-quick d32297fabadbe1c4f7c5b7d05f7a6304
+turn 2049 200
+cmd 1 {"type":"walk","entities":[159,160,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":398.6582336425781,"z":304.2677917480469,"queued":false,"pushFront":false}
+cmd 2 {"type":"train","entities":[190],"template":"units/spart/support_female_citizen","count":6}
+end
+hash-quick 3d94858e7e3387b2495ecfade5999666
+turn 2050 200
+end
+hash-quick efa2ecd748a781232443ffb474e5f650
+turn 2051 200
+end
+hash-quick 4a49f11bc35b032bc4ee60e56770d518
+turn 2052 200
+end
+hash-quick 324149ad04c05777223dc61fdb2b2fb7
+turn 2053 200
+cmd 2 {"type":"walk","entities":[2084,2085,2095,2096,2097],"x":304.6728515625,"z":677.04150390625,"queued":false,"pushFront":false}
+end
+hash-quick d55c299e126238e4029feec3af580e61
+turn 2054 200
+cmd 2 {"type":"walk","entities":[2084,2085,2095,2096,2097],"x":276.91217041015625,"z":681.019287109375,"queued":false,"pushFront":false}
+end
+hash-quick 763fb85f5d018d0696984d5d6b460486
+turn 2055 200
+cmd 2 {"type":"gather","entities":[2084,2085,2095,2096,2097],"target":1779,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick b6ab69c08c7bebe198695d7222ecfb0b
+turn 2056 200
+end
+hash-quick af7badd1de5a3a8088877609d35467e5
+turn 2057 200
+cmd 2 {"type":"gather","entities":[2084,2085,2095,2096,2097],"target":480,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick dd514af12b0a2fccb7f61204e3e0747e
+turn 2058 200
+end
+hash-quick 8a32f09fa73755208d0e72b2e887f7f1
+turn 2059 200
+cmd 1 {"type":"walk","entities":[159,160,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":406.7137145996094,"z":439.8959045410156,"queued":false,"pushFront":false}
+end
+hash d2f37986e6ab05a366c5ff950723ea40
+turn 2060 200
+end
+hash-quick 82d223d0b7c3535e8420f40029057509
+turn 2061 200
+end
+hash-quick e707cef0c1268f3700d23d70a03c161e
+turn 2062 200
+cmd 2 {"type":"returnresource","entities":[192,193,1909,1938,1962,1963,2028,2029,2030,2031,2048,2049,2050],"target":2093,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick c35c0b8ece8e7c6289c0379406ca234f
+turn 2063 200
+end
+hash-quick 6f205367247b87fff043153103adb349
+turn 2064 200
+end
+hash-quick 6b85efd3bc12e2e749fc68ecee6e9375
+turn 2065 200
+cmd 2 {"type":"gather","entities":[192,193,1909,1938,1962,1963,2028,2029,2030,2031,2048,2049,2050],"target":468,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick d254aa0bb6beac0a2801a05d98d07dac
+turn 2066 200
+end
+hash-quick 692619a7ba27f0b5884de9ab27e58fe8
+turn 2067 200
+end
+hash-quick 0c77bc395a1a21cd4702d7e463e5819e
+turn 2068 200
+end
+hash-quick 7a25ef1100b7066de4cf0b4e5d7adebc
+turn 2069 200
+end
+hash-quick ece1974946037c0f1834f38733c2c7ef
+turn 2070 200
+end
+hash-quick 8455cda86ef44ba8613b688e28599b80
+turn 2071 200
+end
+hash-quick 392430a792ffa6b081ef293ddf7d83fc
+turn 2072 200
+end
+hash-quick 1d0ce95dff8df066c7e3ab584a2d4e32
+turn 2073 200
+end
+hash-quick c8fa9b24f484cccd1e916aa867dbdca7
+turn 2074 200
+end
+hash-quick df4e619f31f71408d6db4b6b2c53b57b
+turn 2075 200
+end
+hash-quick 5052ba0b99946573c25796fa91e5f232
+turn 2076 200
+cmd 1 {"type":"set-rallypoint","entities":[150],"x":258,"z":74,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/cypress_wild","target":409},"queued":false}
+end
+hash-quick 0a54300714b459c02b53776ec387d80c
+turn 2077 200
+end
+hash-quick b675aa32c23286b5a3165c81b41717bb
+turn 2078 200
+end
+hash-quick 3be1d8eca87e8645abd9d64c7bc5f43c
+turn 2079 200
+end
+hash dc641b69cd997df7133be138bf65a3ad
+turn 2080 200
+end
+hash-quick 03882226d14f4a21f4711adcb943b505
+turn 2081 200
+end
+hash-quick 93acfd129eec6f03f349d89b5e134ec8
+turn 2082 200
+end
+hash-quick 1f7a9a9bf7bc26bbdb790919282cab4f
+turn 2083 200
+end
+hash-quick cb83a4a99b5fd5d7530b850a3fcc1111
+turn 2084 200
+end
+hash-quick 23799f6610216ee3f2bbde4d657b2a0e
+turn 2085 200
+cmd 2 {"type":"construct","template":"structures/spart/house","x":348.1085205078125,"z":683.2178955078125,"angle":2.356194490192345,"actorSeed":26005,"entities":[191,194,1910,1936,1937,1964,1977,1978,1979,1980,1981,1982],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 15b81bc1edb3fe8005d96dfd05837dd9
+turn 2086 200
+end
+hash-quick 03e9515de00efb924a2c1b34a94807c0
+turn 2087 200
+end
+hash-quick 5216d756dc3564ac5b1e9e14623f95e5
+turn 2088 200
+end
+hash-quick c16830e3f17b0d88be75333f14222e62
+turn 2089 200
+end
+hash-quick 88fbddd7dddd4eac7c9947fee8bae3a5
+turn 2090 200
+cmd 2 {"type":"repair","entities":[191,194,1910,1936,1937,1964,1977,1978,1979,1980,1981,1982],"target":2098,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick ae9fd30bf932a8e296fac985840554d2
+turn 2091 200
+end
+hash-quick ea05beee5d327d9a3df222baf600bec7
+turn 2092 200
+end
+hash-quick 46bf7f199f79abe99d9f392e1569b9bd
+turn 2093 200
+end
+hash-quick 08f89dbcf6ba032ad85b6d59e45caa8c
+turn 2094 200
+end
+hash-quick 6a8ad8c6bf4acba2fb49bb3a8a0b6ec5
+turn 2095 200
+end
+hash-quick 95a19c529040cf25b8f3ea2ef591dded
+turn 2096 200
+end
+hash-quick 9c50417ba84fa0f36743aa26ff3d3562
+turn 2097 200
+end
+hash-quick 7f13570c2ed08d3ab863bf09faeffe90
+turn 2098 200
+cmd 2 {"type":"gather","entities":[191,194,1910,1936,1937,1964,1977,1978,1979,1980,1981,1982],"target":470,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick d153bf36882302cd23234a721db0c22a
+turn 2099 200
+end
+hash 2b04fdf0cfd3e84ba500a03b6846ab2b
+turn 2100 200
+end
+hash-quick 9a06a2be5e2376db5008ac7a8137d998
+turn 2101 200
+end
+hash-quick 6d799d514ebc7e0bdc95a189058d4dd9
+turn 2102 200
+end
+hash-quick 44b348850942098d957de248ab6ba3d1
+turn 2103 200
+end
+hash-quick 9d92d4d27c26f0dbd4d09db4f955a590
+turn 2104 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":279.2161865234375,"z":572.3270874023438,"queued":false,"pushFront":false}
+end
+hash-quick 9980265e140bdf6e658e20fc071dc2e1
+turn 2105 200
+end
+hash-quick 1865df6a66b560bcca9c1be653df9fa6
+turn 2106 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":268.0046691894531,"z":538.0115356445312,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":262.43310546875,"z":527.7146606445312,"queued":false,"pushFront":false}
+end
+hash-quick 30d3dd9cdcc36f725cef94d7bb0579df
+turn 2107 200
+end
+hash-quick 8a49fdb40c992bac7086537c4e410b9b
+turn 2108 200
+end
+hash-quick 0cc59f6fc1e85552599df0b8f366999d
+turn 2109 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":300.3038330078125,"z":566.3130493164062,"queued":false,"pushFront":false}
+end
+hash-quick 915b387635e6764ee6e4532348b75474
+turn 2110 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":386.9404602050781,"z":434.1670227050781,"queued":false,"pushFront":false}
+end
+hash-quick ca094e236c68b31063fef01b37f2533a
+turn 2111 200
+end
+hash-quick 77308baffc77a892a46f35f9b01d96e0
+turn 2112 200
+end
+hash-quick e3c68f021ab445606ff73ed9c902df94
+turn 2113 200
+end
+hash-quick 70c3595fdfd0c293d6d7ee99eb9642fc
+turn 2114 200
+end
+hash-quick 53f24dd1de06c4bfe3436ef5d95cf2f1
+turn 2115 200
+end
+hash-quick 5b2ceb45a40fbb25c78bdfe9ecef87ec
+turn 2116 200
+end
+hash-quick 80a5adc6b82b153b7c75280c3f082739
+turn 2117 200
+end
+hash-quick 9559a0e1049976c2a55c21e3134526ef
+turn 2118 200
+end
+hash-quick 9fb75d7736a0d2a45f99d7008484fc9c
+turn 2119 200
+end
+hash f3fcbbc385492cfd512ac3b4d693a128
+turn 2120 200
+end
+hash-quick caadc05a95f4159149891eeed021d51b
+turn 2121 200
+cmd 1 {"type":"walk","entities":[155,156,2078,2079,2080,2081],"x":392.56146240234375,"z":451.8048095703125,"queued":false,"pushFront":false}
+end
+hash-quick 03ca14b67de440a803dfa4b252feba53
+turn 2122 200
+end
+hash-quick f150c189215558f4deed28dc023bb0d3
+turn 2123 200
+end
+hash-quick ed863bc6fbc48b715f8c9053f4cfbfa0
+turn 2124 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":444.4054870605469,"z":505.1125793457031,"queued":false,"pushFront":false}
+end
+hash-quick 38c47b66089c36483a531b2a906e5926
+turn 2125 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":445.1999816894531,"z":506.18359375,"queued":false,"pushFront":false}
+end
+hash-quick fa694aff6d9de17f4c80bb9c327b19d7
+turn 2126 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":445.1999816894531,"z":506.18359375,"queued":false,"pushFront":false}
+end
+hash-quick d68a413e45a95122fd201c972400ef53
+turn 2127 200
+end
+hash-quick 8c2b2a8980789f40e041eff1ffdf7c99
+turn 2128 200
+end
+hash-quick 05021b96cc6756dd4b5d6f934d55146f
+turn 2129 200
+end
+hash-quick 3e0056f59ecd7a2bc594fe6fb68fdc82
+turn 2130 200
+end
+hash-quick 230bd46a7ac827750f45e5f593233be9
+turn 2131 200
+end
+hash-quick a17547ec400d37b4538388472ecec5e0
+turn 2132 200
+end
+hash-quick 804aec9effa4b24143a2b1873bcb8237
+turn 2133 200
+end
+hash-quick 0ca63895b289b0cffff3595ad2b65a4a
+turn 2134 200
+end
+hash-quick 0e5a6f00ee752301e5b1f30d4d243ad3
+turn 2135 200
+end
+hash-quick 393a5c67d90a9910327a28f59b74e286
+turn 2136 200
+cmd 2 {"type":"gather","entities":[1939,1998,1999,2000,2013,2014],"target":1779,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 3ba9cb13b98a8b5680de3bad12462a38
+turn 2137 200
+end
+hash-quick 49dfe2c2f3373a41463dec8563d415b5
+turn 2138 200
+cmd 2 {"type":"returnresource","entities":[1939,1998,1999,2000,2013,2014],"target":2093,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 884a95cdce084ca4f961b34d0e0c910c
+turn 2139 200
+cmd 1 {"type":"research","entity":150,"template":"phase_town_generic"}
+end
+hash 385b31dd683e7479f4a5a26688595276
+turn 2140 200
+cmd 1 {"type":"research","entity":150,"template":"phase_town_generic"}
+end
+hash-quick c434aca101ca06182b75bacdb393ec84
+turn 2141 200
+end
+hash-quick 2893a901f55b10160f208822db3dac86
+turn 2142 200
+end
+hash-quick d9f0197626672e80ae1a71e43686bc1f
+turn 2143 200
+end
+hash-quick 90538c611a83b57b61a533cd25258a71
+turn 2144 200
+end
+hash-quick 650f9bcca6712c4ba4177130cdb78fcc
+turn 2145 200
+cmd 2 {"type":"construct","template":"structures/spart/farmstead","x":259.252197265625,"z":683.7445678710938,"angle":2.356194490192345,"actorSeed":44231,"entities":[1939,1998,1999,2000,2013,2014],"autorepair":true,"autocontinue":true,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick c730e46c4ea305430af02d1235ce3e24
+turn 2146 200
+end
+hash-quick 87097403f245c246e8002ca116f1b04c
+turn 2147 200
+end
+hash-quick 2759ce2379eecd2da4e30738a4649fd2
+turn 2148 200
+end
+hash-quick 1697d481ef1762ec281038e095fd71da
+turn 2149 200
+end
+hash-quick 2a54936928edf08af4cf9de892f49497
+turn 2150 200
+cmd 2 {"type":"walk-custom","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"targetPositions":[{"x":"407.34","y":"496.30"},{"x":"408.99","y":"495.68"},{"x":"410.63","y":"495.06"},{"x":"412.32","y":"494.58"},{"x":"414.01","y":"494.11"},{"x":"415.71","y":"493.63"},{"x":"417.40","y":"493.16"},{"x":"419.09","y":"492.68"},{"x":"420.43","y":"491.58"},{"x":"421.78","y":"490.46"}],"targetClasses":{"attack":["Unit","Structure"]},"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 1046faf488024e674107dbfb5bf25e14
+turn 2151 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":505.72186279296875,"z":622.7955322265625,"queued":false,"pushFront":false}
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":508.8641662597656,"z":623.2164306640625,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":427.7131652832031,"z":480.027099609375,"queued":false,"pushFront":false}
+end
+hash-quick c90a15225daddb3dfe7c7b19dace38b2
+turn 2152 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":508.8641662597656,"z":623.2164306640625,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk-custom","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"targetPositions":[{"x":"429.46","y":"472.43"},{"x":"429.73","y":"468.69"},{"x":"430.00","y":"464.96"},{"x":"430.26","y":"461.22"},{"x":"430.53","y":"457.49"},{"x":"430.48","y":"453.75"},{"x":"430.44","y":"450.00"},{"x":"430.39","y":"446.26"},{"x":"430.34","y":"442.51"},{"x":"430.29","y":"438.77"}],"targetClasses":{"attack":["Unit","Structure"]},"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 8160e42cce494e42e0576c190027db20
+turn 2153 200
+end
+hash-quick 4df208b6c1ab302d1fc612f2901dbc2b
+turn 2154 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":440.3971252441406,"z":410.7978210449219,"queued":false,"pushFront":false}
+end
+hash-quick 1267ba7a0a08f623c725408a0225f8ea
+turn 2155 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":382.2534484863281,"z":596.8898315429688,"queued":false,"pushFront":false}
+end
+hash-quick e630bfe1582400b34b3a4e897834561a
+turn 2156 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":471.1014709472656,"z":373.50482177734375,"queued":false,"pushFront":false}
+end
+hash-quick 5ff2a6a40598f5748c660d735c142d13
+turn 2157 200
+end
+hash-quick 2656168482074f8f9967004f047e8f91
+turn 2158 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":491.8660888671875,"z":406.1405029296875,"queued":false,"pushFront":false}
+end
+hash-quick 52d480adb14b1f450e9f06cb958c16a0
+turn 2159 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":349.0756530761719,"z":615.9190673828125,"queued":false,"pushFront":false}
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":350.19610595703125,"z":613.9703369140625,"queued":false,"pushFront":false}
+end
+hash 50c5510a933c8d70e9786f868625f10e
+turn 2160 200
+cmd 2 {"type":"gather","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"target":1749,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick f0d52a244b055381e053d38b42048374
+turn 2161 200
+end
+hash-quick 5ea700c178c40229994997173afecbb7
+turn 2162 200
+end
+hash-quick 9176be498a90b1314f42347326b959bb
+turn 2163 200
+end
+hash-quick 76b805a1c8877a69ccd8c732787e65e1
+turn 2164 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":541.1321411132812,"z":629.0803833007812,"queued":false,"pushFront":false}
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":538.4088134765625,"z":626.2324829101562,"queued":false,"pushFront":false}
+end
+hash-quick fffff1f9c89bfc3d72c27fa10fa31158
+turn 2165 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":511.9457092285156,"z":613.423583984375,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":383.8226013183594,"z":553.7305297851562,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":384.9669494628906,"z":565.3384399414062,"queued":false,"pushFront":false}
+end
+hash-quick 6ec6981d16c95ecf3bc864c26e4a44fc
+turn 2166 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":511.9457092285156,"z":613.423583984375,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":375.1383056640625,"z":570.8057250976562,"queued":false,"pushFront":false}
+end
+hash-quick d0449ca969bbdf241957266b2c9de306
+turn 2167 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":495.8374328613281,"z":606.2640991210938,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":361.2759094238281,"z":566.3441162109375,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":359.6065673828125,"z":562.845703125,"queued":false,"pushFront":false}
+end
+hash-quick 75dee3f481930bb70b5c6e35edf36cce
+turn 2168 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":483.79034423828125,"z":600.2623291015625,"queued":false,"pushFront":false}
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":483.79034423828125,"z":600.2623291015625,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":360.8262939453125,"z":560.7205810546875,"queued":false,"pushFront":false}
+end
+hash-quick 5705d31164207acdcfe279879fadda39
+turn 2169 200
+cmd 1 {"type":"stance","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"name":"standground"}
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":482.7426452636719,"z":600.2623291015625,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":363.0047607421875,"z":560.2181396484375,"queued":false,"pushFront":false}
+end
+hash-quick 53e4732b7673ab8eb7bd5f31b56c2896
+turn 2170 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":482.803466796875,"z":600.5171508789062,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":364.78363037109375,"z":558.542724609375,"queued":false,"pushFront":false}
+end
+hash-quick 40ef49e6a8037998f7d05f0f611f4719
+turn 2171 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":483.109619140625,"z":601.7993774414062,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":362.73052978515625,"z":570.3307495117188,"queued":false,"pushFront":false}
+end
+hash-quick 58fdf04823cec41e03b09fb9dcf4fb43
+turn 2172 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":483.38397216796875,"z":602.316162109375,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":362.795166015625,"z":570.6409912109375,"queued":false,"pushFront":false}
+end
+hash-quick 3315a066381f50d8223d7d3007370d90
+turn 2173 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":489.37652587890625,"z":609.7921142578125,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":362.795166015625,"z":570.6460571289062,"queued":false,"pushFront":false}
+end
+hash-quick 2b3216725718e95d9aa38e10720cd717
+turn 2174 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":508.075927734375,"z":620.1162109375,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk-custom","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"targetPositions":[{"x":"379.85","y":"548.91"},{"x":"381.17","y":"548.08"},{"x":"382.49","y":"547.26"},{"x":"383.81","y":"546.44"},{"x":"384.78","y":"545.25"},{"x":"385.76","y":"544.04"},{"x":"386.75","y":"542.84"},{"x":"387.73","y":"541.63"},{"x":"388.69","y":"540.41"},{"x":"389.65","y":"539.19"}],"targetClasses":{"attack":["Unit","Structure"]},"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 98fb03e0584b738f126d977273f45ab1
+turn 2175 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":508.075927734375,"z":620.1162109375,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk-custom","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"targetPositions":[{"x":"401.70","y":"514.79"},{"x":"403.04","y":"513.56"},{"x":"404.40","y":"512.36"},{"x":"405.77","y":"511.16"},{"x":"407.13","y":"509.96"},{"x":"408.42","y":"508.68"},{"x":"409.70","y":"507.40"},{"x":"410.82","y":"505.97"},{"x":"411.94","y":"504.54"},{"x":"413.06","y":"503.11"}],"targetClasses":{"attack":["Unit","Structure"]},"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":425.7835693359375,"z":481.1876220703125,"queued":false,"pushFront":false}
+end
+hash-quick 2aa7dd23f12403f39dda9bd50fe58994
+turn 2176 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":428.4039306640625,"z":478.42926025390625,"queued":false,"pushFront":false}
+end
+hash-quick 51a9b9dc5f177ebbda81bd9a9f2686bb
+turn 2177 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":515.3872680664062,"z":630.365966796875,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":429.9005126953125,"z":477.223876953125,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":430.94427490234375,"z":475.89373779296875,"queued":false,"pushFront":false}
+end
+hash-quick 87670f1c255f7e9ac6310c6bb55e363e
+turn 2178 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":431.085205078125,"z":475.709716796875,"queued":false,"pushFront":false}
+end
+hash-quick 554edc0bdd12fd131410cfd2ecb73c0c
+turn 2179 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":431.085205078125,"z":475.709716796875,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":431.52655029296875,"z":475.72509765625,"queued":false,"pushFront":false}
+end
+hash 1af0db1cb49db4ec63c8618d59ba181b
+turn 2180 200
+end
+hash-quick 36a29942025802f3dff662edf4ff82a4
+turn 2181 200
+end
+hash-quick 017c5cd5e6b644347f888dff7c5aeef1
+turn 2182 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":416.53094482421875,"z":447.5790100097656,"queued":false,"pushFront":false}
+end
+hash-quick e89197c3c2983b933337125abc122f9f
+turn 2183 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":409.2099304199219,"z":437.02911376953125,"queued":false,"pushFront":false}
+end
+hash-quick ca8cf30c685d23d2f28f206293aa7f76
+turn 2184 200
+end
+hash-quick d5fa6a250f2df64aa2f1d3960a6014eb
+turn 2185 200
+end
+hash-quick 67a2f0789986158b6dea8d9cc500a85d
+turn 2186 200
+end
+hash-quick 3b5b6e7772c708edce6d7976f25fa9ee
+turn 2187 200
+end
+hash-quick 8aa755d392fe47347ba89082a2ee31f1
+turn 2188 200
+end
+hash-quick 09f80ce74befaffdfd00c3c07dd2561d
+turn 2189 200
+end
+hash-quick 1edbebd4284ef4246a85c5cce7957571
+turn 2190 200
+end
+hash-quick cd0e580e6afdd4341866fe6d50db6185
+turn 2191 200
+end
+hash-quick 59d94057160b0fdf13c438fde425adf4
+turn 2192 200
+cmd 1 {"type":"walk","entities":[155,156,2078,2079,2080,2081],"x":536.8472290039062,"z":586.6505737304688,"queued":false,"pushFront":false}
+end
+hash-quick 9a3f197d9a527451a34507b8a0abb7f6
+turn 2193 200
+end
+hash-quick b0219fc9968dde6b11fc85f5ba425617
+turn 2194 200
+end
+hash-quick 111290bba488aa0cfc0283ef11790596
+turn 2195 200
+cmd 2 {"type":"train","entities":[2087],"template":"units/spart/infantry_javelineer_b","count":3}
+end
+hash-quick 91d1140d051f218ccf8e22d5a4d6b1a9
+turn 2196 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":500.65966796875,"z":690.120849609375,"queued":false,"pushFront":false}
+end
+hash-quick 73fe6e85bf4be3060d0a119cf815d3e4
+turn 2197 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":501.15380859375,"z":706.7042236328125,"queued":false,"pushFront":false}
+end
+hash-quick ed21085473e95e369d9a321683f11593
+turn 2198 200
+end
+hash-quick ad8df984a0b0999b57417534d5837005
+turn 2199 200
+end
+hash 84b34fe1e29193a74fd32b8dda5ed31d
+turn 2200 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":523.7864990234375,"z":688.2789306640625,"queued":false,"pushFront":false}
+end
+hash-quick c190638cac00a028b022171547d18258
+turn 2201 200
+end
+hash-quick 343ffa16855e06090e319f709f6abfad
+turn 2202 200
+cmd 2 {"type":"train","entities":[190],"template":"units/spart/infantry_javelineer_b","count":1}
+end
+hash-quick e4ac88eedf05fa5b613bd51cda553e61
+turn 2203 200
+end
+hash-quick d42f315526acdf0ce46617b3a3586ef9
+turn 2204 200
+end
+hash-quick 433827b69d5a642023107d891e950607
+turn 2205 200
+end
+hash-quick 4f3722b1e758f53999235ca61426e3bc
+turn 2206 200
+cmd 2 {"type":"stop","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"queued":false}
+end
+hash-quick 9b6758bffa556c85be99a8ad6ba5f16c
+turn 2207 200
+cmd 2 {"type":"stop","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"queued":false}
+end
+hash-quick efac7455948bfee910d415b66570d6b3
+turn 2208 200
+end
+hash-quick ddb051f1af1e7f683fd3a7c19d3250dc
+turn 2209 200
+cmd 1 {"type":"walk","entities":[160],"x":369.7181701660156,"z":457.14056396484375,"queued":false,"pushFront":false}
+end
+hash-quick d168ec66fc72caacd84308e734150ca1
+turn 2210 200
+end
+hash-quick 11b8b513e7cc9f8138d046aa0d66ae79
+turn 2211 200
+end
+hash-quick 91d33c6a962c28d3e9ba74c5768991c6
+turn 2212 200
+end
+hash-quick 01d01fafd301d78ce98608ad1fbbfc17
+turn 2213 200
+end
+hash-quick ca788b2adbd6612609ce5abef0e85baa
+turn 2214 200
+end
+hash-quick 724ea7c7d420c91fdcb5b2b0a24c9a41
+turn 2215 200
+end
+hash-quick 343d0f67531485d246933d83fd245199
+turn 2216 200
+cmd 1 {"type":"gather","entities":[155,156,2078,2079,2080,2081],"target":1318,"queued":false,"pushFront":false}
+end
+hash-quick 958cef397e2c0a7ccff62e2e08c168bb
+turn 2217 200
+cmd 1 {"type":"gather","entities":[155,156,2078,2079,2080,2081],"target":667,"queued":false,"pushFront":false}
+end
+hash-quick 3a50d9bfd35c0340267a4e4f629a57ec
+turn 2218 200
+cmd 1 {"type":"walk","entities":[155,156,2078,2079,2080,2081],"x":218.5328369140625,"z":522.0746459960938,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk-custom","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"targetPositions":[{"x":"372.70","y":"557.56"},{"x":"373.51","y":"557.12"},{"x":"374.31","y":"556.67"},{"x":"375.12","y":"556.22"},{"x":"375.92","y":"555.77"},{"x":"376.73","y":"555.32"},{"x":"377.53","y":"554.87"},{"x":"378.34","y":"554.42"},{"x":"379.14","y":"553.97"},{"x":"379.95","y":"553.52"}],"targetClasses":{"attack":["Unit","Structure"]},"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 77ddd2bc929fb55402715016b4075591
+turn 2219 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":310.978515625,"z":581.828369140625,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":298.6337890625,"z":601.15087890625,"queued":false,"pushFront":false}
+end
+hash 579d8858383088b74d3a1f165ca271c6
+turn 2220 200
+cmd 2 {"type":"walk-custom","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"targetPositions":[{"x":"297.29","y":"614.97"},{"x":"297.10","y":"616.03"},{"x":"296.91","y":"617.08"},{"x":"297.06","y":"618.12"},{"x":"297.20","y":"619.18"},{"x":"297.35","y":"620.24"},{"x":"297.60","y":"621.28"},{"x":"297.86","y":"622.32"},{"x":"298.12","y":"623.36"},{"x":"298.37","y":"624.40"}],"targetClasses":{"attack":["Unit","Structure"]},"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 94f7b09c6a9c5998b75a3535ec616c33
+turn 2221 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":305.75274658203125,"z":649.9937744140625,"queued":false,"pushFront":false}
+end
+hash-quick cb364521babc40397195b9a1b31fb0bf
+turn 2222 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":331.89776611328125,"z":665.4453735351562,"queued":false,"pushFront":false}
+end
+hash-quick 9949ad90c6b533328a1b4dd1b960e600
+turn 2223 200
+end
+hash-quick d5c4e871fb667edeca6fad65c45186b0
+turn 2224 200
+end
+hash-quick 10d959ff1960732df85a4faeeaa4bfdf
+turn 2225 200
+end
+hash-quick 2c60ec5c610462e0dcece94fe449f34f
+turn 2226 200
+end
+hash-quick 4cb0fe901b3ef6030696ac4bce1b877e
+turn 2227 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":470.38739013671875,"z":748.9886474609375,"queued":false,"pushFront":false}
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":461.16448974609375,"z":746.499267578125,"queued":false,"pushFront":false}
+end
+hash-quick 58425730088f9f49f8019131fa0ec727
+turn 2228 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":457.0406188964844,"z":752.2274169921875,"queued":false,"pushFront":false}
+end
+hash-quick f491b8e2b5eca428deeb5c9373e5aa8a
+turn 2229 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":449.0660400390625,"z":741.0126953125,"queued":false,"pushFront":false}
+end
+hash-quick 888cf1fb9cffa8035958bf257e0d5dd0
+turn 2230 200
+end
+hash-quick 89326dfed9d23f179ad2e5f91d9c914c
+turn 2231 200
+cmd 2 {"type":"walk","entities":[2115,2116,2117,2118,2119,2120],"x":331.4662780761719,"z":646.03857421875,"queued":false,"pushFront":false}
+end
+hash-quick 60fddf03ffd1e4a41785c826df4067f2
+turn 2232 200
+end
+hash-quick cf125e76fe916d1f814e85dcbc49beb4
+turn 2233 200
+end
+hash-quick 21860b34036a4142b26ea83ce36a32b3
+turn 2234 200
+cmd 2 {"type":"walk","entities":[2115,2116,2117,2118,2119,2120],"x":368.2413330078125,"z":620.7747802734375,"queued":false,"pushFront":false}
+end
+hash-quick 2c205c8a958d2c740170be05f682febd
+turn 2235 200
+end
+hash-quick a582d8b4f3e012833daf02db2aba1760
+turn 2236 200
+end
+hash-quick 76ebdd24a87bc87057554d963d45cdf2
+turn 2237 200
+cmd 2 {"type":"walk","entities":[2115,2116,2117,2118,2119,2120],"x":362.4128723144531,"z":620.5479736328125,"queued":false,"pushFront":false}
+end
+hash-quick 71c65f1e8e242933d21403fa12044b3a
+turn 2238 200
+cmd 2 {"type":"walk","entities":[2115,2116,2117,2118,2119,2120],"x":361.9564208984375,"z":618.35546875,"queued":false,"pushFront":false}
+end
+hash-quick 393faf82ab050ef2bc9dd4ec334178da
+turn 2239 200
+cmd 2 {"type":"walk","entities":[2115,2116,2117,2118,2119,2120],"x":394.3522033691406,"z":644.5043334960938,"queued":false,"pushFront":false}
+end
+hash b75342c30fc0780d1824cc1746c7a93a
+turn 2240 200
+end
+hash-quick d1972d15b4b413a956bfb5ac0c47431d
+turn 2241 200
+cmd 2 {"type":"walk","entities":[2115,2116,2117,2118,2119,2120],"x":365.3330993652344,"z":607.247314453125,"queued":false,"pushFront":false}
+end
+hash-quick 7d428dbb744700b1a5d5f197de59e599
+turn 2242 200
+end
+hash-quick 9fb4b4e0356ba187baab240195113f95
+turn 2243 200
+end
+hash-quick 997413dde3524730a768df683a44d126
+turn 2244 200
+end
+hash-quick 693aed4a0ae1fca8aa5dd75b13167b15
+turn 2245 200
+end
+hash-quick 20488d9550aaff990a8896203931b62b
+turn 2246 200
+end
+hash-quick cd2dfbaa1cd61056978915bc00b7d7e8
+turn 2247 200
+cmd 1 {"type":"walk","entities":[155,156,2078,2079,2080,2081],"x":230.7608642578125,"z":553.8261108398438,"queued":false,"pushFront":false}
+cmd 1 {"type":"walk","entities":[155,156,2078,2079,2080,2081],"x":247.54348754882812,"z":562.2174072265625,"queued":false,"pushFront":false}
+end
+hash-quick e9f9858a265ae20abcd8da9b64ae3c2c
+turn 2248 200
+end
+hash-quick 669bbfec04e36c214fbf167bc52d53a6
+turn 2249 200
+end
+hash-quick aee6995dae02fc6b491488e9b969d284
+turn 2250 200
+end
+hash-quick 7bb3af8fe9d98f055edee5192ed2e224
+turn 2251 200
+end
+hash-quick 606ea2fa01c037b2bd09d3b0adf2bd6b
+turn 2252 200
+end
+hash-quick 99c37567b7fcaa3ea9cddaf6e03fc6e1
+turn 2253 200
+cmd 2 {"type":"walk","entities":[2115,2116,2117,2118,2119,2120],"x":364.35137939453125,"z":629.4344482421875,"queued":false,"pushFront":false}
+end
+hash-quick 8ae30f6172c513e6cef9d2b36a3c0b1c
+turn 2254 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":356.0254821777344,"z":757.239501953125,"queued":false,"pushFront":false}
+end
+hash-quick ac139fde12bdb6b0ba893d7bbe5655a1
+turn 2255 200
+end
+hash-quick 82f0d7c39e6f5cb0a544662c46a6cfb7
+turn 2256 200
+end
+hash-quick ac5ddae39fd94f98312eb602d1632edf
+turn 2257 200
+cmd 2 {"type":"construct","template":"structures/spart/house","x":365.8126220703125,"z":615.6656494140625,"angle":2.356194490192345,"actorSeed":65505,"entities":[2115,2116,2117,2118,2119,2120],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 1515fbc04eba99aec78d7a9726e2171a
+turn 2258 200
+end
+hash-quick eb9066044b25f21ae7f8cb879aae6f55
+turn 2259 200
+end
+hash 3941a7bbcec49487715994d51eca7043
+turn 2260 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":304.60693359375,"z":576.088623046875,"queued":false,"pushFront":false}
+end
+hash-quick 7d960b8f0368bbc0f9a334e8d52eec35
+turn 2261 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":281.0728759765625,"z":582.9256591796875,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":262.11187744140625,"z":593.5916748046875,"queued":false,"pushFront":false}
+end
+hash-quick 986070626d8cc81f93932485d9ecc82a
+turn 2262 200
+end
+hash-quick ceba9c33fc48b178fff3fb4127de9f26
+turn 2263 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":286.62451171875,"z":677.5906372070312,"queued":false,"pushFront":false}
+end
+hash-quick d7bd02a9ea033388132a98e97ae7ab29
+turn 2264 200
+cmd 1 {"type":"walk-custom","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"targetPositions":[{"x":"314.94","y":"723.36"},{"x":"316.13","y":"723.36"},{"x":"316.49","y":"724.47"},{"x":"316.83","y":"725.61"},{"x":"317.18","y":"726.75"},{"x":"317.58","y":"727.87"},{"x":"317.98","y":"728.99"},{"x":"318.38","y":"730.11"},{"x":"318.75","y":"731.24"},{"x":"319.11","y":"732.37"}],"targetClasses":{"attack":["Unit","Structure"]},"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":287.12640380859375,"z":686.36279296875,"queued":false,"pushFront":false}
+end
+hash-quick 9e773c86dfe9d43b243fc739cc1e96bf
+turn 2265 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":321.2257385253906,"z":735.222900390625,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk-custom","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"targetPositions":[{"x":"273.41","y":"657.20"},{"x":"273.85","y":"658.15"},{"x":"274.30","y":"659.10"},{"x":"274.74","y":"660.04"},{"x":"274.90","y":"661.08"},{"x":"275.06","y":"662.11"},{"x":"275.22","y":"663.15"},{"x":"275.37","y":"664.18"},{"x":"275.67","y":"665.18"},{"x":"275.98","y":"666.18"}],"targetClasses":{"attack":["Unit","Structure"]},"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick beda36729d83e9f3ff566742da68ffeb
+turn 2266 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":335.7337341308594,"z":743.2901000976562,"queued":false,"pushFront":false}
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":336.2469177246094,"z":743.2901000976562,"queued":false,"pushFront":false}
+end
+hash-quick 24bbe63176066b98f5330ed65e8ab692
+turn 2267 200
+cmd 1 {"type":"attack","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"target":2022,"allowCapture":true,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk-custom","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"targetPositions":[{"x":"255.73","y":"624.83"},{"x":"257.28","y":"625.77"},{"x":"258.83","y":"626.72"},{"x":"260.38","y":"627.67"},{"x":"261.93","y":"628.62"},{"x":"263.48","y":"629.56"},{"x":"265.03","y":"630.51"},{"x":"266.59","y":"631.46"},{"x":"268.14","y":"632.41"},{"x":"269.69","y":"633.35"}],"targetClasses":{"attack":["Unit","Structure"]},"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick f3c3025f5c9212cebd38bbd9509781f7
+turn 2268 200
+end
+hash-quick 9dcd29b932660cba790f4419cde2088a
+turn 2269 200
+end
+hash-quick 783ef8849dbd67e786c2b3d5aeefb81d
+turn 2270 200
+end
+hash-quick baa5fc43e720d302fe4c82bcd3228c87
+turn 2271 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":387.65966796875,"z":648.74755859375,"queued":false,"pushFront":false}
+end
+hash-quick 11df85ec6cebdc14e522860d8f32e4a3
+turn 2272 200
+end
+hash-quick 0e7d51311a4e1d542f190bdd8c01b37c
+turn 2273 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":295.7099914550781,"z":749.2190551757812,"queued":false,"pushFront":false}
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":295.55413818359375,"z":747.1845703125,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":395.65228271484375,"z":608.232421875,"queued":false,"pushFront":false}
+end
+hash-quick 3c7f1bc0c9c8f96110d8bd491f3e5557
+turn 2274 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":295.55413818359375,"z":747.1845703125,"queued":false,"pushFront":false}
+end
+hash-quick d066db51181ae3e82175793378ed5336
+turn 2275 200
+end
+hash-quick 42f26dbef37139953999878316b199fe
+turn 2276 200
+end
+hash-quick 60e6734428c2b1922c766b003dd8f7e1
+turn 2277 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":374.97515869140625,"z":663.4248657226562,"queued":false,"pushFront":false}
+end
+hash-quick ba06a9f46ae3dbecc4349795a1831249
+turn 2278 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":298.095458984375,"z":734.0676879882812,"queued":false,"pushFront":false}
+end
+hash-quick 95c68387afcffcda6f2128f3d0736311
+turn 2279 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":298.4098205566406,"z":728.5615234375,"queued":false,"pushFront":false}
+end
+hash 5bea1eae9f00a6c8f1d84ac6006c83e7
+turn 2280 200
+end
+hash-quick 9716726d73188df4e00d6fbc04b598dd
+turn 2281 200
+end
+hash-quick 37375f7b947fb841a6febc38f9867f23
+turn 2282 200
+end
+hash-quick 5d276e2cb13b8b4cc423fcadf3599010
+turn 2283 200
+end
+hash-quick 2c2535e68f5cdc7478f56138409252e7
+turn 2284 200
+end
+hash-quick f539ac9fe2b7a4048084b530b3579825
+turn 2285 200
+end
+hash-quick 508781a7ae2feee49f2fb46ccb4db8c7
+turn 2286 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075,2124],"x":312.484375,"z":662.9418334960938,"queued":false,"pushFront":false}
+end
+hash-quick 70d3b280234e659f3bdf983d310c63ee
+turn 2287 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075,2124],"x":302.82354736328125,"z":662.6755981445312,"queued":false,"pushFront":false}
+end
+hash-quick 735a900336ed9417b0d2d3a83772b444
+turn 2288 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":268.4249267578125,"z":703.9401245117188,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075,2124],"x":302.43927001953125,"z":662.5186767578125,"queued":false,"pushFront":false}
+end
+hash-quick 81f83f0b87675fcad5685a0c213ac256
+turn 2289 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":268.4249267578125,"z":703.9401245117188,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075,2124],"x":302.4267272949219,"z":662.5186767578125,"queued":false,"pushFront":false}
+end
+hash-quick a77b5dc3f89f685fd0763293c1a138c7
+turn 2290 200
+end
+hash-quick 049cad5180516184b7e5a3024da4e3aa
+turn 2291 200
+end
+hash-quick 620081316975a8a40e938b2799d4a30f
+turn 2292 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":271.4728698730469,"z":702.1411743164062,"queued":false,"pushFront":false}
+end
+hash-quick 801602e7f8373888f03e3fec710cfcb9
+turn 2293 200
+end
+hash-quick e4392264ac4ce175c6550156f2510e30
+turn 2294 200
+end
+hash-quick b8ee40b99b40d8054c9e9d0707b585bf
+turn 2295 200
+end
+hash-quick e9a3a3677a36d5edf823c8d7e91a4aff
+turn 2296 200
+cmd 2 {"type":"returnresource","entities":[1939,1998,1999,2000,2013,2014],"target":2122,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 2 {"type":"gather","entities":[1939,1998,1999,2000,2013,2014],"target":501,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick db6ac72a059e553630d612607a02afb3
+turn 2297 200
+end
+hash-quick dba3363ed01e7a1417f16f82f4138995
+turn 2298 200
+end
+hash-quick 4c678733d649643bcfe7b4fbee8498d4
+turn 2299 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075,2124],"x":302.3232421875,"z":632.1327514648438,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075,2124],"x":326.0844421386719,"z":651.5873413085938,"queued":false,"pushFront":false}
+end
+hash 9e8ea45b0489692e1437648e7e87f181
+turn 2300 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075,2124],"x":333.4735107421875,"z":662.4310302734375,"queued":false,"pushFront":false}
+end
+hash-quick a2064edeccef69e93caad27d38842bbd
+turn 2301 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075,2124],"x":344.0515441894531,"z":671.7492065429688,"queued":false,"pushFront":false}
+end
+hash-quick 7205ac3ec27c8cc060923c5a0b0d4e5a
+turn 2302 200
+cmd 2 {"type":"walk-custom","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075,2124],"targetPositions":[{"x":"357.65","y":"664.09"},{"x":"357.83","y":"665.30"},{"x":"358.00","y":"666.52"},{"x":"358.18","y":"667.74"},{"x":"358.35","y":"668.95"},{"x":"358.53","y":"670.17"},{"x":"358.70","y":"671.36"},{"x":"358.49","y":"672.55"},{"x":"357.73","y":"673.52"},{"x":"357.01","y":"674.44"},{"x":"356.00","y":"675.13"}],"targetClasses":{"attack":["Unit","Structure"]},"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 3154b4de1cdd2cacfcaa417ea87a4ac9
+turn 2303 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075,2124],"x":362.3305358886719,"z":656.892333984375,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075,2124],"x":360.52862548828125,"z":659.2093505859375,"queued":false,"pushFront":false}
+end
+hash-quick cffc81e090d1f3c4d5cf546071f6349f
+turn 2304 200
+cmd 1 {"type":"train","entities":[150],"template":"units/kush/infantry_archer_b","count":4}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075,2124],"x":357.9921569824219,"z":662.0366821289062,"queued":false,"pushFront":false}
+end
+hash-quick 0a4f1c2fa753ad92aad7e9e4bf63cae9
+turn 2305 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075,2124],"x":355.0451354980469,"z":665.7924194335938,"queued":false,"pushFront":false}
+end
+hash-quick 0568251afa4d6153af817abfd0e11449
+turn 2306 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075,2124],"x":305.226318359375,"z":691.5288696289062,"queued":false,"pushFront":false}
+end
+hash-quick e913752d9ec2992bd78142fd57aa8e75
+turn 2307 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075,2124],"x":318.95458984375,"z":713.4061279296875,"queued":false,"pushFront":false}
+end
+hash-quick d719923200784d1eeeb9262da4de5e49
+turn 2308 200
+cmd 1 {"type":"attack","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"target":2093,"allowCapture":true,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075,2124],"x":323.78564453125,"z":715.93359375,"queued":false,"pushFront":false}
+end
+hash-quick a4e3d14dd54222de039f3ca82cf3099d
+turn 2309 200
+cmd 1 {"type":"attack","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"target":2093,"allowCapture":true,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075,2124],"x":327.5511474609375,"z":712.6827392578125,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075,2124],"x":323.3055114746094,"z":716.1634521484375,"queued":false,"pushFront":false}
+end
+hash-quick fe299bdf1714c0df1b99b21e7f78bab2
+turn 2310 200
+cmd 1 {"type":"attack","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"target":1939,"queued":false,"pushFront":false,"allowCapture":false}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075,2124],"x":317.01300048828125,"z":719.8759155273438,"queued":false,"pushFront":false}
+end
+hash-quick ee468ec753d55d5491a5fc9afb8d7e9c
+turn 2311 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":206.1214599609375,"z":679.7089233398438,"queued":false,"pushFront":false}
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":206.08224487304688,"z":679.3236083984375,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075,2124],"x":315.0880126953125,"z":722.7241821289062,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075,2124],"x":315.3262634277344,"z":723.6014404296875,"queued":false,"pushFront":false}
+end
+hash-quick c13adbced338d405d2821b1c3c5a37df
+turn 2312 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":206.5794677734375,"z":677.0323486328125,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075,2124],"x":311.197265625,"z":725.3016967773438,"queued":false,"pushFront":false}
+end
+hash-quick 58f3f7b62afd27af2051da80306322e7
+turn 2313 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075,2124],"x":308.61480712890625,"z":725.7824096679688,"queued":false,"pushFront":false}
+end
+hash-quick 99fc7af10e77d7a46ffdd5f828d7d312
+turn 2314 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":240.1309814453125,"z":628.4432983398438,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075,2124],"x":308.3974304199219,"z":725.655029296875,"queued":false,"pushFront":false}
+end
+hash-quick 4539469e034e971a3e462f3b8c3909eb
+turn 2315 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":239.9375,"z":630.0300903320312,"queued":false,"pushFront":false}
+end
+hash-quick 2fd407eafd940ec5c0c887263a4ea996
+turn 2316 200
+end
+hash-quick 9db4f09d04d0bd79fc9a371b2fcf6e0a
+turn 2317 200
+end
+hash-quick 6a3dae6f1bca711ba7eb5ecf9114b530
+turn 2318 200
+end
+hash-quick 0eed13fb3e804a12b1bd466799a81625
+turn 2319 200
+end
+hash 4fe69c0aeab061818b20f490c4d8c79a
+turn 2320 200
+end
+hash-quick 195bb44aab7e31cd0e798afc06546e33
+turn 2321 200
+end
+hash-quick bb554a33d91117ffb5332f3f0650a60e
+turn 2322 200
+cmd 2 {"type":"stop","entities":[197,198,199,1922,1923,1951,1952,2028,2029,2030,2031,2048,2049,2050,2071,2072,2073,2074,2075,2084,2085,2095,2096,2097,2110,2111,2112,2113,2124],"queued":false}
+end
+hash-quick e8c5ea51cf4a9784bea27356290e7436
+turn 2323 200
+cmd 2 {"type":"stop","entities":[197,198,199,1922,1923,1951,1952,2028,2029,2030,2031,2048,2049,2050,2071,2072,2073,2074,2075,2084,2085,2095,2096,2097,2110,2111,2112,2113,2124],"queued":false}
+end
+hash-quick b193fe18421c293d00cd3fd99b28ab9a
+turn 2324 200
+end
+hash-quick 9dd315c9cc179177551a6e90ad8bd46b
+turn 2325 200
+end
+hash-quick 16248303d287aa5d63080d2336203159
+turn 2326 200
+end
+hash-quick 7e386b823635efb5ca01cef974d0e8e7
+turn 2327 200
+end
+hash-quick dcb42c40085035caa210acbe32297255
+turn 2328 200
+end
+hash-quick af5edf9efb55d3f97172763ea17e81d9
+turn 2329 200
+end
+hash-quick 18b770d6c31d4334d14e2a561da26185
+turn 2330 200
+cmd 1 {"type":"walk","entities":[155,156,2078,2079,2080,2081],"x":289.9397888183594,"z":470.145751953125,"queued":false,"pushFront":false}
+end
+hash-quick 6b4729fcbddd70d450b5c56e2fed7ede
+turn 2331 200
+end
+hash-quick 032db43ba830a9488a35f1b605376dc6
+turn 2332 200
+end
+hash-quick 09bcdfa61e822fe1a9f845b47baae332
+turn 2333 200
+end
+hash-quick 8262d64892d9b475ca6c68e4e8b5e980
+turn 2334 200
+end
+hash-quick 3870e34cc62c6d091a4f9fa8effdf92a
+turn 2335 200
+end
+hash-quick 68d107efab055a69bfd940c4cc2af0bc
+turn 2336 200
+end
+hash-quick 24ff6bef118253bf52632003710907d4
+turn 2337 200
+end
+hash-quick e19ba33e7e2eeb291cb7099da669893d
+turn 2338 200
+end
+hash-quick fe3a6cffd607e14d3fba4d1f7c2a05d9
+turn 2339 200
+cmd 1 {"type":"construct","template":"structures/kush/camp_noba","x":299.15325927734375,"z":446.0567321777344,"angle":2.356194490192345,"actorSeed":23211,"entities":[155,156,2078,2079,2080,2081],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false}
+end
+hash 5a6b9674710091186cc6b7fd3bee510b
+turn 2340 200
+end
+hash-quick af65e34d99cefa1c60aa9c15cd3ef434
+turn 2341 200
+end
+hash-quick ffccff6213ca1c9f9f45cd87fde3b0d9
+turn 2342 200
+end
+hash-quick 2874ed98ec67d06d0aa0b5a89d559b30
+turn 2343 200
+cmd 1 {"type":"walk-custom","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"targetPositions":[{"x":"223.27","y":"505.58"},{"x":"223.16","y":"506.51"},{"x":"223.05","y":"507.45"},{"x":"222.94","y":"508.38"},{"x":"222.68","y":"509.29"},{"x":"222.49","y":"510.21"},{"x":"222.30","y":"511.13"},{"x":"222.07","y":"512.05"},{"x":"221.83","y":"512.95"},{"x":"221.80","y":"513.90"}],"targetClasses":{"attack":["Unit","Structure"]},"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 7a5a84b979893c64e64dea38d27a7359
+turn 2344 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":224.11968994140625,"z":494.293701171875,"queued":false,"pushFront":false}
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2009,2010,2023,2024,2025],"x":225.12234497070312,"z":489.55401611328125,"queued":false,"pushFront":false}
+end
+hash-quick d94257b3b7e9ab6ff3b8d9dea3d9a246
+turn 2345 200
+end
+hash-quick 78439e4c03a796a57c13f2596c46881b
+turn 2346 200
+end
+hash-quick 08391a58ff377f3bb8b6de40d5515243
+turn 2347 200
+end
+hash-quick 6452e73d5c99c091f9a6b629cc9a3687
+turn 2348 200
+end
+hash-quick 034b392456def4d9eca931d6b87dceef
+turn 2349 200
+end
+hash-quick d794b66a531efaa79d705a0aa489722d
+turn 2350 200
+end
+hash-quick bbc7bfb3513cac6e6fa05249c115bb42
+turn 2351 200
+end
+hash-quick 42d8989835cafddb4af9236b028ae59d
+turn 2352 200
+end
+hash-quick a2a8eb29a6bfae07cee6e7dabd18af8f
+turn 2353 200
+end
+hash-quick 6188c374e3e5db39531016b1a2f71b23
+turn 2354 200
+cmd 1 {"type":"set-rallypoint","entities":[150],"x":242,"z":82,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/cypress_wild","target":423},"queued":false}
+end
+hash-quick a1b11f285889d853541a45fa94ba3b6a
+turn 2355 200
+cmd 1 {"type":"set-rallypoint","entities":[150],"x":242,"z":74,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/pine_maritime_short","target":425},"queued":false}
+end
+hash-quick 01ce7437832a6ab0fe15e0f6c7afd037
+turn 2356 200
+end
+hash-quick b533634a3ca05853c1c2c6d9a285c2c6
+turn 2357 200
+cmd 2 {"type":"returnresource","entities":[197,198,2028,2029,2030,2031,2048,2049,2050,2072,2073,2084,2085,2095,2096,2097,2110,2111,2112,2113],"target":2093,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick a3ba355ddf9c227150e434a043ea1097
+turn 2358 200
+cmd 2 {"type":"gather","entities":[197,198,2028,2029,2030,2031,2048,2049,2050,2072,2073,2084,2085,2095,2096,2097,2110,2111,2112,2113],"target":497,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick fcd93b7e7318efe8b9a23432403af0f9
+turn 2359 200
+end
+hash c554a211374e6ab90a50747216cbfcc9
+turn 2360 200
+end
+hash-quick c4f09b29e84fbb6f8e25ec80df2ff0f9
+turn 2361 200
+end
+hash-quick dffc23bb8d3a1786466964bf24760209
+turn 2362 200
+end
+hash-quick e3ff81b8bce2b93af4a8eda75a1834e5
+turn 2363 200
+cmd 1 {"type":"construct","template":"structures/kush/house","x":237.66033935546875,"z":100.26022338867188,"angle":2.356194490192345,"actorSeed":31627,"entities":[2055,2064,2066,2067,2100],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false}
+end
+hash-quick 979a91d41d6b460fde347dfe93f864ac
+turn 2364 200
+end
+hash-quick f91e2fc3a1331447a7d036a9c136d312
+turn 2365 200
+end
+hash-quick ca356c29667463789394cc1fc5e650f6
+turn 2366 200
+end
+hash-quick a70dd5caa4229da0421985db112c400e
+turn 2367 200
+cmd 2 {"type":"train","entities":[2087],"template":"units/spart/infantry_javelineer_b","count":2}
+end
+hash-quick 36beb3a47eaa7a83f2fd37a06114e4f1
+turn 2368 200
+end
+hash-quick a86c6c855604d2ecbd4b116f7b61ea0f
+turn 2369 200
+end
+hash-quick 397df220cb6a7f8517d3ae16b13c2b93
+turn 2370 200
+cmd 1 {"type":"repair","entities":[2055,2064,2066,2067,2100],"target":2144,"autocontinue":true,"queued":false,"pushFront":false}
+end
+hash-quick d6dcf27b077047d2327a2a0b226515f9
+turn 2371 200
+end
+hash-quick d749c71311407d9f4b122b4a8dc58daa
+turn 2372 200
+cmd 2 {"type":"construct","template":"structures/spart/house","x":348.5810852050781,"z":621.268310546875,"angle":2.356194490192345,"actorSeed":53848,"entities":[2115,2116,2117,2118,2119,2120],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick f27d604d9713654b7c2489eff6c76fa6
+turn 2373 200
+cmd 1 {"type":"gather","entities":[2055,2064,2066,2067,2100],"target":420,"queued":true,"pushFront":false}
+end
+hash-quick bdefb2a2b767dcd7179badbd2e1b4914
+turn 2374 200
+end
+hash-quick a0cc71b57de6d3f46f7607b724a8cf54
+turn 2375 200
+end
+hash-quick dd0bb565630776c60020800c3cc6843a
+turn 2376 200
+end
+hash-quick 88de4a5ea033ba97a5bf24e8ab9ad44a
+turn 2377 200
+cmd 2 {"type":"train","entities":[190],"template":"units/spart/support_female_citizen","count":5}
+end
+hash-quick 799f6d7cac85034b9d1570335a3198ae
+turn 2378 200
+end
+hash-quick 7832137b3007661df411663bf47944de
+turn 2379 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"x":177.19778442382812,"z":486.7239074707031,"queued":false,"pushFront":false}
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"x":162.83935546875,"z":492.23406982421875,"queued":false,"pushFront":false}
+end
+hash dce0891c883a632abe5dc79f7bb0296d
+turn 2380 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"x":161.07424926757812,"z":492.23406982421875,"queued":false,"pushFront":false}
+end
+hash-quick 3b60e45d8d47c3dae4fcfec80b97ffd2
+turn 2381 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"x":160.47567749023438,"z":492.02484130859375,"queued":false,"pushFront":false}
+end
+hash-quick 479b930541dd089fc5edcaaec461cd73
+turn 2382 200
+end
+hash-quick 08d2138092deab8f7a5fd38efb148429
+turn 2383 200
+end
+hash-quick 04da925eba7c4f91de1fd7bd39b6cf5e
+turn 2384 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"x":193.19967651367188,"z":486.1085205078125,"queued":false,"pushFront":false}
+end
+hash-quick 8ba65f385439f58567545b02bf3cd969
+turn 2385 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"x":186.57025146484375,"z":483.0926208496094,"queued":false,"pushFront":false}
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"x":181.88919067382812,"z":474.08074951171875,"queued":false,"pushFront":false}
+end
+hash-quick 48394d43693cfc4c3cbcb41c162a1cef
+turn 2386 200
+end
+hash-quick 2faf3731e9542b1d34f353f1b245a6f8
+turn 2387 200
+end
+hash-quick e3583037efa28e11e41063ce1b788955
+turn 2388 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"x":176.1260986328125,"z":459.3295593261719,"queued":false,"pushFront":false}
+end
+hash-quick dfae3bf7aaa7284d4dfe72a48c5cc40a
+turn 2389 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"x":177.481689453125,"z":449.06365966796875,"queued":false,"pushFront":false}
+cmd 2 {"type":"returnresource","entities":[193,1938,1939,1965,1978,1979,1981,1982,2000,2014],"target":2093,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick d1b6e492de214260bc2e1ee085b3dbd1
+turn 2390 200
+end
+hash-quick be951ec8817105b79da66fc59b09cc05
+turn 2391 200
+end
+hash-quick 8a9804cfad13f3437619af050dd6b47f
+turn 2392 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"x":200.41567993164062,"z":425.8233642578125,"queued":false,"pushFront":false}
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"x":200.094482421875,"z":426.13507080078125,"queued":false,"pushFront":false}
+end
+hash-quick a83a2cac314f34b48a72044bd58d5847
+turn 2393 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"x":200.094482421875,"z":426.13507080078125,"queued":false,"pushFront":false}
+cmd 2 {"type":"gather","entities":[193,1938,1939,1965,1978,1979,1981,1982,2000,2014],"target":1778,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 8e164e950e4a3305ce593b6e0ab114f5
+turn 2394 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"x":200.22149658203125,"z":425.6582336425781,"queued":false,"pushFront":false}
+end
+hash-quick e62e62c1755dd8dca1c761317c9a7c4b
+turn 2395 200
+end
+hash-quick c22f50c981a2788b3ae499dcd7fff612
+turn 2396 200
+end
+hash-quick f84e4ab6c76225e3b605f7c78b3d55d1
+turn 2397 200
+end
+hash-quick 2b6ae364d48ea6b88d369e60872d28d4
+turn 2398 200
+end
+hash-quick 01cb51982a8e573f1e6e40e83aeb3b80
+turn 2399 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"x":188.03326416015625,"z":444.650146484375,"queued":false,"pushFront":false}
+end
+hash 153d8b29614359cb87558cee1447cc6a
+turn 2400 200
+cmd 1 {"type":"walk-custom","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"targetPositions":[{"x":"198.47","y":"429.59"},{"x":"199.10","y":"428.03"},{"x":"200.06","y":"426.65"},{"x":"200.99","y":"425.24"},{"x":"202.17","y":"424.05"},{"x":"203.81","y":"423.89"},{"x":"205.49","y":"423.82"},{"x":"206.75","y":"424.54"},{"x":"208.21","y":"425.38"}],"targetClasses":{"attack":["Unit","Structure"]},"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick cb21b72da7fd981a14588832e42bfe0a
+turn 2401 200
+cmd 2 {"type":"stop","entities":[199,1922,1923,1951,1952,2071,2074,2075,2111,2124],"queued":false}
+end
+hash-quick baf17dbcf088e1ce781baf8f27a6bf38
+turn 2402 200
+end
+hash-quick c1706726ce6073342aa91a3f1a939393
+turn 2403 200
+end
+hash-quick 6912b9ccd67fd9020a00f498a6979158
+turn 2404 200
+end
+hash-quick 0e42096f3d87ba7919cbe8636a9d6a12
+turn 2405 200
+end
+hash-quick 2d67ad90f4924abc95b5ae9c6e691207
+turn 2406 200
+end
+hash-quick 649eb21b8cf10f9bfb0572fa87824ed3
+turn 2407 200
+cmd 1 {"type":"attack","entities":[155,156,2078,2079,2080,2081],"target":1923,"queued":false,"pushFront":false,"allowCapture":false}
+end
+hash-quick 986cd67055f12b72fb6ad5da76ccd18f
+turn 2408 200
+end
+hash-quick eb6b4b674b57c64b7b498446f0f068c1
+turn 2409 200
+end
+hash-quick a025c587228fbeb9564bfe172f4a471b
+turn 2410 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"x":231.70111083984375,"z":424.12725830078125,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk-custom","entities":[199,1922,1923,1951,1952,2071,2074,2075,2111],"targetPositions":[{"x":"298.50","y":"514.72"},{"x":"296.67","y":"516.22"},{"x":"294.85","y":"517.73"},{"x":"293.08","y":"519.29"},{"x":"291.30","y":"520.85"},{"x":"289.84","y":"522.13"},{"x":"287.49","y":"522.35"},{"x":"285.14","y":"522.57"},{"x":"282.78","y":"522.53"}],"targetClasses":{"attack":["Unit","Structure"]},"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick f211fd58d23a587eeb1e4f8ffce086e6
+turn 2411 200
+cmd 1 {"type":"walk-custom","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"targetPositions":[{"x":"235.38","y":"415.48"},{"x":"236.27","y":"414.07"},{"x":"237.07","y":"412.60"},{"x":"237.88","y":"411.13"},{"x":"238.92","y":"409.86"},{"x":"239.99","y":"408.56"},{"x":"241.14","y":"407.35"},{"x":"242.49","y":"406.40"},{"x":"244.06","y":"406.09"}],"targetClasses":{"attack":["Unit","Structure"]},"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2074,2075,2111],"x":320.2727966308594,"z":506.8610534667969,"queued":false,"pushFront":false}
+end
+hash-quick 1edcc6e11bc61ead6c54ca924e1de5df
+turn 2412 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2074,2075,2111],"x":316.4878845214844,"z":509.7269287109375,"queued":false,"pushFront":false}
+end
+hash-quick 538fc65212ae7fa329e7c806bb034ead
+turn 2413 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"x":244.35116577148438,"z":414.99981689453125,"queued":false,"pushFront":false}
+end
+hash-quick 614eace5c8225d1e669dabc63e706dc3
+turn 2414 200
+end
+hash-quick 7cd7259fd6f9e15ba3a4e7792a7cff7d
+turn 2415 200
+end
+hash-quick e3175e2ca7d97b2bf7af5a2592b9ab11
+turn 2416 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"x":306.21942138671875,"z":402.21337890625,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk-custom","entities":[199,1922,1923,1951,1952,2071,2074,2075,2111,2124],"targetPositions":[{"x":"244.44","y":"546.83"},{"x":"244.15","y":"548.40"},{"x":"243.85","y":"549.97"},{"x":"243.58","y":"551.38"},{"x":"244.43","y":"552.73"},{"x":"245.28","y":"554.08"},{"x":"246.21","y":"555.38"},{"x":"246.84","y":"556.24"},{"x":"248.38","y":"556.64"},{"x":"249.95","y":"556.96"}],"targetClasses":{"attack":["Unit","Structure"]},"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick c43a330a5cf3400bed39a0e9100e4c7c
+turn 2417 200
+end
+hash-quick a5faba76e1023ef16c791636d6b65432
+turn 2418 200
+end
+hash-quick 127036b034d45f77935d34ebb38f45a7
+turn 2419 200
+cmd 1 {"type":"attack","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"target":1952,"queued":false,"pushFront":false,"allowCapture":false}
+end
+hash cea9339a5e215413b4704153af188d6c
+turn 2420 200
+end
+hash-quick f5cf456e25204f1ae4b827af101e2649
+turn 2421 200
+cmd 1 {"type":"attack","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"target":199,"queued":false,"pushFront":false,"allowCapture":false}
+cmd 2 {"type":"walk-custom","entities":[199,1922,1923,1951,1952,2071,2074,2075,2111,2124],"targetPositions":[{"x":"244.73","y":"544.64"},{"x":"243.21","y":"548.06"},{"x":"241.68","y":"551.48"},{"x":"240.16","y":"554.90"},{"x":"238.63","y":"558.33"},{"x":"237.10","y":"561.74"},{"x":"235.56","y":"565.16"},{"x":"234.03","y":"568.57"},{"x":"232.50","y":"571.98"},{"x":"230.47","y":"575.08"}],"targetClasses":{"attack":["Unit","Structure"]},"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 700846f8729715fc5d86e74a85b0de9f
+turn 2422 200
+end
+hash-quick ee5ca0e92c7b5d282076746977997118
+turn 2423 200
+end
+hash-quick 89b403029e14c5691926ba50f0b7787b
+turn 2424 200
+end
+hash-quick df0964f2fd2702b93de1247fe2a91377
+turn 2425 200
+end
+hash-quick 423b66be609ad28acabe319bb4fdd9af
+turn 2426 200
+cmd 1 {"type":"repair","entities":[155,156,2078,2079,2080,2081],"target":2138,"autocontinue":true,"queued":false,"pushFront":false}
+cmd 2 {"type":"stop","entities":[199,1922,1923,1951,1952,2071,2074,2075,2111,2124],"queued":false}
+end
+hash-quick 21e5debc8ff983530b4a6c091826be83
+turn 2427 200
+end
+hash-quick 9b9a4a5c4118e7721cd8c01ac19faed3
+turn 2428 200
+end
+hash-quick 1543fb5f41ddadfe534f737b72c6c637
+turn 2429 200
+end
+hash-quick c8bccd1f140d291d520d44a8f3f0d057
+turn 2430 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2074,2075,2111,2124],"x":222.52545166015625,"z":599.19921875,"queued":false,"pushFront":false}
+end
+hash-quick 553a28ed5e08032eec89270a2cced7ea
+turn 2431 200
+cmd 2 {"type":"walk-custom","entities":[199,1922,1923,1951,1952,2071,2074,2075,2111,2124],"targetPositions":[{"x":"220.07","y":"599.94"},{"x":"221.25","y":"599.49"},{"x":"221.31","y":"600.93"},{"x":"221.37","y":"602.37"},{"x":"221.43","y":"603.82"},{"x":"221.50","y":"605.26"},{"x":"221.56","y":"606.70"},{"x":"221.62","y":"608.14"},{"x":"221.69","y":"609.59"},{"x":"221.75","y":"611.03"}],"targetClasses":{"attack":["Unit","Structure"]},"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 906a07f236368b3be276d201fd51a96b
+turn 2432 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"x":289.2474365234375,"z":406.4067687988281,"queued":false,"pushFront":false}
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"x":289.5835876464844,"z":406.9591369628906,"queued":false,"pushFront":false}
+end
+hash-quick 1177620ed5ad0a96dce0e57ff367bcdc
+turn 2433 200
+end
+hash-quick 2ce84a3d1ad5f1138c583c5deee71ade
+turn 2434 200
+end
+hash-quick 50518cee7e06203d446ecf2d69382e3b
+turn 2435 200
+end
+hash-quick cd15f3c8bd439a624269deef22e95973
+turn 2436 200
+end
+hash-quick b639123e3bdb6d903680bf920f6f6487
+turn 2437 200
+end
+hash-quick 7d049d722475efac43bdf44449e63902
+turn 2438 200
+end
+hash-quick 3cbcdff3b6512675fedefc2fbb180297
+turn 2439 200
+end
+hash c3adc24e431d28b75d53c42926aea2ed
+turn 2440 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"x":284.1683044433594,"z":410.304443359375,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[2072,2073],"x":263.7826232910156,"z":594.8827514648438,"queued":false,"pushFront":false}
+end
+hash-quick 345011afcca5d756bd3539b2a725f910
+turn 2441 200
+end
+hash-quick a678f4872abd9d0fac021e8ae3d2a2d3
+turn 2442 200
+end
+hash-quick 460a1dc0fa7945ccba2cc376ab5a905a
+turn 2443 200
+end
+hash-quick 483448598cb009ce41faae1c32f5b3d4
+turn 2444 200
+end
+hash-quick ed7b24158cfda6381c49143939035ac4
+turn 2445 200
+cmd 1 {"type":"set-rallypoint","entities":[150],"x":299.15325927734375,"z":446.0567321777344,"data":{"command":"repair","target":2138},"queued":false}
+end
+hash-quick 201b8868c5a084fd10c4181528edc9da
+turn 2446 200
+end
+hash-quick ca61709a3ba29e319e9464dcaa13b40c
+turn 2447 200
+end
+hash-quick ae042e9b47400e95a2758297065c3416
+turn 2448 200
+end
+hash-quick ab99d6b85ef24a90993753463c5cc058
+turn 2449 200
+end
+hash-quick 19349958d973ce31c2cdfc65876e0cbd
+turn 2450 200
+end
+hash-quick 1a15e81a6a5fb530536543ad2ad2d4f7
+turn 2451 200
+end
+hash-quick f05f97d5f323274430b4755d525819dc
+turn 2452 200
+end
+hash-quick 9bf33bcb71a7b355aa235099140831e1
+turn 2453 200
+cmd 1 {"type":"set-rallypoint","entities":[150],"x":299.15325927734375,"z":446.0567321777344,"data":{"command":"repair","target":2138},"queued":false}
+end
+hash-quick ba0df16f4540e0f8bf8c1e5bc547554e
+turn 2454 200
+end
+hash-quick 645e6a49c8c683dffa075bcc416ac2c5
+turn 2455 200
+cmd 2 {"type":"returnresource","entities":[197,198,2028,2029,2030,2031,2048,2049,2050,2084,2085,2095,2096,2097,2110,2112,2113,2127,2128,2129],"target":2093,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 496d62053e83163079d25b31d28a3cbe
+turn 2456 200
+end
+hash-quick a03f0747ac23b19c3de907cc6dc1eb89
+turn 2457 200
+cmd 2 {"type":"walk","entities":[197,198,2028,2029,2030,2031,2048,2049,2050,2084,2085,2095,2096,2097,2110,2112,2113,2127,2128,2129],"x":285.1177978515625,"z":546.5638427734375,"queued":true,"pushFront":false}
+end
+hash-quick 35de794371b85e07e9c3c48b86218f08
+turn 2458 200
+end
+hash-quick 397d373dc7741847e89bcc8ba6e6efad
+turn 2459 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"x":261.0892028808594,"z":459.5279541015625,"queued":false,"pushFront":false}
+end
+hash 9169a51bbd93c98eef1d668dcd4048f2
+turn 2460 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"x":263.6932678222656,"z":453.31768798828125,"queued":false,"pushFront":false}
+end
+hash-quick 7e1de01af607325e9f9134e2c04d3b2d
+turn 2461 200
+cmd 2 {"type":"walk-custom","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075,2111,2124],"targetPositions":[{"x":"269.10","y":"538.40"},{"x":"269.39","y":"542.12"},{"x":"269.68","y":"545.84"},{"x":"269.96","y":"549.55"},{"x":"269.95","y":"553.29"},{"x":"269.93","y":"556.92"},{"x":"269.05","y":"560.53"},{"x":"267.46","y":"563.91"},{"x":"265.87","y":"567.29"},{"x":"264.29","y":"570.64"},{"x":"262.31","y":"573.80"},{"x":"260.32","y":"576.96"}],"targetClasses":{"attack":["Unit","Structure"]},"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick cd3d57f99204ba63157db58be59c0666
+turn 2462 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075,2111,2124],"x":278.70489501953125,"z":499.301025390625,"queued":false,"pushFront":false}
+end
+hash-quick 2d22856dcf567c4238a6ddc25f5a1d67
+turn 2463 200
+cmd 2 {"type":"attack","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075,2111,2124],"target":2158,"queued":false,"pushFront":false,"allowCapture":false,"formation":"special/formations/null"}
+end
+hash-quick e9c12fbe98b6f9255ea41f838085d13f
+turn 2464 200
+end
+hash-quick cef28ed55383be19cd1af07e579d0285
+turn 2465 200
+end
+hash-quick 12405fca5d8ada53d78b4dadaf7a0e04
+turn 2466 200
+end
+hash-quick 1cf1cfa9c48205adedb480d6723b9c4a
+turn 2467 200
+end
+hash-quick 38a8a4c7eeb9f8e880f010c78ceb98cb
+turn 2468 200
+end
+hash-quick ddaf3e3afb4bb17a2704c975a539635d
+turn 2469 200
+end
+hash-quick 3ba37f4135d37dea8f311047c9cd45e5
+turn 2470 200
+end
+hash-quick f556ad0108c3182a572749a0087e09ce
+turn 2471 200
+cmd 2 {"type":"walk-custom","entities":[2115,2116,2117,2118,2119,2120],"targetPositions":[{"x":"369.61","y":"657.41"},{"x":"371.56","y":"659.59"},{"x":"373.50","y":"661.77"},{"x":"375.44","y":"663.95"},{"x":"377.39","y":"666.13"},{"x":"379.33","y":"668.30"}],"targetClasses":{"attack":["Unit","Structure"]},"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 1e4991824335c3c357f1cd193b9e94b6
+turn 2472 200
+end
+hash-quick f2660d367cfb2423dc8ba469651f50c1
+turn 2473 200
+end
+hash-quick 0c85d5900095eddc9d9b7af941175ada
+turn 2474 200
+cmd 1 {"type":"train","entities":[150],"template":"units/kush/infantry_spearman_b","count":3}
+end
+hash-quick 677c2e8c84749da5b121d2bb158f8eed
+turn 2475 200
+end
+hash-quick 18de0c6d39023ea30acdd704db44ece4
+turn 2476 200
+end
+hash-quick 8d62f5584a1b0840d136870d3498a179
+turn 2477 200
+cmd 2 {"type":"construct","template":"structures/spart/field","x":396.12982177734375,"z":674.7042846679688,"angle":2.356194490192345,"actorSeed":39210,"entities":[2115,2116,2117,2118,2119,2120],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick e8871abc92ef38d8bf05e1812d6d2fd4
+turn 2478 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"x":241.71218872070312,"z":437.3064880371094,"queued":false,"pushFront":false}
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"x":239.43655395507812,"z":431.7006530761719,"queued":false,"pushFront":false}
+end
+hash-quick ae3fa7d9ef6ea41841cacada4751b695
+turn 2479 200
+end
+hash f16d273893649759c38fbd07a71d493d
+turn 2480 200
+end
+hash-quick f0a46380e7e841837d462ff89ec3019d
+turn 2481 200
+end
+hash-quick 9258ee9c69c9f43bbf974722f0c3edc4
+turn 2482 200
+end
+hash-quick 170cae925df3ffd05675fe5f31029471
+turn 2483 200
+cmd 2 {"type":"train","entities":[190],"template":"units/spart/infantry_javelineer_b","count":1}
+end
+hash-quick d4a8f40c20a90f65b04e5811f5177cb6
+turn 2484 200
+end
+hash-quick 802add59313628ea395b659e77d789b3
+turn 2485 200
+end
+hash-quick 4610a56eb3a1c0efbd664a07ca623051
+turn 2486 200
+end
+hash-quick 0e82adaf3d51d8d3fe1c9cd6557d6ce6
+turn 2487 200
+end
+hash-quick b7585af0353d867b529a490679cd35ba
+turn 2488 200
+end
+hash-quick 9750103d17fc2ddbf46e94bb299aee49
+turn 2489 200
+cmd 2 {"type":"train","entities":[2087],"template":"units/spart/infantry_javelineer_b","count":4}
+end
+hash-quick 051a3bcf50f6db9805235f99cb3aff1b
+turn 2490 200
+end
+hash-quick 9691bbef526aa8841bade5c4f04aaca8
+turn 2491 200
+end
+hash-quick 92478c1de86879aa77e32c5e8a8dfaa9
+turn 2492 200
+end
+hash-quick ece2d2959dfdd2ca4c5a5efe18fb04da
+turn 2493 200
+cmd 1 {"type":"construct","template":"structures/kush/house","x":223.84780883789062,"z":93.37322998046875,"angle":2.356201171875,"actorSeed":55326,"entities":[1955,2065],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false}
+end
+hash-quick ec72272716f26f2b9ab881cd5950ae4d
+turn 2494 200
+cmd 2 {"type":"walk","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"x":281.80401611328125,"z":472.95361328125,"queued":false,"pushFront":false}
+end
+hash-quick c5ffa2d8538a64ba060f299519e91906
+turn 2495 200
+end
+hash-quick fed17071cb6a7d1b42c0b1be288acbae
+turn 2496 200
+cmd 2 {"type":"attack","entities":[199,1922,1923,1951,1952,2071,2072,2073,2074,2075],"target":155,"queued":false,"pushFront":false,"allowCapture":false,"formation":"special/formations/null"}
+end
+hash-quick d172cc56ff54716e27cf3a5616f0acd3
+turn 2497 200
+end
+hash-quick e57448f74c064f7125be2ae3ba654046
+turn 2498 200
+end
+hash-quick 3584044b761df4eee9b6168254906a5d
+turn 2499 200
+cmd 2 {"type":"walk","entities":[2111,2124],"x":233.30078125,"z":609.2929077148438,"queued":false,"pushFront":false}
+end
+hash eeb34d38ab90782253db216b5cdb5769
+turn 2500 200
+cmd 1 {"type":"gather","entities":[155,156,2078,2079,2080,2081],"target":680,"queued":false,"pushFront":false}
+end
+hash-quick bf0934240ad01f8c9e43ed7847353b37
+turn 2501 200
+end
+hash-quick 4e84f8820b19e9ff17c8c3bc767bdb8a
+turn 2502 200
+cmd 2 {"type":"walk","entities":[2111,2124],"x":290.8448181152344,"z":473.56903076171875,"queued":false,"pushFront":false}
+end
+hash-quick 19fafcd2d45b35e5ae25ae5aa85e4679
+turn 2503 200
+cmd 1 {"type":"gather","entities":[155,156,2078,2079,2080,2081],"target":680,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[2111,2124],"x":289.4684753417969,"z":474.9744567871094,"queued":false,"pushFront":false}
+end
+hash-quick 290ddb0d03b476123e568b1d594c2c39
+turn 2504 200
+end
+hash-quick a18f101fda866135bdce3f4ea3998882
+turn 2505 200
+end
+hash-quick 5360d48313750a03df47d7c7e726bfea
+turn 2506 200
+end
+hash-quick 95d243bc74ca8881f223a07d1fd08971
+turn 2507 200
+cmd 1 {"type":"attack","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"target":1951,"queued":false,"pushFront":false,"allowCapture":false}
+end
+hash-quick 0b7381d8e1b338a8bdc14c1500784f64
+turn 2508 200
+end
+hash-quick 7939696e36aade032ac0347d3b70bfeb
+turn 2509 200
+end
+hash-quick bc0e87291928b09c4d9b2ed5c7a6a11d
+turn 2510 200
+end
+hash-quick 9513d74749e97dfa4e9968d24b25e573
+turn 2511 200
+end
+hash-quick 2f1064b720462f809fd67cd42947963d
+turn 2512 200
+end
+hash-quick 8ff4d979bf7732050d527def38c2d005
+turn 2513 200
+end
+hash-quick bc6ad3ee1d986f33b9d0d85009d44c3f
+turn 2514 200
+cmd 1 {"type":"attack","entities":[155,156,2078,2079,2080,2081],"target":2074,"queued":false,"pushFront":false,"allowCapture":false}
+end
+hash-quick 041777d68c2ff599b3beff6289f8c787
+turn 2515 200
+end
+hash-quick 4a416fd450ecb4f02cbd62485acfac47
+turn 2516 200
+end
+hash-quick 2879a29bff1b7d60f7cd5a085415c9a4
+turn 2517 200
+end
+hash-quick 6dddf280687c9b2975ab4d84fe148890
+turn 2518 200
+end
+hash-quick 453b4c412bd68ea206f063b1b0d21dfe
+turn 2519 200
+cmd 2 {"type":"formation","entities":[197,198,199,1922,1923,1951,1952,2030,2071,2072,2073,2074,2075,2085,2110,2111,2112,2124,2127,2128,2129],"formation":"special/formations/box"}
+end
+hash 4c712e49959314af67b22deb3413f78d
+turn 2520 200
+end
+hash-quick c183bae114a7edb78709d4acdb133e4e
+turn 2521 200
+end
+hash-quick ca3ee38d67538d4d4eaa165063a65cdb
+turn 2522 200
+end
+hash-quick 680987d79094dd35fcb8cc974dd44d3b
+turn 2523 200
+end
+hash-quick 7bde579f0ebb2f317fc97550c99a4638
+turn 2524 200
+end
+hash-quick 5e106448e9ed095fdb394566513b3cf1
+turn 2525 200
+end
+hash-quick 23d857fe02f4c466026b9eb1fafa6c8a
+turn 2526 200
+end
+hash-quick 96afdf549554db903d9d29b5bea0fc28
+turn 2527 200
+end
+hash-quick 865966194a5b7c007836d8b2c3f6c2ac
+turn 2528 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"x":229.86477661132812,"z":442.268310546875,"queued":false,"pushFront":false}
+end
+hash-quick dd516b063be177d5e58bcda597ad8f77
+turn 2529 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"x":230.85763549804688,"z":440.64703369140625,"queued":false,"pushFront":false}
+end
+hash-quick e4e6bf9ab10e9072472d22fdf16997ca
+turn 2530 200
+end
+hash-quick 42e425def2987460894a457708704714
+turn 2531 200
+end
+hash-quick 9e36356eb27acc993bdb1942f88db397
+turn 2532 200
+cmd 2 {"type":"stop","entities":[197,198,199,1922,1923,1951,1952,2030,2071,2072,2073,2074,2075,2085,2110,2111,2112,2124,2127,2128,2129],"queued":false}
+end
+hash-quick 46ffd3fefcef60c5d26560bf1d3fffa8
+turn 2533 200
+cmd 1 {"type":"walk","entities":[156,159,1968,1969,1984,1985,2010,2023,2024,2025,2078,2079,2080,2081],"x":208.52801513671875,"z":410.50439453125,"queued":false,"pushFront":false}
+cmd 1 {"type":"walk","entities":[156,159,1968,1969,1984,1985,2010,2023,2024,2025,2078,2079,2080,2081],"x":208.52801513671875,"z":410.470458984375,"queued":false,"pushFront":false}
+cmd 2 {"type":"stop","entities":[197,198,199,1922,1923,1951,1952,2030,2071,2072,2073,2074,2075,2085,2110,2111,2112,2124,2127,2128,2129],"queued":false}
+end
+hash-quick 316c1d65e0bc26e13c9b5c5cffe00adc
+turn 2534 200
+cmd 1 {"type":"walk","entities":[156,159,1968,1969,1984,1985,2010,2023,2024,2025,2078,2079,2080,2081],"x":210.7216796875,"z":405.6263732910156,"queued":false,"pushFront":false}
+end
+hash-quick d0894ced7f4600ffaad1f401ac514983
+turn 2535 200
+cmd 1 {"type":"walk","entities":[156,159,1968,1969,1984,1985,2010,2023,2024,2025,2078,2079,2080,2081],"x":213.12625122070312,"z":397.83135986328125,"queued":false,"pushFront":false}
+end
+hash-quick 3ca3e04546e30807aae2709758299912
+turn 2536 200
+end
+hash-quick 7ac444c36bb9da8f1f335daf1281e498
+turn 2537 200
+end
+hash-quick 93be0bec44dec7911e88b1312a247b6f
+turn 2538 200
+cmd 1 {"type":"gather","entities":[156,159,1968,1969,1984,1985,2010,2023,2024,2025,2078,2079,2080,2081],"target":1843,"queued":false,"pushFront":false}
+end
+hash-quick 6025b01751d9edb7a8d7d06f4b63c3af
+turn 2539 200
+cmd 1 {"type":"gather","entities":[156,159,1968,1969,1984,1985,2010,2023,2024,2025,2078,2079,2080,2081],"target":1843,"queued":false,"pushFront":false}
+end
+hash b13dbabac318c466774dacce8850ee55
+turn 2540 200
+end
+hash-quick 1701b00279c11a1a15a450754458fc2d
+turn 2541 200
+end
+hash-quick a481735bea456411182c44aee122b1d7
+turn 2542 200
+end
+hash-quick d260479224c3ef250da6ed08fc80ef56
+turn 2543 200
+end
+hash-quick 8a93a463543d132867935e991e8153f6
+turn 2544 200
+end
+hash-quick f4ef89bdb7ad9f2a215f8215eb4311c3
+turn 2545 200
+cmd 1 {"type":"attack","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"target":2127,"queued":false,"pushFront":false,"allowCapture":false}
+end
+hash-quick bb5117a6c67fd85a8037dc8a409da16c
+turn 2546 200
+end
+hash-quick b286a8ab4399ee83bb71652c51d3c54b
+turn 2547 200
+end
+hash-quick cc7634e8153c49489f929b2b26538ad4
+turn 2548 200
+end
+hash-quick 4c58c340c694a83d0291df0aa3c3a993
+turn 2549 200
+end
+hash-quick 3e982e4fb5d7a0d37b7b7d4db5026b36
+turn 2550 200
+end
+hash-quick 0249f5bb216a1ee6ea127fe32da7ead7
+turn 2551 200
+end
+hash-quick 03150a61f61f3339cdfaa3d154b206c1
+turn 2552 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"x":269.2238464355469,"z":494.53472900390625,"queued":false,"pushFront":false}
+cmd 2 {"type":"construct","template":"structures/spart/house","x":308.26171875,"z":640.50634765625,"angle":2.356194490192345,"actorSeed":23378,"entities":[2171,2172,2173,2174,2175],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 531cde6c99602a06d78ead4886b274f2
+turn 2553 200
+end
+hash-quick 86d9b28206650751058e7a01c215e459
+turn 2554 200
+end
+hash-quick 5b29f49054e2dfe4a75f2be3aa5c7f59
+turn 2555 200
+cmd 1 {"type":"attack","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"target":1922,"queued":false,"pushFront":false,"allowCapture":false}
+cmd 2 {"type":"gather","entities":[2171,2172,2173,2174,2175],"target":462,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 7b555dd0e62ef81d2f9d6e9f24c67a5d
+turn 2556 200
+cmd 1 {"type":"attack","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"target":1922,"queued":false,"pushFront":false,"allowCapture":false}
+end
+hash-quick 864860d3d2b382555657276939ecc07e
+turn 2557 200
+end
+hash-quick b579b4e07d8a32adf7920af5a1ef8d47
+turn 2558 200
+end
+hash-quick 2fa723d071ee2a8a4e8d3c3d6ba455e9
+turn 2559 200
+end
+hash 1cd1ab0b6dbe2f7d86998d6ec11c0aae
+turn 2560 200
+cmd 1 {"type":"attack","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"target":2075,"queued":false,"pushFront":false,"allowCapture":false}
+end
+hash-quick b0ed0828efee20099b47b8750a3552e4
+turn 2561 200
+end
+hash-quick c8f1361e608dd534029d7879cec9bcc1
+turn 2562 200
+end
+hash-quick c99419169a05b7aa6c46dc10d0d3f6f5
+turn 2563 200
+cmd 1 {"type":"attack","entities":[159,1968,1969,1984,1985,2010,2023,2024,2025],"target":2073,"queued":false,"pushFront":false,"allowCapture":false}
+end
+hash-quick 40deeefb490d332bfe7b7c3c13749ed4
+turn 2564 200
+end
+hash-quick 6cf70aea1fc74fc2d471136c5789313a
+turn 2565 200
+end
+hash-quick 62809642ed5bd6e07fcfda32336f90ce
+turn 2566 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,2010,2023,2024,2025],"x":203.74472045898438,"z":435.4734802246094,"queued":false,"pushFront":false}
+cmd 2 {"type":"stop","entities":[197,198,199,1922,1923,1951,1952,2028,2029,2030,2031,2048,2049,2050,2071,2072,2073,2074,2075,2084,2085,2095,2096,2097,2110,2111,2112,2113,2124,2127,2128,2129],"queued":false}
+end
+hash-quick 284d09690ebe5a838012dbeca4d96ba9
+turn 2567 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,2010,2023,2024,2025],"x":204.40414428710938,"z":433.72137451171875,"queued":false,"pushFront":false}
+end
+hash-quick 9063341f12bdc9649bd12d2125e92d35
+turn 2568 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,2010,2023,2024,2025],"x":204.40414428710938,"z":433.72137451171875,"queued":false,"pushFront":false}
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,2010,2023,2024,2025],"x":204.40414428710938,"z":433.72137451171875,"queued":false,"pushFront":false}
+end
+hash-quick 29428390cbd9b14247d2bd8a41505e8d
+turn 2569 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,2010,2023,2024,2025],"x":204.648193359375,"z":433.0729675292969,"queued":false,"pushFront":false}
+end
+hash-quick 3bcadce327cd8fb52fe0e87533325a1a
+turn 2570 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,2010,2023,2024,2025],"x":204.64736938476562,"z":431.57781982421875,"queued":false,"pushFront":false}
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,2010,2023,2024,2025],"x":204.83547973632812,"z":428.4557800292969,"queued":false,"pushFront":false}
+end
+hash-quick 0a08b2b9db1fa688528d77772b20d69c
+turn 2571 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,2010,2023,2024,2025],"x":204.83547973632812,"z":428.4557800292969,"queued":false,"pushFront":false}
+end
+hash-quick ff2c26bb3726c555e518bab6454160a3
+turn 2572 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,2010,2023,2024,2025],"x":204.80355834960938,"z":428.25146484375,"queued":false,"pushFront":false}
+end
+hash-quick 31cafaf1fa609f207368b0b3480d2299
+turn 2573 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,2010,2023,2024,2025],"x":195.92361450195312,"z":407.705322265625,"queued":false,"pushFront":false}
+end
+hash-quick 62fcdedfed924e2c3c0ee23b989453cc
+turn 2574 200
+end
+hash-quick cec3ce3d6f37c694c23de0a63406df5a
+turn 2575 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,2023,2024,2025],"x":201.33990478515625,"z":401.32366943359375,"queued":false,"pushFront":false}
+end
+hash-quick 4a995ad471baaab370fc798ada190c56
+turn 2576 200
+end
+hash-quick 09df3dfee705a3ee5195a5dd7a39bb5d
+turn 2577 200
+end
+hash-quick b10bfe528e03bd6d6b7f9bd347930ed4
+turn 2578 200
+end
+hash-quick c6880e95f57d61d699cbe92a60e9774b
+turn 2579 200
+cmd 2 {"type":"walk-custom","entities":[2031,2048,2049,2050,2084,2095,2096,2097],"targetPositions":[{"x":"298.64","y":"525.42"},{"x":"298.95","y":"527.44"},{"x":"299.25","y":"529.46"},{"x":"299.55","y":"531.48"},{"x":"299.69","y":"533.52"},{"x":"299.83","y":"535.56"},{"x":"299.96","y":"537.59"},{"x":"299.98","y":"539.64"}],"targetClasses":{"attack":["Unit","Structure"]},"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash dfcc6ff8ca3d9f4b07818843938c0e2e
+turn 2580 200
+cmd 2 {"type":"walk-custom","entities":[2031,2048,2049,2050,2084,2095,2096,2097],"targetPositions":[{"x":"301.23","y":"479.55"},{"x":"301.37","y":"481.68"},{"x":"301.51","y":"483.81"},{"x":"301.65","y":"485.94"},{"x":"301.79","y":"488.06"},{"x":"301.66","y":"490.19"},{"x":"301.53","y":"492.33"},{"x":"301.41","y":"494.46"}],"targetClasses":{"attack":["Unit","Structure"]},"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 5d19f332c593d650fd6a803718ef18f1
+turn 2581 200
+cmd 2 {"type":"attack","entities":[2031,2048,2049,2050,2084,2095,2096,2097],"target":2138,"queued":false,"pushFront":false,"allowCapture":false,"formation":"special/formations/null"}
+end
+hash-quick fd180607095a4eee17035b761a680dad
+turn 2582 200
+cmd 1 {"type":"attack","entities":[2164,2165,2166,2167],"target":197,"queued":false,"pushFront":false,"allowCapture":false}
+end
+hash-quick 36b94464eef8e9c7ac88410925a25bc6
+turn 2583 200
+cmd 2 {"type":"attack","entities":[2031,2048,2049,2050,2084,2095,2096,2097],"target":2138,"queued":false,"pushFront":false,"allowCapture":false,"formation":"special/formations/null"}
+end
+hash-quick 3e09cbbcb4c211db7ec0540b8de94e7f
+turn 2584 200
+end
+hash-quick b3956b8904ae3f51443692cfec5983e3
+turn 2585 200
+end
+hash-quick ba932805b89b8c44cc22a0092c2f801c
+turn 2586 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,2023,2024,2025],"x":168.81329345703125,"z":368.64300537109375,"queued":false,"pushFront":false}
+end
+hash-quick ab3ac919de23e4ed45840a1ffaf82c6d
+turn 2587 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,2023,2024,2025],"x":150.19952392578125,"z":365.20220947265625,"queued":false,"pushFront":false}
+end
+hash-quick f2779d3eb51d325d077bbdf0ef7252f2
+turn 2588 200
+cmd 1 {"type":"walk","entities":[159,1968,1969,1984,2023,2024,2025],"x":156.32525634765625,"z":368.6916809082031,"queued":false,"pushFront":false}
+cmd 1 {"type":"walk-custom","entities":[159,1968,1969,1984,2023,2024,2025],"targetPositions":[{"x":"166.64","y":"374.82"},{"x":"165.01","y":"373.96"},{"x":"163.38","y":"373.11"},{"x":"161.74","y":"372.26"},{"x":"160.14","y":"371.35"},{"x":"158.56","y":"370.40"},{"x":"156.84","y":"369.73"}],"targetClasses":{"attack":["Unit","Structure"]},"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick eb5e7977a6cce5f6317a5ec26ff582a5
+turn 2589 200
+cmd 2 {"type":"walk","entities":[197,198,199,1922,1923,1951,1952,2028,2029,2030,2071,2072,2073,2074,2075,2085,2110,2111,2112,2113,2124,2127,2128,2129],"x":203.78656005859375,"z":334.3160400390625,"queued":false,"pushFront":false}
+end
+hash-quick aa0b98d993a650c16989a1e43ea2698d
+turn 2590 200
+end
+hash-quick 550d66fbe5126528e09ab3d579e367b8
+turn 2591 200
+end
+hash-quick d9f246f2bc8f2d8bbac58966865630a6
+turn 2592 200
+end
+hash-quick 24b360822c22d3dd1116216388e515a7
+turn 2593 200
+end
+hash-quick e3101f99eb52d25e11e0f1fe22e8de14
+turn 2594 200
+end
+hash-quick 0fdbb1b59b80bc97ca2d12aea87e56e5
+turn 2595 200
+cmd 2 {"type":"walk","entities":[2031,2048,2049,2050,2084,2095,2096,2097],"x":351.1676330566406,"z":416.0295104980469,"queued":false,"pushFront":false}
+end
+hash-quick 8d755f4637b8da24cda75099eba00e1a
+turn 2596 200
+end
+hash-quick 9c95faac45a56d975bf6fc8db1caddb2
+turn 2597 200
+end
+hash-quick 1ce6b515193767b9f2f7b8d6e31eb8c9
+turn 2598 200
+cmd 1 {"type":"attack","entities":[2078,2079,2080],"target":2075,"queued":false,"pushFront":false,"allowCapture":false}
+end
+hash-quick 682e298fd81c370764c44f8366e27b50
+turn 2599 200
+cmd 2 {"type":"walk","entities":[197,198,199,1922,1923,1951,1952,2028,2029,2030,2071,2072,2073,2074,2075,2085,2110,2111,2112,2113,2124,2127,2128,2129],"x":320.993408203125,"z":378.7959289550781,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[197,198,199,1922,1923,1951,1952,2028,2029,2030,2071,2072,2073,2074,2075,2085,2110,2111,2112,2113,2124,2127,2128,2129],"x":321.7701110839844,"z":377.1714782714844,"queued":false,"pushFront":false}
+end
+hash aacb7aff5e7d07240e69789296e8b671
+turn 2600 200
+end
+hash-quick bd7643a24a94fd37a34c07bb9bbe5f66
+turn 2601 200
+end
+hash-quick cc1cc249cda00a5ee71e7ff683e5a6b0
+turn 2602 200
+end
+hash-quick bc41c3d512deeb3e73f2e1f981588d02
+turn 2603 200
+cmd 2 {"type":"formation","entities":[197,198,199,1922,1923,1951,1952,2028,2029,2030,2071,2072,2073,2074,2075,2085,2110,2111,2112,2113,2124,2127,2128,2129],"formation":"special/formations/null"}
+end
+hash-quick ce9085f496ec2e0a831b325feb79f8f6
+turn 2604 200
+end
+hash-quick 98f13a1ad70face89d3743a55ffb9db3
+turn 2605 200
+cmd 1 {"type":"attack","entities":[159,1968,1969,1984,2023,2024,2025],"target":2073,"queued":false,"pushFront":false,"allowCapture":false}
+cmd 2 {"type":"walk","entities":[197,198,199,1922,1923,1951,1952,2028,2029,2030,2071,2072,2073,2074,2075,2085,2110,2111,2112,2113,2124,2127,2128,2129],"x":283.24627685546875,"z":363.1114501953125,"queued":false,"pushFront":false}
+end
+hash-quick 93d7ffe34ea1422c2e646f63a211f73b
+turn 2606 200
+cmd 2 {"type":"walk","entities":[197,198,199,1922,1923,1951,1952,2028,2029,2030,2071,2072,2073,2074,2075,2085,2110,2111,2112,2113,2124,2127,2128,2129],"x":284.5227355957031,"z":374.775146484375,"queued":false,"pushFront":false}
+end
+hash-quick 06f4cccc2e36896b51784195257f3e6e
+turn 2607 200
+cmd 2 {"type":"gather","entities":[197,198,199,1922,1923,1951,1952,2028,2029,2030,2071,2072,2073,2074,2075,2085,2110,2111,2112,2113,2124,2127,2128,2129],"target":1546,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick a3f2680a468723d7a2599a526ce5115d
+turn 2608 200
+cmd 2 {"type":"walk","entities":[197,198,199,1922,1923,1951,1952,2028,2029,2030,2071,2072,2073,2074,2075,2085,2110,2111,2112,2113,2124,2127,2128,2129],"x":304.3181457519531,"z":404.1527099609375,"queued":false,"pushFront":false}
+end
+hash-quick 86a771af9f9f3755ab869777f864724a
+turn 2609 200
+cmd 2 {"type":"walk","entities":[197,198,199,1922,1923,1951,1952,2028,2029,2030,2071,2072,2073,2074,2075,2085,2110,2111,2112,2113,2124,2127,2128,2129],"x":301.57373046875,"z":409.5379333496094,"queued":false,"pushFront":false}
+end
+hash-quick 67582aea7ba077c981c4ef008a603a96
+turn 2610 200
+cmd 2 {"type":"walk","entities":[197,198,199,1922,1923,1951,1952,2028,2029,2030,2071,2072,2073,2074,2075,2085,2110,2111,2112,2113,2124,2127,2128,2129],"x":305.4024658203125,"z":412.36614990234375,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[197,198,199,1922,1923,1951,1952,2028,2029,2030,2071,2072,2073,2074,2075,2085,2110,2111,2112,2113,2124,2127,2128,2129],"x":306.623779296875,"z":414.1021728515625,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[197,198,199,1922,1923,1951,1952,2028,2029,2030,2071,2072,2073,2074,2075,2085,2110,2111,2112,2113,2124,2127,2128,2129],"x":305.57171630859375,"z":414.5591125488281,"queued":false,"pushFront":false}
+end
+hash-quick b83268c4cf048227d145d7f0228da02b
+turn 2611 200
+cmd 2 {"type":"walk","entities":[197,198,199,1922,1923,1951,1952,2028,2029,2030,2071,2072,2073,2074,2075,2085,2110,2111,2112,2113,2124,2127,2128,2129],"x":306.7470703125,"z":420.0395812988281,"queued":false,"pushFront":false}
+end
+hash-quick bfa7b7a0ba155bc7e6cf724b9257fec2
+turn 2612 200
+cmd 2 {"type":"walk","entities":[197,198,199,1922,1923,1951,1952,2028,2029,2030,2071,2072,2073,2074,2075,2085,2110,2111,2112,2113,2124,2127,2128,2129],"x":305.2200927734375,"z":421.4439392089844,"queued":false,"pushFront":false}
+end
+hash-quick e6a59ab83c957dc11a180ad7c421e0ef
+turn 2613 200
+cmd 2 {"type":"walk","entities":[197,198,199,1922,1923,1951,1952,2028,2029,2030,2071,2072,2073,2074,2075,2085,2110,2111,2112,2113,2124,2127,2128,2129],"x":310.05364990234375,"z":424.02374267578125,"queued":false,"pushFront":false}
+end
+hash-quick 8fc65ace63b7fe48fc357eb0185b3174
+turn 2614 200
+cmd 2 {"type":"walk","entities":[197,198,199,1922,1923,1951,1952,2028,2029,2030,2071,2072,2073,2074,2075,2085,2110,2111,2112,2113,2124,2127,2128,2129],"x":310.5066833496094,"z":424.2980041503906,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[197,198,199,1922,1923,1951,1952,2028,2029,2030,2071,2072,2073,2074,2075,2085,2110,2111,2112,2113,2124,2127,2128,2129],"x":310.72650146484375,"z":425.8387145996094,"queued":false,"pushFront":false}
+end
+hash-quick daab1f0c07a8b2474f9cf6d4fd3aad55
+turn 2615 200
+cmd 2 {"type":"walk","entities":[197,198,199,1922,1923,1951,1952,2028,2029,2030,2071,2072,2073,2074,2075,2085,2110,2111,2112,2113,2124,2127,2128,2129],"x":312.80657958984375,"z":428.0943603515625,"queued":false,"pushFront":false}
+end
+hash-quick cd8fa7011da03248a0ced8242e258904
+turn 2616 200
+cmd 2 {"type":"walk","entities":[197,198,199,1922,1923,1951,1952,2028,2029,2030,2071,2072,2073,2074,2075,2085,2110,2111,2112,2113,2124,2127,2128,2129],"x":313.7283935546875,"z":425.87353515625,"queued":false,"pushFront":false}
+end
+hash-quick 263002e778e81e8e35694dd7612c984c
+turn 2617 200
+cmd 2 {"type":"walk","entities":[197,198,199,1922,1923,1951,1952,2028,2029,2030,2071,2072,2073,2074,2075,2085,2110,2111,2112,2113,2124,2127,2128,2129],"x":312.83197021484375,"z":425.9337158203125,"queued":false,"pushFront":false}
+end
+hash-quick 48ec548a83a14d479735cd8b3de2eec3
+turn 2618 200
+cmd 1 {"type":"walk","entities":[2164,2165,2166,2167],"x":293.2318420410156,"z":381.2450256347656,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk-custom","entities":[197,198,199,1922,1923,1951,1952,2028,2029,2030,2071,2072,2073,2074,2075,2085,2110,2111,2112,2113,2124,2127,2128,2129],"targetPositions":[{"x":"316.08","y":"405.05"},{"x":"316.17","y":"405.52"},{"x":"316.25","y":"405.98"},{"x":"316.33","y":"406.44"},{"x":"316.42","y":"406.91"},{"x":"316.50","y":"407.37"},{"x":"316.58","y":"407.84"},{"x":"316.66","y":"408.29"},{"x":"316.61","y":"408.76"},{"x":"316.55","y":"409.23"},{"x":"316.49","y":"409.70"},{"x":"316.43","y":"410.17"},{"x":"316.38","y":"410.64"},{"x":"316.32","y":"411.10"},{"x":"316.26","y":"411.57"},{"x":"316.20","y":"412.04"},{"x":"316.15","y":"412.51"},{"x":"316.09","y":"412.98"},{"x":"316.03","y":"413.44"},{"x":"315.97","y":"413.91"},{"x":"315.92","y":"414.34"},{"x":"315.65","y":"414.72"},{"x":"315.38","y":"415.11"},{"x":"315.10","y":"415.49"}],"targetClasses":{"attack":["Unit","Structure"]},"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 2 {"type":"walk","entities":[197,198,199,1922,1923,1951,1952,2028,2029,2030,2071,2072,2073,2074,2075,2085,2110,2111,2112,2113,2124,2127,2128,2129],"x":316.216552734375,"z":403.5682067871094,"queued":false,"pushFront":false}
+end
+hash-quick 046edb6bce73e1b76be4eb80f0a380cc
+turn 2619 200
+cmd 1 {"type":"walk","entities":[2164,2165,2166,2167],"x":296.32818603515625,"z":381.9015197753906,"queued":false,"pushFront":false}
+cmd 1 {"type":"walk","entities":[2164,2165,2166,2167],"x":297.3742370605469,"z":381.16961669921875,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[197,198,199,1922,1923,1951,1952,2028,2029,2030,2071,2072,2073,2074,2075,2085,2110,2111,2112,2113,2124,2127,2128,2129],"x":316.9223937988281,"z":403.6504821777344,"queued":false,"pushFront":false}
+end
+hash a768c1ef677ed0ed3189fac9fb07a740
+turn 2620 200
+cmd 1 {"type":"walk","entities":[2164,2165,2166,2167],"x":297.70648193359375,"z":381.0482177734375,"queued":false,"pushFront":false}
+cmd 2 {"type":"walk","entities":[197,198,199,1922,1923,1951,1952,2028,2029,2030,2071,2072,2073,2074,2075,2085,2110,2111,2112,2113,2124,2127,2128,2129],"x":320.0435485839844,"z":412.7472229003906,"queued":false,"pushFront":false}
+end
+hash-quick 7b16133772dd130cb9deb38e4eafcc38
+turn 2621 200
+cmd 1 {"type":"walk","entities":[2164,2165,2166,2167],"x":296.65478515625,"z":380.3232727050781,"queued":false,"pushFront":false}
+end
+hash-quick 2ca655230af463af446bf513147d1cd0
+turn 2622 200
+end
+hash-quick 9134a4769ff738bbef0e4f4599d5770e
+turn 2623 200
+end
+hash-quick 524b33ab136dae2bd41295341b417e44
+turn 2624 200
+cmd 2 {"type":"stop","entities":[197,198,199,1922,1923,1951,1952,2028,2029,2030,2071,2072,2073,2074,2075,2085,2110,2111,2112,2113,2124,2127,2128,2129],"queued":false}
+end
+hash-quick 75c20d45b4fe7d3793492ea4dadda62c
+turn 2625 200
+cmd 1 {"type":"gather","entities":[2164,2165,2166,2167],"target":1730,"queued":false,"pushFront":false}
+end
+hash-quick 1095fbcb61fdafd4cbf4c8ab972b1ed5
+turn 2626 200
+cmd 1 {"type":"gather","entities":[2164,2165,2166,2167],"target":1730,"queued":false,"pushFront":false}
+end
+hash-quick 14f6d6330f0b546e384a08d47e445254
+turn 2627 200
+end
+hash-quick 5fbb8a60028ce1c26951683d938013bd
+turn 2628 200
+end
+hash-quick 89a393302c62ef3ba05851a789e6c1d2
+turn 2629 200
+end
+hash-quick 402d708cf4cd90ae12c6d68eaaecfebc
+turn 2630 200
+end
+hash-quick f7f41d83c0b9905664095b19fd9972a5
+turn 2631 200
+cmd 2 {"type":"walk","entities":[2048,2049,2050,2095,2096,2097],"x":321.15216064453125,"z":385.8149108886719,"queued":false,"pushFront":false}
+end
+hash-quick 60571c1aaa4ba462cac865f33c5b6a27
+turn 2632 200
+end
+hash-quick fd958051132b82e8e03315b81c099c22
+turn 2633 200
+cmd 1 {"type":"attack","entities":[2079,2080],"target":199,"queued":false,"pushFront":false,"allowCapture":false}
+end
+hash-quick 701d0ba30473f6b7452add727103777c
+turn 2634 200
+end
+hash-quick 7a12445411589d2597cd75d84fc5178a
+turn 2635 200
+end
+hash-quick 3a8da93b3071000f379c49027f3879e7
+turn 2636 200
+end
+hash-quick b4023932aefb44758c077a9e32ab7ff2
+turn 2637 200
+end
+hash-quick ce7235aa9e7cc72cdb848c1509e18e22
+turn 2638 200
+cmd 1 {"type":"gather","entities":[2079,2080,2164,2165,2167],"target":665,"queued":false,"pushFront":false}
+end
+hash-quick 4f0fd73fe884a1f540062f0a67d1208a
+turn 2639 200
+cmd 1 {"type":"attack","entities":[2080,2164,2165,2167],"target":199,"queued":false,"pushFront":false,"allowCapture":false}
+cmd 1 {"type":"attack","entities":[2080,2164,2165,2167],"target":1922,"queued":false,"pushFront":false,"allowCapture":false}
+end
+hash 6fba5f46df7b72f7fde74f9f7908ca1f
+turn 2640 200
+end
+hash-quick 8f3c4959d75b987c116f0eb46de62489
+turn 2641 200
+end
+hash-quick ef2457f56b91383ec1858069694944f9
+turn 2642 200
+cmd 1 {"type":"attack","entities":[159,1968,1969,1984,2023,2024,2025],"target":2113,"queued":false,"pushFront":false,"allowCapture":false}
+cmd 2 {"type":"stop","entities":[197,198,199,1922,1923,1951,1952,2028,2029,2030,2071,2072,2073,2074,2075,2085,2110,2111,2112,2113,2124,2127,2128,2129],"queued":false}
+end
+hash-quick 7d5920403d72ca3bf0f1227d4195911c
+turn 2643 200
+cmd 1 {"type":"attack","entities":[159,1968,1969,1984,2023,2024,2025],"target":2110,"queued":false,"pushFront":false,"allowCapture":false}
+end
+hash-quick 278b9ace5027f5be1afde8df4e9fe087
+turn 2644 200
+end
+hash-quick 4c06f8a063533c0abc8f6d84f9a83712
+turn 2645 200
+end
+hash-quick b2497cee1e2c58d89f6b6abf447bc2fd
+turn 2646 200
+end
+hash-quick 651f493bb42ba2b766a5870a08a9e3ff
+turn 2647 200
+end
+hash-quick f8972ffe19a1a8a19cb462b0fc50abee
+turn 2648 200
+end
+hash-quick bf9e0820a0f27be5743d65cb8ab40a90
+turn 2649 200
+end
+hash-quick ea0939e99ea8553aa381d90411fba626
+turn 2650 200
+end
+hash-quick 14a41a78cee338deacf912e255cbfe46
+turn 2651 200
+end
+hash-quick 83b61715f092ccef8e0ecc2e13ef4f0f
+turn 2652 200
+end
+hash-quick 70c78f5ba7d54a3259e644b773e0e9e6
+turn 2653 200
+end
+hash-quick efb3f093e97f2c5a30bcda2bb9b699c4
+turn 2654 200
+end
+hash-quick 09c38f149b083bd627abaed692966968
+turn 2655 200
+end
+hash-quick 10a04d05d3c2967da038e8aeadf73857
+turn 2656 200
+end
+hash-quick 3b197c46aa54a0a2af0993df7610ee62
+turn 2657 200
+end
+hash-quick e032c67061657b25b3833aab934b4652
+turn 2658 200
+end
+hash-quick 374d7493a4909ef619ea1334da0e6673
+turn 2659 200
+cmd 2 {"type":"walk","entities":[2031,2048,2049,2050,2084,2095,2096,2097],"x":312.1480407714844,"z":417.13970947265625,"queued":false,"pushFront":false}
+end
+hash 2aa79c7317c21201db7994100dfd6d73
+turn 2660 200
+end
+hash-quick 58bdd1cfd88c4a1b2dc785a2e8b901cd
+turn 2661 200
+end
+hash-quick 179559292956a806f6197f1f2c91feea
+turn 2662 200
+end
+hash-quick 24a8f9ce121e6f06587d205d18e4951f
+turn 2663 200
+end
+hash-quick 4e9373f5b8a10bc4b3564dccf287e5ea
+turn 2664 200
+end
+hash-quick d6e59788327c1d27cbe68145aab5a69e
+turn 2665 200
+end
+hash-quick 809336abcd96bd05f0b511027f90a6c4
+turn 2666 200
+end
+hash-quick 2d04b1a2602e4489fd991fde6519e13f
+turn 2667 200
+end
+hash-quick 6f1b7779a9db635670f230324ac0be98
+turn 2668 200
+end
+hash-quick 22dce59a500652629b8742d6a6a1c61a
+turn 2669 200
+end
+hash-quick 9e93a135a378e93ad8ca403ea6e8132d
+turn 2670 200
+end
+hash-quick 80d0c06e61b6afb80caf562ec9053220
+turn 2671 200
+end
+hash-quick 943b63469edd97f4248a25de8e3d71a6
+turn 2672 200
+cmd 1 {"type":"resign"}
+end
+hash-quick 3745c06ee4b8b979a17c59350f31ef0c
+turn 2673 200
+end
+hash-quick e99b607042e9033f6d4c184b04b6bb87
+turn 2674 200
+end
+hash-quick c9d98dca1ef43ceb325f7c61da28a3e7
+turn 2675 200
+end
+hash-quick fef16bce29bb71bda3ee3c4cf96b993f
+turn 2676 200
+end
+hash-quick 68d91493ea425e414fe1ba30522e9b97
+turn 2677 200
+end
+hash-quick 85fddb8895e0fcfe672f6a2c75dfa29f
+turn 2678 200
+end
+hash-quick ac75d2450c4d779cf12cfb71135281f7
+turn 2679 200
+end
+hash 64cf09735b04f0ea82f527cd00df15a4
+turn 2680 200
+end
+hash-quick f59170b3b8ae13112a3f4bf133b88949
+turn 2681 200
+end
+hash-quick 180759e6c94f7127b4e884df7c91581a
+turn 2682 200
+end
+hash-quick 2fa00b6e8aeda3c60c4833bacc7b3934
+turn 2683 200
+end
+hash-quick 70583523c852db50473a684cef87059d
+turn 2684 200
+end
+hash-quick c4a12b7f793ece79d8699db781e54842
+turn 2685 200
+end
+hash-quick 36ff9acaa4040047f4fadfde8c3176d0
+turn 2686 200
+end
+hash-quick 3363c679cb231747d6fc1e214ae2d92c
+turn 2687 200
+end
+hash-quick 6efe6c47e2731e134f7f7ba68afab7dc
+turn 2688 200
+end
+hash-quick 116e0e99529cf4ae57f44831e32667a4
+turn 2689 200
+end
+hash-quick aa31fe9eec8eb012f8885617cdbf2432
+turn 2690 200
+end
+hash-quick 56b654bb20ae77052e7498de941ab432
+turn 2691 200
+end
+hash-quick 164d287c2e1d8351c82ee19dbc1a06f1
+turn 2692 200
+end
+hash-quick 529b33db430516938f309a048348cb02
+turn 2693 200
+end
+hash-quick fa6d11a47c4118aed3ed31823faede5e
+turn 2694 200
+end
+hash-quick 4fca6004d92bd897492f12f7bbe5c6d8
+turn 2695 200
+end
+hash-quick f86fb77ea5ed42c18bb3e5d021864ae0
+turn 2696 200
+end
+hash-quick ad4c5775770a5d18722bea00d240b8c6
+turn 2697 200
+end
+hash-quick 99703b116e8f41317350172a46c6ca5e
+turn 2698 200
+end
+hash-quick 7c73ac888a67deeb0311b38780770ab9
+turn 2699 200
+end
+hash 461e36f02243dde9f0ac5d7967940e7d
+turn 2700 200
+end
+hash-quick 70164f06f711aedaf8802a631072d46b
+turn 2701 200
+end
+hash-quick 02bfd0475042cbd10e541b4c84bfe306
+turn 2702 200
+end
+hash-quick e18cca0bc6766c59f26854c9ce14d658
+turn 2703 200
+end
+hash-quick 028da830379da1fd7a204ce671c9fa03
+turn 2704 200
+end
+hash-quick fe47f4c4839030301e3050f483518e3c
+turn 2705 200
+end
+hash-quick c430a7e68d1be2e973ea1738555f58b0
+turn 2706 200
+end
+hash-quick 363936db2ae687bd501955ac03184d41
+turn 2707 200
+end
+hash-quick 7f6b35312cdbe7b958ccf17bb8ccabcb
+turn 2708 200
+end
+hash-quick 3cac5e1eaf812a4bf40ed3cd52f8b8d9
+turn 2709 200
+end
+hash-quick 17e959a0dee18a6e47e74cb75b7cbb61
+turn 2710 200
+end
+hash-quick cf72536e66c6558a23aee15c571259b9
+turn 2711 200
+end
+hash-quick ebb56f1b99f1b57c1feaff4cef9c0cdb
+turn 2712 200
+end
+hash-quick 1d4be324d143f99bc52a258ebb4d1720
+turn 2713 200
+end
+hash-quick b47fdc046178e47b9a9668f5ad60b36e
+turn 2714 200
+end
+hash-quick 3d4ab7344b45ccd74d742bf74222b119
+turn 2715 200
+end
+hash-quick eceeb8bc663354852e98d90f634c3e99
+turn 2716 200
+end
+hash-quick 6f82c9c2f46e14bbec1e52c07f84dd55
+turn 2717 200
+end
+hash-quick a7d9bcfad35c4a1020804bb5c768b63a
+turn 2718 200
+end
+hash-quick ad916201a38aa89df8ff25e321678814
+turn 2719 200
+end
+hash 798a6db002a401054873378b678d45ff
+turn 2720 200
+end
+hash-quick 90c0ff25f6e69ccaed15d825c6a213eb
+turn 2721 200
+end
+hash-quick 85f84d0397ec2e07998ec1fcbd26ac0f
+turn 2722 200
+end
+hash-quick 08027641d4702bc8a0311958fde79636
+turn 2723 200
+end
+hash-quick 3f99c256ed35a6281dd22d11eb582e5d
+turn 2724 200
+end
+hash-quick 483b22cf91a1703c6028ad6776e588ab
+turn 2725 200
+end
+hash-quick 2c10fa0b9c80ba1ab4ed9992f3fb65db
+turn 2726 200
+end
+hash-quick 14aba253fad4242867f1585e4f7d3b94
+turn 2727 200
+end
+hash-quick 9d5159a1ac2752829021b2c96702a7f0
+turn 2728 200
+end
+hash-quick 704a9a9337f4b1dfd805c0ebd6aa99dd
+turn 2729 200
+end
+hash-quick ce9f7837f0c2aed20d4c4d6fff9db9e6
+turn 2730 200
+end
+hash-quick 97b19a5d6d5b33ab4b4a7c7d3afbd932
+turn 2731 200
+end
+hash-quick ffb0a025d127eb309584c1d69e864de0
+turn 2732 200
+end
+hash-quick 99670dc4100856ebc3f73a473a8d7630
+turn 2733 200
+end
+hash-quick c70ecfb1c6e5001347fc6e62a4420c80
+turn 2734 200
+end
+hash-quick aeca963eb8fbf8a0010fa765a17f6b5f
+turn 2735 200
+end
+hash-quick 9ed09ccfe0feb15c4ceff7b1ba7b330b
+turn 2736 200
+end
+hash-quick c638f54df99edcb0bb2ab36a0531518b
+turn 2737 200
+end
+hash-quick 11222d0002f93477fd10b4de2da83333
+turn 2738 200
+end
+hash-quick b0ef4858a620e7e80e5f45de0378fe38
+turn 2739 200
+end
+hash 74d4258bdba50a5069b459e73fad0181
+turn 2740 200
+end
+hash-quick c91d43261b3b9c2644d8e30eddb71f13
+turn 2741 200
+end
+hash-quick 5cd225f02f07b99e83d19a5ea7c4d0f4
+turn 2742 200
+end
+hash-quick 3d0df3125715c96c16dbb243b64349d3
+turn 2743 200
+end
+hash-quick bf883196bf032ad0f33b3b2322179772
+turn 2744 200
+end
+hash-quick 3fb2a51ad5e6da2117f1f0630cefba66
+turn 2745 200
+end
+hash-quick 419f81b752837e4e7fa79a492498aeae
+turn 2746 200
+end
+hash-quick 4cce6bbb23f5ffe3143b318901a3d051
+turn 2747 200
+end
+hash-quick e9e82d353023bd895036e38ab5a12df8
+turn 2748 200
+end
+hash-quick 3962120e344a62f245fc419898005651
+turn 2749 200
+end
+hash-quick 63611bbe0213248c8303447dd0814545
+turn 2750 200
+end
+hash-quick 7b3307afbbd04063a82fa6df54a42f45
+turn 2751 200
+end
+hash-quick 89fdc3febdb60cdc6363c7c32d2716d6
+turn 2752 200
+end
+hash-quick ade4aae03194e7aa365713eefd4703e9
+turn 2753 200
+end
+hash-quick 808c5bdcd79722c6ce22a9188531904c
+turn 2754 200
+end
+hash-quick f629dae5472ef23ac0ea31f269e9a95f
+turn 2755 200
+end
+hash-quick 7ce5098f91525305dd7fa79ff45bdd86
+turn 2756 200
+end
+hash-quick 970cd3dab8b6795ee7c3afd1da9b7227
+turn 2757 200
+end
+hash-quick 0fb827751c1a25ed2142170d7bda59c0
+turn 2758 200
+end
+hash-quick 136532090d127b9f818abda6d6a7ace8
+turn 2759 200
+end
+hash effdf58b1f5e1741bf856dbb68aac0a7
+turn 2760 200
+end
+hash-quick 6c5191b278401152306edc901f7d2483
+turn 2761 200
+end
+hash-quick b058e4d71cf718283494546efd83a646
+turn 2762 200
+end
+hash-quick e0359026a05616bfacf32fcd936511c2
+turn 2763 200
+end
+hash-quick 75c0edda280b2f168a8f04fbd193331e
+turn 2764 200
+end
+hash-quick 99af4d28b8ada4076391075976a2cd86
+turn 2765 200
+end
+hash-quick 91030b902b3878aaae73f611f7deb140
+turn 2766 200
+end
+hash-quick be1edc9107ae575ee84b9288ea6cf46a
+turn 2767 200
+end
+hash-quick 1b4eb32b074e71fe2a811195e7cd2520
+turn 2768 200
+end
+hash-quick 950be57858734e82d78f585f7d388d35
+turn 2769 200
+end
+hash-quick 0c4c901ee2fe0d23799f62b50a5cb467
+turn 2770 200
+end
+hash-quick ca5e653c9377d565413652ab50141e76
+turn 2771 200
+end
+hash-quick 5ee4d1bb884e83cde808f87facb78d76
+turn 2772 200
+end
+hash-quick 72cc30c1b13c9a1fdf5db15dab7737d1
+turn 2773 200
+end
+hash-quick d99112f63419d0e8fd060eb4e7f5b608
+turn 2774 200
+end
+hash-quick 8b18194d95129f280fc88282ba1b888d
+turn 2775 200
+end
+hash-quick f326b9d61a7837f4ace882b9bf6eb52b
+turn 2776 200
+end
+hash-quick 67517c9ccd037bee26d55b6875620db2
+turn 2777 200
+end
+hash-quick 87d8545c5c42bf89e0d56e050f5b7a4d
+turn 2778 200
+end
+hash-quick 059486972f16b2c2d2c8793dd14b5330
+turn 2779 200
+end
+hash 98f14c7ad645737e90c195b76f2f435e
+turn 2780 200
+end
+hash-quick 5b524ab495ce16a499225db5518a7c93
+turn 2781 200
+end
+hash-quick 911e525efa6da6faeb809e93130731de
+turn 2782 200
+end
+hash-quick 23b1810b91a2ac9443806e1c49d2d673
+turn 2783 200
+end
+hash-quick 6a4a0c0ec3b983071e82fb68fa3b731c
+turn 2784 200
+end
+hash-quick 335856f8258bb0b69df1702d5d38a43d
+turn 2785 200
+end
+hash-quick 88b8bb865ba878bfeaeeddc538d65639
+turn 2786 200
+end
+hash-quick 8fc723c93bbc6b11afe4219d227ac576
+turn 2787 200
+end
+hash-quick 52d880b53fca80b0cdb6c7fd05a41807
+turn 2788 200
+end
+hash-quick 1a49d85105952a3c843b7fb067bccba9
+turn 2789 200
+end
+hash-quick 66ad885fe15110ea58f5ca9801c6cc8c
+turn 2790 200
+end
+hash-quick d5df00a5e5f52922aeb0fccfaeb87ee2
+turn 2791 200
+end
+hash-quick 44be5d0eea10ac2a0642ae054d718c29
+turn 2792 200
+end
+hash-quick 10dd17eaaac4e891904a14cfdbaa4c19
+turn 2793 200
+end
+hash-quick c29496628f143d8c1a9805179aff2523
+turn 2794 200
+end
+hash-quick d3e42b50e1359e1cf06b23592c08665c
+turn 2795 200
+end
+hash-quick 92a43a51e7dc951589e0543985f016cc
+turn 2796 200
+end
+hash-quick 78e5e0f4fdb0c992bb6ff93017b085e1
+turn 2797 200
+end
+hash-quick 1eb443b1bda3b589d53bdc2b437ffc06
+turn 2798 200
+end
+hash-quick 27d589ac1bbe910938448c5a5f9ac94a
+turn 2799 200
+end
+hash 46ec783c1584ce72dd3dba9f84e282f5
+turn 2800 200
+end
+hash-quick ed7b01fec4f063826822874db448f5ab
+turn 2801 200
+end
+hash-quick deac184afc11e088cfe8df3cd0ba496c
+turn 2802 200
+end
+hash-quick 6208afb23019ba93eef1e0aa768515d1
+turn 2803 200
+end
+hash-quick 99b05748b9e7a07c2e1c7134eddd232f

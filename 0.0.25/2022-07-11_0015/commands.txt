@@ -1,0 +1,606 @@
+start {"settings":{"Biome":"generic/autumn","CheatsEnabled":false,"DisableSpies":false,"DisableTreasures":false,"LastManStanding":false,"LockTeams":true,"AllyView":true,"Name":"Mainland Rectangled","Size":384,"Nomad":false,"PlayerData":[{"AI":false,"Civ":"cart","Color":{"r":21,"g":55,"b":149},"Name":"arch_stanton","Team":0},{"AI":false,"Civ":"athen","Color":{"r":150,"g":20,"b":20},"Name":"Jammyjamjamman","Team":0},{"AI":false,"Civ":"ptol","Color":{"r":86,"g":180,"b":31},"Name":"seeh","Team":0},{"AI":"petra","AIDiff":5,"AIBehavior":"balanced","Civ":"ptol","Color":{"r":231,"g":200,"b":5},"Name":"Arsinoe II","Team":1},{"AI":"petra","AIDiff":5,"AIBehavior":"balanced","Civ":"pers","Color":{"r":50,"g":170,"b":170},"Name":"Darayavahush I","Team":1},{"AI":"petra","AIDiff":"3","AIBehavior":"balanced","Civ":"cart","Color":{"r":160,"g":80,"b":200},"Name":"Mago Barca","Team":1},{"AI":"petra","AIDiff":5,"AIBehavior":"balanced","Civ":"sele","Color":{"r":220,"g":115,"b":16},"Name":"Diodotus Tryphon","Team":1}],"PopulationCap":200,"RegicideGarrison":false,"Seed":1461852897,"AISeed":2746222639,"StartingResources":300,"TriggerScripts":["scripts/TriggerHelper.js","scripts/ConquestCommon.js","scripts/Conquest.js"],"VictoryConditions":["conquest"]},"gameSpeed":1,"map":"maps/random/mainland_rectangled","mapType":"random","script":"mainland_rectangled.js","mapPreview":"cropped:0.78125,0.5859375:session/icons/mappreview/mainland_rectangled.png","matchID":"D38B8371B2A83894","timestamp":1657571289,"engine_version":"0.0.25","mods":[{"mod":"public","name":"0ad","version":"0.0.25","ignoreInCompatibilityChecks":false},{"mod":"StarGUI4","name":"","version":"25.0.4","ignoreInCompatibilityChecks":true},{"mod":"10ad","name":"10ad","version":"0.25.0","ignoreInCompatibilityChecks":false},{"mod":"community-maps-2","name":"community-maps-2","version":"0.25.15","ignoreInCompatibilityChecks":false},{"mod":"cartographymode","name":"cartographymode","version":"2.0.1","ignoreInCompatibilityChecks":false},{"mod":"boonGUI-beepIdle-22-0515","name":"boonGUI","version":"2.4.1b","ignoreInCompatibilityChecks":true}]}
+turn 0 200
+end
+hash 0ade557caa4af132116037241c1ee705
+turn 1 200
+end
+hash-quick 0823e4776d07173d1fdfc3f3c71241d6
+turn 2 200
+end
+hash-quick fc580756ea2ce56a3be3f73639a0af10
+turn 3 200
+end
+hash-quick 6d61733b4f6ab69108c52ca4a37baeac
+turn 4 200
+end
+hash-quick 78b14c73bcee1e754635d05df22b437b
+turn 5 200
+end
+hash-quick 74f75f245b4c6d8f604fb5a71067c8b1
+turn 6 200
+end
+hash-quick c1b490bd2e278bed279a14cf8beab106
+turn 7 200
+cmd 3 {"type":"gather","entities":[195,196,197,198,199,200,201,202,203],"target":213,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick e90ff88f0dfb6320d0813895d872bed6
+turn 8 200
+end
+hash-quick 974208fdae93178b3ae56f60a9b73eb8
+turn 9 200
+end
+hash-quick 0ef56ea89fb9b1ba12baa8d9a1b839cf
+turn 10 200
+end
+hash-quick 490186c02a8d665fe1aa86f0d8b5509e
+turn 11 200
+end
+hash-quick 9d12d4f42c591cec6f8a3d0381983ab2
+turn 12 200
+end
+hash-quick c44daccce14061e4ba88fd783333b2a6
+turn 13 200
+end
+hash-quick 11f4d20c4a77254a26f724154962ecd5
+turn 14 200
+end
+hash-quick 8725f2d68c0a7b5cac1e320b50be6e9a
+turn 15 200
+end
+hash-quick 27cb47694db6a296a56a3d63a0420ae0
+turn 16 200
+end
+hash-quick 6b7562b108d6dc4d0258f2275c3c7366
+turn 17 200
+end
+hash-quick 80a3df98a16ca2de2ccc558eba33a225
+turn 18 200
+end
+hash-quick 6fb769aa7cf7971d90c537719b37ae1e
+turn 19 200
+cmd 3 {"type":"autoqueue-on","entities":[194]}
+cmd 3 {"type":"train","entities":[194],"template":"units/ptol/support_female_citizen","count":6}
+end
+hash 76f9ebbd283361a7421883a80fc45ffe
+turn 20 200
+cmd 1 {"type":"gather","entities":[154],"target":170,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick ff9fa1469425b8b5f5c083473028711b
+turn 21 200
+end
+hash-quick 8b3a6c624680e4bc9903f94aee932303
+turn 22 200
+end
+hash-quick 4f022d5e648a2c7d4edaa4353e95602b
+turn 23 200
+cmd 2 {"type":"construct","template":"structures/athen/farmstead","x":480.4114990234375,"z":271.61566162109375,"angle":2.356194490192345,"actorSeed":8866,"entities":[238,239,240,241],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick fbccf1c104fad39af2028ab06d113741
+turn 24 200
+end
+hash-quick 13872bce67f8dec7ca3cc042550a77cc
+turn 25 200
+end
+hash-quick a9ad89709695b2ab2402520a6eacb59d
+turn 26 200
+cmd 3 {"type":"set-rallypoint","entities":[194],"x":803.1929931640625,"z":204.9500732421875,"data":{"command":"gather","resourceType":{"generic":"food","specific":"fruit"},"resourceTemplate":"gaia/fruit/berry_01","target":213},"queued":false}
+cmd 3 {"type":"set-rallypoint","entities":[194],"x":806.7745361328125,"z":207.63958740234375,"data":{"command":"gather","resourceType":{"generic":"food","specific":"fruit"},"resourceTemplate":"gaia/fruit/berry_01","target":214},"queued":true}
+end
+hash-quick 9553a2f4d0a8379a4d560cf650140624
+turn 27 200
+end
+hash-quick be42281d3a893b07dd503f3c98bbcdf0
+turn 28 200
+end
+hash-quick 280cc14889c0b88bb96132495c3c5986
+turn 29 200
+end
+hash-quick 4b57a71b10c4bf3fc7f978b7fc017e26
+turn 30 200
+cmd 1 {"type":"construct","template":"structures/cart/farmstead","x":1150.1517333984375,"z":335.20098876953125,"angle":2.356194490192345,"actorSeed":43424,"entities":[154],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 2 {"type":"gather","entities":[238,239,240,241],"target":257,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 7a0fade9ca9be8b50bacf8140a5c769b
+turn 31 200
+end
+hash-quick 5be16ee2e4b19dba81b8f4b990f48356
+turn 32 200
+end
+hash-quick 6f6bdd4c4841a472a54dc54026851c9a
+turn 33 200
+end
+hash-quick 1dad67e8c0d34bc3e10bac6cefc8f786
+turn 34 200
+end
+hash-quick 015555e18afe69eb9152f11590ab6338
+turn 35 200
+end
+hash-quick 5427f35e0b6fd13187a03fc34a8218df
+turn 36 200
+end
+hash-quick 3492e7cf22546167698995cd69532d49
+turn 37 200
+cmd 2 {"type":"walk-custom","entities":[242,243,244,245],"targetPositions":[{"x":"381.87","y":"374.46"},{"x":"393.93","y":"368.74"},{"x":"406.01","y":"363.86"},{"x":"418.95","y":"363.31"}],"targetClasses":{"attack":["Unit","Structure"]},"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick df86c11c8ee78957ad32422e3a2d312d
+turn 38 200
+end
+hash-quick ea49ec441847df93d56ee8a223fce33f
+turn 39 200
+end
+hash b362e22c2b7ccfb53f1d398138839af8
+turn 40 200
+end
+hash-quick 73602704c54240820dc4a6617b008f30
+turn 41 200
+cmd 2 {"type":"walk","entities":[242,243,244,245],"x":394.75115966796875,"z":358.2143249511719,"queued":false,"pushFront":false}
+end
+hash-quick 646b0dd78e1e628b3967c74aad5ef392
+turn 42 200
+end
+hash-quick 9da9c0a53a8bdcc72232f6a8829be161
+turn 43 200
+end
+hash-quick eebc63cdb90c134a8eb701f5f6d8652f
+turn 44 200
+end
+hash-quick 4e8cabef37e54b0b1f9eaa33cd7c76da
+turn 45 200
+end
+hash-quick 71a6586ac16839459a86e59f0cbd5938
+turn 46 200
+end
+hash-quick 5a2888ca5e7ebc8b8534e4b06447bf7c
+turn 47 200
+end
+hash-quick 8f74fb7895f458f62c6dd4bf72fb30d7
+turn 48 200
+end
+hash-quick 85f426ae82e1f67d411a72d93d366742
+turn 49 200
+end
+hash-quick c34f8476a9bb2508d6830ba7d1ae34fe
+turn 50 200
+cmd 1 {"type":"construct","template":"structures/cart/storehouse","x":1059.9053955078125,"z":385.0078125,"angle":2.356194490192345,"actorSeed":10519,"entities":[155,156,157,158],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 85f3c014eee1aa72cc3373e8d1dc5769
+turn 51 200
+end
+hash-quick 0c1288df3ae1c9cf9706da096e87a4a6
+turn 52 200
+end
+hash-quick c7e2c3edf0d33ed02ec69f31a7146918
+turn 53 200
+cmd 2 {"type":"construct","template":"structures/athen/storehouse","x":377.2651062011719,"z":397.34100341796875,"angle":2.356194490192345,"actorSeed":38911,"entities":[242,243,244,245],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 8179eaa1f91838f5819f3ca915b6d9e6
+turn 54 200
+end
+hash-quick b71ab243eb1213c6e3b318778dfe0fe8
+turn 55 200
+cmd 2 {"type":"gather","entities":[242,243,244,245],"target":3119,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 3483da375f9e5e862b241679eb1ef30d
+turn 56 200
+end
+hash-quick 5b0d22b6b5adc221e7084b255c4febfe
+turn 57 200
+end
+hash-quick 116f9a21c32054da37774bc77b0c33a5
+turn 58 200
+end
+hash-quick b72fb7bea02ebefc5bd4065b1bf5651c
+turn 59 200
+end
+hash fc84dc1060942df585c83186fd83d146
+turn 60 200
+end
+hash-quick f7c8da8a5a45ef51b4d73c38cc933048
+turn 61 200
+end
+hash-quick ef572d018f53031378a63ea90e337f9c
+turn 62 200
+end
+hash-quick 2777ce8b9795aba48e7c718aef83364e
+turn 63 200
+cmd 1 {"type":"repair","entities":[151,152,153,159],"target":8581,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick cc4eb074540f3b9ddf6e584584d5d3ea
+turn 64 200
+end
+hash-quick 538cee78e5a90e749c61aa88f6943479
+turn 65 200
+end
+hash-quick 500102a4ae8f06eb30ce59aa5b6f5f10
+turn 66 200
+cmd 2 {"type":"gather","entities":[246],"target":267,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 2860a54228614c2daba91382a63dfc39
+turn 67 200
+end
+hash-quick dbe8d50cb287fb31daaf7928b3284806
+turn 68 200
+end
+hash-quick db155f067d3dd5f7afdf6c07b53ed7c5
+turn 69 200
+end
+hash-quick 117686b7ea14dc5f7a883ceec5ba5410
+turn 70 200
+end
+hash-quick 8245a07bdff5d609611032e727d70632
+turn 71 200
+end
+hash-quick 2ab097f207672f464a33de8c8e4d03dc
+turn 72 200
+end
+hash-quick 0b7cd0d964478ea95cb3a841a56f7e32
+turn 73 200
+end
+hash-quick 12678ea5f298936fa211a1a3dca38436
+turn 74 200
+cmd 2 {"type":"train","entities":[237],"template":"units/athen/support_female_citizen","count":5}
+end
+hash-quick ec6538e9bed117e3a6ba9a15f7b1a172
+turn 75 200
+end
+hash-quick 6b666144936864596c9d441e6d4d885d
+turn 76 200
+cmd 3 {"type":"construct","template":"structures/ptol/farmstead","x":814.0171508789062,"z":182.894775390625,"angle":2.356194490192345,"actorSeed":17169,"entities":[196],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick a56828616c884eb8731847a1f8d7caa1
+turn 77 200
+end
+hash-quick 43cabfb5cdec94c8a9d44268fd139a75
+turn 78 200
+end
+hash-quick 85465132ae38fc990cb0abd43dba5997
+turn 79 200
+end
+hash 40f98d0d4ae0fed8a44d8a1395c5222f
+turn 80 200
+end
+hash-quick 2d6bb02580c2c0f4b21960c46fb59d7a
+turn 81 200
+end
+hash-quick 467a72825226818f3c9be877805d3eee
+turn 82 200
+end
+hash-quick 1ff059765cb8d24e26268738604bf97e
+turn 83 200
+cmd 2 {"type":"set-rallypoint","entities":[237],"x":473.34869384765625,"z":292.84539794921875,"data":{"command":"gather","resourceType":{"generic":"food","specific":"fruit"},"resourceTemplate":"gaia/fruit/berry_01","target":256},"queued":false}
+end
+hash-quick 7cc095ff981cc6d5f8f70fbf2cfadc29
+turn 84 200
+end
+hash-quick 003755807305bafd9b9933b3bc777fb7
+turn 85 200
+end
+hash-quick 6c1be700527f80e27f4a67fac083f9ab
+turn 86 200
+cmd 2 {"type":"train","template":"units/athen/support_female_citizen","count":1,"entities":[237]}
+end
+hash-quick 8cc38dc027fd720c9c4661292878d375
+turn 87 200
+end
+hash-quick 25f92e3482ea39d064eb46256316c264
+turn 88 200
+cmd 3 {"type":"gather","entities":[203],"target":218,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 42667c8862a1c26d0cef914ae1f16467
+turn 89 200
+end
+hash-quick dbb0a3aaf6e2f9f90f26cb5689e4b504
+turn 90 200
+end
+hash-quick 982ec242bb836e2987eac7558c94498b
+turn 91 200
+end
+hash-quick f9153a649f03f1a050fe73306237cd30
+turn 92 200
+end
+hash-quick 8446b0e3e92e46a1c58317faf0f45ac7
+turn 93 200
+end
+hash-quick de5c9e30c6bbd4fb58096f07180c7871
+turn 94 200
+end
+hash-quick 20a1fa229e4be63280b5c4631d04e28b
+turn 95 200
+end
+hash-quick a38c9a1b3110c30b83aa663b65e99e8b
+turn 96 200
+end
+hash-quick ca4016d7c329d3b2a34ab3fdd2dec75e
+turn 97 200
+end
+hash-quick 983a00b1d12720d5e606f44ea6f8ad18
+turn 98 200
+end
+hash-quick f1e017dac649f6daf744dd163aac6fbb
+turn 99 200
+end
+hash 73f98ca570dddc2c4551e4e2cf7e504d
+turn 100 200
+end
+hash-quick 9ca6e0b5e62b8c800a177c5f2f78c458
+turn 101 200
+end
+hash-quick 33a56161676243d6245d28ebee04fd76
+turn 102 200
+end
+hash-quick 5bdfb64ddd83a4592ae58b9dd6fd15be
+turn 103 200
+end
+hash-quick 9f92eef7423700faa11bce0e551af3b4
+turn 104 200
+end
+hash-quick ca20291a4faed2d3aeac0e6c4e669b84
+turn 105 200
+end
+hash-quick 480d54b718799d9582ada085aa9d7692
+turn 106 200
+end
+hash-quick d7e6b3ff818a1371ae196c56431a54cf
+turn 107 200
+end
+hash-quick b2ab3d418c59b904a13f3a69be28c4dd
+turn 108 200
+end
+hash-quick ad145da0352a347efa1f87e8e0714081
+turn 109 200
+end
+hash-quick 5b4604eff25e2a6f4185604af2d7e520
+turn 110 200
+end
+hash-quick ddcb39338134828aae5b2eaa22948dd7
+turn 111 200
+end
+hash-quick 36469ce02f23956b84e3b4708e70df97
+turn 112 200
+end
+hash-quick 77572a79c502c2abd0be791017805ed2
+turn 113 200
+end
+hash-quick 410ae1723270c99c14a8218584379456
+turn 114 200
+end
+hash-quick f351299cb9ca22a68e495a164ff83c2a
+turn 115 200
+end
+hash-quick c4281bc3c285eb40b9eec03782dec985
+turn 116 200
+cmd 2 {"type":"set-rallypoint","entities":[237],"x":469.55584716796875,"z":282.71514892578125,"data":{"command":"gather","resourceType":{"generic":"food","specific":"fruit"},"resourceTemplate":"gaia/fruit/berry_01","target":257},"queued":false}
+end
+hash-quick 64644e026ab7e4568f54b18564ac99f7
+turn 117 200
+end
+hash-quick be34a8a0a85050cf3fbb6ba6f820a80a
+turn 118 200
+end
+hash-quick 9ba6577de16211b3b07c3a777743d17a
+turn 119 200
+end
+hash 4626d4056d7b4fbb3498622a6348e0f6
+turn 120 200
+end
+hash-quick 61b95741a670503426f2bb483ba30a08
+turn 121 200
+end
+hash-quick fc99fc153906da12886fef01c166db83
+turn 122 200
+end
+hash-quick 40d4f822de262d277bed1b55899286a0
+turn 123 200
+end
+hash-quick 06a83a23dd2fbff4737917fa2d5dab0d
+turn 124 200
+end
+hash-quick 8109e64236f1c7fb03ef3ded3622b54b
+turn 125 200
+end
+hash-quick 7f904bb1ddbd492b6f0b3966ad28c774
+turn 126 200
+end
+hash-quick 7e4986e93974abb904730ff4d0a5c4fe
+turn 127 200
+end
+hash-quick 41700bc7c18e19183a055f92203297da
+turn 128 200
+end
+hash-quick 4611ec05bb162de08336ddd615559fe9
+turn 129 200
+end
+hash-quick 932ccab97c06ed52671e16a70e0a9602
+turn 130 200
+end
+hash-quick 64a43078b91a3db393ecaba780a726dc
+turn 131 200
+end
+hash-quick ca8388a788730db5b92e9256b3483c7d
+turn 132 200
+end
+hash-quick 7b93742068f1009f89cfdeb1127660cc
+turn 133 200
+end
+hash-quick 45447ddb969d1dce489a3cb7d4cd9546
+turn 134 200
+end
+hash-quick 5bcf4d69ac120d36f451fd36573fdee1
+turn 135 200
+end
+hash-quick dfdd35f54413727899ec7c93d39f2959
+turn 136 200
+end
+hash-quick 7676892d4962b91ec7dda5533d83e021
+turn 137 200
+end
+hash-quick 57ba3a55d5f7e9a192043fd1625c6277
+turn 138 200
+end
+hash-quick b5b1b5b2d1ec807f1ab067c2be22315e
+turn 139 200
+cmd 1 {"type":"train","entities":[150],"template":"units/cart/support_female_citizen","count":2}
+end
+hash 3eb1628463a3b441bb81678532d30bcf
+turn 140 200
+end
+hash-quick bef95fcd84f3accd2b49322e8f837f0c
+turn 141 200
+end
+hash-quick ca4e0856be0862cad2286988cad00b81
+turn 142 200
+cmd 3 {"type":"repair","entities":[195,197,198,199,200,201,202],"target":8592,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 27bf5de83c17eccfd9af59da219c3ff9
+turn 143 200
+end
+hash-quick 9353647126def15897e584164c69045c
+turn 144 200
+cmd 3 {"type":"returnresource","entities":[199,200,201,202],"target":194,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 16481caf43d7515c1ae6bbdff528e791
+turn 145 200
+end
+hash-quick cea403081c489a125739043f35027c87
+turn 146 200
+end
+hash-quick c8f6dcc6e29494b21af03c2f6019f546
+turn 147 200
+end
+hash-quick 03a65796c02975e0c81c3c1cbacf643f
+turn 148 200
+end
+hash-quick 7017d8c09966467eb106714dada25a27
+turn 149 200
+cmd 3 {"type":"gather","entities":[199,200,201,202],"target":205,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 9994bb6c0cf948fbee5b7e32f130f73a
+turn 150 200
+end
+hash-quick 2167b235edc1ff7985939322ab035c3c
+turn 151 200
+end
+hash-quick bf8959acc3cabf0ba9119d172ce1ed5b
+turn 152 200
+end
+hash-quick f9765a1af06ba5f43c2c1a71edf074e4
+turn 153 200
+end
+hash-quick f41caafd2cc58fe88556b266ac8110ae
+turn 154 200
+end
+hash-quick 059606d7ed3f503998bc69089703de34
+turn 155 200
+end
+hash-quick d05260755ed1feb987235d2f28f61cae
+turn 156 200
+end
+hash-quick 1abd49fbebe3ba2fceae8ee3d2089716
+turn 157 200
+end
+hash-quick 1888137273d4ad0712c925352321c262
+turn 158 200
+end
+hash-quick c08220f58adfdf4a5d50d72adc19372c
+turn 159 200
+end
+hash 8516124ed5bfcf2007164e9448c5cbe3
+turn 160 200
+end
+hash-quick ba7ecc4a0fe58fcb862449101f61ae24
+turn 161 200
+cmd 2 {"type":"research","entity":8605,"template":"gather_farming_plows"}
+end
+hash-quick ab2ba98827310e87ece8763688a53e02
+turn 162 200
+cmd 2 {"type":"research","entity":8605,"template":"gather_wicker_baskets"}
+end
+hash-quick 316681628a5c9c9a70c1a5c27cd8252e
+turn 163 200
+end
+hash-quick 05e7646762dbfff10759b134c83a99f6
+turn 164 200
+end
+hash-quick 5d37ab2fc2e6e151332f9843aa182e12
+turn 165 200
+end
+hash-quick 96d3fac3e91072c1569333d5b6f9e300
+turn 166 200
+end
+hash-quick 259911d8a9b68042ba45e0426c98acec
+turn 167 200
+end
+hash-quick 9bc55ca6453d443ca1db5224d63615b5
+turn 168 200
+end
+hash-quick 5ca6317879f757fced3ad2efb9851bdd
+turn 169 200
+end
+hash-quick 34dd6751f7c9c9fdd366ed4b5390be4a
+turn 170 200
+end
+hash-quick 670bb23e06526cc82212a62ba4e4313f
+turn 171 200
+end
+hash-quick 0d4b2da84730183b77cb26993bddbb3d
+turn 172 200
+end
+hash-quick 9693e9191ad7cb8383505ca97192b38e
+turn 173 200
+end
+hash-quick 08e801aee16fe56a0d3489635e931734
+turn 174 200
+end
+hash-quick 3e11cad423e8ed4965815370aa0ddd6e
+turn 175 200
+end
+hash-quick c5cfad12ccaed5ea506a26df543a8b01
+turn 176 200
+end
+hash-quick daed5b00425f5fb6d18a33783b4a1d45
+turn 177 200
+end
+hash-quick 99bc10ad7ed46448fed0574c85c8b172
+turn 178 200
+end
+hash-quick e14f985b7a136252f7fe97ae0fc41a10
+turn 179 200
+end
+hash 086089343a12d4356320d1e9dc86e34d
+turn 180 200
+end
+hash-quick e07612b4dec6d67d78dcc316fbce909e
+turn 181 200
+end
+hash-quick d61225afb914980130cdcf4976b485b4
+turn 182 200
+end
+hash-quick db8afe7b3838acc7e9b66579727456a8
+turn 183 200
+end
+hash-quick c223f463f4cff8409df71b03cc63ce69
+turn 184 200
+end
+hash-quick 6e1aae82da580ce4cf7d6908438a6b40
+turn 185 200
+end
+hash-quick fff7e21acdfdc6cc2841ae83c081bb5c
+turn 186 200
+end
+hash-quick dc693342f85d300087e27ea73e0ac2c8
+turn 187 200
+end
+hash-quick cbb56f5cdba7928d57036a1a36847395
+turn 188 200
+end
+hash-quick 120ce22f09fc1b4c609b989aed0eb703
+turn 189 200
+cmd 3 {"type":"train","entities":[194],"template":"units/ptol/support_female_citizen","count":2}
+end
+hash-quick 73ec74c9d3a47d8ba5f54bde860d9447
+turn 190 200
+end
+hash-quick e5d1c14289cc5aee49d1d6f380b1f17d
+turn 191 200
+end
+hash-quick 2897e83dec86a58c98cc259d1e98d3bb

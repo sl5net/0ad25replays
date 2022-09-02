@@ -1,0 +1,106 @@
+start {"settings":{"Biome":"generic/autumn","CheatsEnabled":false,"CircularMap":true,"DisableSpies":false,"DisableTreasures":false,"LastManStanding":false,"LockTeams":true,"RevealMap":false,"ExploreMap":false,"Name":"Corinthian Isthmus","Size":384,"Nomad":false,"PlayerData":[{"AI":false,"Civ":"iber","Color":{"r":86,"g":180,"b":31},"Name":"bigusdickus69","Team":0},{"AI":false,"Civ":"pers","Color":{"r":150,"g":20,"b":20},"Name":"Baron_K_Roolenstein","Team":0},{"AI":false,"Civ":"spart","Color":{"r":160,"g":80,"b":200},"Name":"Henamarn","Team":0},{"AI":false,"Civ":"brit","Color":{"r":21,"g":55,"b":149},"Name":"nisefuchi (1453)","Team":1},{"AI":false,"Civ":"iber","Color":{"r":231,"g":200,"b":5},"Name":"Trashy (1571)","Team":1},{"AI":false,"Civ":"ptol","Color":{"r":50,"g":170,"b":170},"Name":"seeh (898)","Team":1}],"PopulationCap":200,"RegicideGarrison":false,"Seed":495905852,"AISeed":2288044696,"StartingResources":300,"TriggerScripts":["scripts/TriggerHelper.js","scripts/ConquestCommon.js","scripts/Conquest.js"],"VictoryConditions":["conquest"]},"gameSpeed":1,"map":"maps/random/corinthian_isthmus","mapType":"random","script":"corinthian_isthmus.js","mapPreview":"cropped:0.78125,0.5859375:session/icons/mappreview/corinthian_isthmus.png","matchID":"C26ED4B818342F6D","timestamp":1629803946,"engine_version":"0.0.25","mods":[{"mod":"public","name":"0ad","version":"0.0.25","ignoreInCompatibilityChecks":false},{"mod":"autociv25","name":"autociv","version":"25.0.0","ignoreInCompatibilityChecks":true}]}
+turn 0 200
+end
+hash 58951304da7fc9180c9f4b62a84227dd
+turn 1 200
+end
+hash-quick a5121f20116983201e32fa0aaa04b409
+turn 2 200
+end
+hash-quick a5121f20116983201e32fa0aaa04b409
+turn 3 200
+end
+hash-quick a5121f20116983201e32fa0aaa04b409
+turn 4 200
+end
+hash-quick a5121f20116983201e32fa0aaa04b409
+turn 5 200
+end
+hash-quick a5121f20116983201e32fa0aaa04b409
+turn 6 200
+end
+hash-quick a5121f20116983201e32fa0aaa04b409
+turn 7 200
+cmd 6 {"type":"map-flare","target":{"x":964.607177734375,"y":23,"z":360.0108642578125}}
+end
+hash-quick a5121f20116983201e32fa0aaa04b409
+turn 8 200
+end
+hash-quick a5121f20116983201e32fa0aaa04b409
+turn 9 200
+cmd 3 {"type":"gather","entities":[151,152,153,154],"target":165,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick c1cefe89a07bbc0226e021424889f4cc
+turn 10 200
+end
+hash-quick c34f1e16201d80352e48cb58571b3a74
+turn 11 200
+end
+hash-quick b5d015681d0e1799f98ca1cac04cddb5
+turn 12 200
+end
+hash-quick 7f16bb1c2b8282c3ed923ee543e069af
+turn 13 200
+cmd 2 {"type":"walk","entities":[241,242,243,244],"x":622.0415649414062,"z":1210.291259765625,"queued":false,"pushFront":false,"formation":"special/formations/line_open"}
+cmd 2 {"type":"gather","entities":[241,242,243,244],"target":256,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 2b12c76dc77c5923e19f165b74b62466
+turn 14 200
+cmd 2 {"type":"gather","entities":[241,242,243,244],"target":256,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 1f9b25a226f241158f2c959ce65f45d4
+turn 15 200
+end
+hash-quick f2a7408d506407707515762c5b26558c
+turn 16 200
+cmd 4 {"type":"train","entities":[380],"template":"units/brit/support_female_citizen","count":6}
+cmd 6 {"type":"garrison","entities":[284,285,286,287],"target":283,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 6 {"type":"autoqueue-on","entities":[283]}
+cmd 6 {"type":"train","entities":[283],"template":"units/ptol/support_female_citizen","count":6}
+cmd 6 {"type":"set-rallypoint","entities":[283],"x":981.7967529296875,"z":393.07733154296875,"data":{"command":"gather","resourceType":{"generic":"food","specific":"fruit"},"resourceTemplate":"gaia/fruit/berry_01","target":298},"queued":false}
+cmd 6 {"type":"leave-turret","entities":[]}
+cmd 6 {"type":"unload-all","garrisonHolders":[283]}
+cmd 6 {"type":"autoqueue-on","entities":[283]}
+cmd 6 {"type":"train","entities":[283],"template":"units/ptol/support_female_citizen","count":6}
+cmd 6 {"type":"leave-turret","entities":[]}
+cmd 6 {"type":"unload-all","garrisonHolders":[283]}
+cmd 6 {"type":"set-rallypoint","entities":[283],"x":981.7967529296875,"z":393.07733154296875,"data":{"command":"gather","resourceType":{"generic":"food","specific":"fruit"},"resourceTemplate":"gaia/fruit/berry_01","target":298},"queued":false}
+cmd 6 {"type":"set-rallypoint","entities":[283],"x":981.7967529296875,"z":393.07733154296875,"data":{"command":"gather","resourceType":{"generic":"food","specific":"fruit"},"resourceTemplate":"gaia/fruit/berry_01","target":298},"queued":false}
+cmd 6 {"type":"leave-turret","entities":[]}
+cmd 6 {"type":"unload-all","garrisonHolders":[283]}
+cmd 6 {"type":"leave-turret","entities":[]}
+cmd 6 {"type":"unload-all","garrisonHolders":[283]}
+cmd 6 {"type":"garrison","entities":[284,285,286,287],"target":283,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 6 {"type":"gather","entities":[284,285,286,287],"target":298,"queued":true,"pushFront":false,"formation":"special/formations/null"}
+cmd 6 {"type":"set-rallypoint","entities":[283],"x":981.7967529296875,"z":393.07733154296875,"data":{"command":"gather","resourceType":{"generic":"food","specific":"fruit"},"resourceTemplate":"gaia/fruit/berry_01","target":298},"queued":false}
+cmd 6 {"type":"leave-turret","entities":[]}
+cmd 6 {"type":"unload-all","garrisonHolders":[283]}
+cmd 6 {"type":"walk","entities":[284,285,286],"x":918.8458862304688,"z":354.95111083984375,"queued":false,"pushFront":false}
+cmd 6 {"type":"resign"}
+end
+hash-quick 80ae1abfcd27cfbefb6b9b0fb72cae46
+turn 17 200
+end
+hash-quick 3d0d0050c5b58fecafe4731581735a8b
+turn 18 200
+end
+hash-quick 5346a44e2004466ca64583e6da2a764c
+turn 19 200
+end
+hash e911ac01271992f4b840d6d3b8c86ffa
+turn 20 200
+end
+hash-quick 4764c5f845eeffb263ce27662570b0a6
+turn 21 200
+end
+hash-quick 8ccf72bb30644938ea22732abe6c9a9d
+turn 22 200
+end
+hash-quick d23e93b12b4e3d27cdf6891eb506c715
+turn 23 200
+end
+hash-quick 7f93cbcec517aef5eab296ce32551c90
+turn 24 200
+cmd 3 {"type":"gather","entities":[155,156,157,158],"target":161,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick fba3013ea1ae48fc53dad4784f65482b

@@ -1,0 +1,269 @@
+start {"settings":{"Biome":"generic/alpine","CheatsEnabled":false,"CircularMap":true,"DisableSpies":false,"DisableTreasures":false,"LastManStanding":false,"LockTeams":true,"RevealMap":false,"ExploreMap":false,"Name":"Mainland","Size":384,"Nomad":false,"PlayerData":[{"AI":false,"Civ":"gaul","Color":{"r":21,"g":55,"b":149},"Name":"kun0 (1368)","Team":0},{"AI":false,"Civ":"gaul","Color":{"r":150,"g":20,"b":20},"Name":"___ (973)","Team":0},{"AI":false,"Civ":"mace","Color":{"r":50,"g":170,"b":170},"Name":"mean_mister_mustard","Team":0},{"AI":false,"Civ":"rome","Color":{"r":86,"g":180,"b":31},"Name":"Christoffel_Symbol ( 1396 )","Team":0},{"AI":false,"Civ":"mace","Color":{"r":160,"g":80,"b":200},"Name":"ptd110 (1343)","Team":1},{"AI":false,"Civ":"iber","Color":{"r":64,"g":64,"b":64},"Name":"pletoricus","Team":1},{"AI":false,"Civ":"rome","Color":{"r":220,"g":115,"b":16},"Name":"flexible","Team":1},{"AI":false,"Civ":"gaul","Color":{"r":231,"g":200,"b":5},"Name":"buildor","Team":1}],"PopulationCap":200,"RegicideGarrison":false,"Seed":1580875262,"AISeed":947169726,"StartingResources":300,"TriggerScripts":["scripts/TriggerHelper.js","scripts/ConquestCommon.js","scripts/Conquest.js"],"VictoryConditions":["conquest"]},"gameSpeed":1,"map":"maps/random/mainland","mapType":"random","script":"mainland.js","mapPreview":"cropped:0.78125,0.5859375:session/icons/mappreview/mainland.png","matchID":"60692F120AAAF125","timestamp":1630749554,"engine_version":"0.0.25","mods":[{"mod":"public","name":"0ad","version":"0.0.25","ignoreInCompatibilityChecks":false},{"mod":"autociv-2021-0824","name":"autociv","version":"25.1.0","ignoreInCompatibilityChecks":true},{"mod":"feldmap","name":"feldmap","version":"0.1.0","ignoreInCompatibilityChecks":true},{"mod":"boongui_1.6.2","name":"boongui","version":"1.6.2","ignoreInCompatibilityChecks":true},{"mod":"customrating0.25.2","name":"customrating","version":"0.25.2","ignoreInCompatibilityChecks":true}]}
+turn 0 200
+end
+hash 9456241b2d6c21d5316058dbacefc17d
+turn 1 200
+end
+hash-quick 978fffd0c52b527223127b8be7774c95
+turn 2 200
+end
+hash-quick 978fffd0c52b527223127b8be7774c95
+turn 3 200
+end
+hash-quick 978fffd0c52b527223127b8be7774c95
+turn 4 200
+end
+hash-quick 978fffd0c52b527223127b8be7774c95
+turn 5 200
+cmd 5 {"type":"map-flare","target":{"z":359.89129638671875,"x":1129.8912353515625}}
+end
+hash-quick 978fffd0c52b527223127b8be7774c95
+turn 6 200
+end
+hash-quick 978fffd0c52b527223127b8be7774c95
+turn 7 200
+end
+hash-quick 978fffd0c52b527223127b8be7774c95
+turn 8 200
+cmd 1 {"type":"train","entities":[150],"template":"units/gaul/support_female_citizen","count":3}
+cmd 7 {"type":"gather","entities":[397,398,399,400],"target":417,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick c5703a366867645ebedf95266263b3b6
+turn 9 200
+cmd 4 {"type":"garrison","entities":[239,240,241,242,243,244,245,246,247],"target":238,"queued":false,"pushFront":false}
+cmd 8 {"type":"gather","entities":[444,445,446,447],"target":460,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 900cbc6d6603a37d7bc82e31e4c296ef
+turn 10 200
+cmd 5 {"type":"train","entities":[489],"template":"units/mace/support_female_citizen","count":6}
+end
+hash-quick 48b32adab30b5afa562299d978b11762
+turn 11 200
+end
+hash-quick 0e9c8419b86906c24e6ed69c77d42079
+turn 12 200
+end
+hash-quick 5a5a895dd75e4a2f8b4ab8698c37a400
+turn 13 200
+end
+hash-quick c6fb5aed3031459706fc009de3c44431
+turn 14 200
+cmd 4 {"type":"train","entities":[238],"template":"units/rome/support_female_citizen","count":6}
+cmd 8 {"type":"train","entities":[443],"template":"units/gaul/support_female_citizen","count":4}
+end
+hash-quick 26c509146a98b1ec91be88194af7e582
+turn 15 200
+cmd 1 {"type":"gather","entities":[151,152,153,154],"target":171,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 5 {"type":"gather","entities":[490,491,492,493],"target":507,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 8fe18054d44cebde471cc5d1963e5b52
+turn 16 200
+end
+hash-quick 25725efef84507f6501d046610632dd8
+turn 17 200
+cmd 2 {"type":"map-flare","target":{"x":392.8397521972656,"y":23,"z":1147.4244384765625}}
+end
+hash-quick ff0674a5a5ac6c710ec598fe5645ccd9
+turn 18 200
+cmd 4 {"type":"set-rallypoint","entities":[238],"x":819.8217163085938,"z":1273.4364624023438,"data":{"command":"gather","resourceType":{"generic":"food","specific":"fruit"},"resourceTemplate":"gaia/fruit/berry_01","target":258},"queued":false}
+end
+hash-quick 29623013fd2061ff5f4c76f5b4b9fb4a
+turn 19 200
+end
+hash fbe52294b4cc145025b57fb631735186
+turn 20 200
+cmd 8 {"type":"gather","entities":[448,449,450,451],"target":455,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick e788135c1e18951513eaf3e2aa3986fe
+turn 21 200
+cmd 4 {"type":"unload-template","all":true,"template":"template_unit_support_female_citizen","owner":4,"garrisonHolders":[238]}
+end
+hash-quick eb0ca2b90b0a739c8023d358bac91180
+turn 22 200
+end
+hash-quick 39e38889deab8a5a7acf5cbdc2d9d251
+turn 23 200
+cmd 5 {"type":"gather","entities":[494,495,496,497],"target":7523,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 7 {"type":"train","entities":[396],"template":"units/rome/support_female_citizen","count":6}
+end
+hash-quick ae84751e2f632047a11add0f330716cb
+turn 24 200
+end
+hash-quick f69c88558d9996f7694012efad1b458e
+turn 25 200
+cmd 4 {"type":"set-rallypoint","entities":[238],"x":787.8345947265625,"z":1261.9396362304688,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/pine","target":249},"queued":false}
+end
+hash-quick d91cbc6351981cd973b5ac4921afe3c5
+turn 26 200
+end
+hash-quick d6204b23dc0b07ac93c5fceab7654e3b
+turn 27 200
+cmd 5 {"type":"gather","entities":[498],"target":518,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 4 {"type":"unload-template","all":true,"template":"units/rome/infantry_swordsman_b","owner":4,"garrisonHolders":[238]}
+cmd 4 {"type":"unload-template","all":true,"template":"units/rome/infantry_javelineer_b","owner":4,"garrisonHolders":[238]}
+end
+hash-quick 5b7a9f235b49343b644b418958f3fecb
+turn 28 200
+end
+hash-quick b1a8652fae0d7e2af34e44635eb3fce1
+turn 29 200
+end
+hash-quick 4fa2a25cda6bda8d9cae632ccabfedc8
+turn 30 200
+end
+hash-quick f178c185a1708f5d978d73920cb477fb
+turn 31 200
+end
+hash-quick f95861be6c7079b5dfb321ce59fc2e5c
+turn 32 200
+end
+hash-quick 16e6dadff641cf8d5bf7dad7eaf91239
+turn 33 200
+cmd 8 {"type":"walk","entities":[448,449,450,451],"x":649.4100952148438,"z":278.421875,"queued":false,"pushFront":false,"formation":"special/formations/line_open"}
+end
+hash-quick 892b40c65cf42d23d90ae5542ef7cf31
+turn 34 200
+cmd 6 {"type":"gather","entities":[327,328,329,330],"target":371,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 8 {"type":"walk","entities":[448,449,450,451],"x":641.978515625,"z":280.83306884765625,"queued":false,"pushFront":false,"formation":"special/formations/line_open"}
+end
+hash-quick 16faee8ed55c8ac4b77070d36e61d6fb
+turn 35 200
+cmd 4 {"type":"set-rallypoint","entities":[238],"x":831.5970458984375,"z":1330.9661254882812,"data":{"command":"gather-near-position","resourceType":{"generic":"food","specific":"meat"},"resourceTemplate":"gaia/fauna_chicken"},"queued":false}
+end
+hash-quick f2deaac00030268443223a66e944e6c9
+turn 36 200
+cmd 7 {"type":"gather","entities":[405],"target":424,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 05cd36de5a5d4898a0ec425b1e17ff8b
+turn 37 200
+cmd 5 {"type":"construct","template":"structures/mace/farmstead","x":1066.72900390625,"z":362.0837097167969,"angle":2.356194490192345,"actorSeed":14381,"entities":[490,491,492,493],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick ca8c883d339f23946f2b8f104c5a260a
+turn 38 200
+end
+hash-quick 8d0cabc16c0fa814a95f8fa94bda140b
+turn 39 200
+cmd 4 {"type":"unload-template","all":true,"template":"units/rome/cavalry_spearman_b","owner":4,"garrisonHolders":[238]}
+end
+hash 10e63170872bc0d0551a52aa86ace7e0
+turn 40 200
+end
+hash-quick 41827e598866efcf676da453aca681e3
+turn 41 200
+end
+hash-quick e8e1b5302a8d9a1fed3eb69d9b464723
+turn 42 200
+end
+hash-quick 1c7206d79ef793c1977839810ee1bf4f
+turn 43 200
+cmd 1 {"type":"gather","entities":[155,156,157,158],"target":3716,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 8 {"type":"construct","template":"structures/gaul/storehouse","x":639.0047607421875,"z":281.65093994140625,"angle":2.356194490192345,"actorSeed":39778,"entities":[448,449,450,451],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 4fb129c1156f777931bcea3327ad23f8
+turn 44 200
+end
+hash-quick 73449c19a020e77284d23c1dc8621205
+turn 45 200
+end
+hash-quick e36dc3435a92dbc40cbb830dd8cac560
+turn 46 200
+cmd 7 {"type":"gather","entities":[401,402],"target":407,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+cmd 2 {"type":"construct","template":"structures/gaul/farmstead","x":427.34942626953125,"z":1240.188232421875,"angle":2.356194490192345,"actorSeed":52105,"entities":[284,285,286,287],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick cf154ea2c7b0ea1bbabc6e32f73138fe
+turn 47 200
+cmd 8 {"type":"gather","entities":[452],"target":472,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick f1cebbfadbc6c781ec56357f483f1e73
+turn 48 200
+end
+hash-quick 8024004772681945dc2acf43f607c6dd
+turn 49 200
+end
+hash-quick 8c92c4252f064f9014464f915ce42ffd
+turn 50 200
+end
+hash-quick b871f13869fb0d2e0db742e6d08b3666
+turn 51 200
+end
+hash-quick 243b7819900233603b5c556958e32ff0
+turn 52 200
+end
+hash-quick d1a9a9a4b4ca464e40c4c8d80458bb5d
+turn 53 200
+end
+hash-quick 55f874b59fedad06fcf0caaaad01dad4
+turn 54 200
+end
+hash-quick bcd08b292db935bba44c024258058e8c
+turn 55 200
+end
+hash-quick a2a187b0a3270cc44b44cee3b170c77b
+turn 56 200
+cmd 2 {"type":"gather","entities":[288,289,290,291],"target":296,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 21b4c38c866c8ab1e4c17d6996f3a369
+turn 57 200
+end
+hash-quick 36a4aeb0c59ba553542d68cf2132a8cf
+turn 58 200
+end
+hash-quick d735e73b89ed5c4d050166a0a8b52d18
+turn 59 200
+end
+hash 28ff32f3d29bb2ad606abc0e366022fe
+turn 60 200
+end
+hash-quick 20141f01f8a934bd3684961945c13375
+turn 61 200
+end
+hash-quick 87f5c1d890fbab9b6c9c5a9a0b2e5386
+turn 62 200
+end
+hash-quick bec874102c6fd4cdaa10f1655ae261e6
+turn 63 200
+end
+hash-quick b5b672f1d5ea270eafed163946912e00
+turn 64 200
+end
+hash-quick 9319a697b244762ca3dd8b862a3233e9
+turn 65 200
+end
+hash-quick c41dd57556de36f9073b78637ddfb342
+turn 66 200
+cmd 1 {"type":"construct","template":"structures/gaul/storehouse","x":1307.56787109375,"z":631.7890014648438,"angle":2.356194490192345,"actorSeed":9855,"entities":[155,156,157,158],"autorepair":true,"autocontinue":true,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 01b3eb229d6d3c0b7085a9dd5ff0dad4
+turn 67 200
+end
+hash-quick 88fca92b6862e7b8e45c93d9ebf1cad3
+turn 68 200
+end
+hash-quick ef1b064b4e2e7b494fb6982c6818dba9
+turn 69 200
+end
+hash-quick 2f2ba939b5b09b7c84c75a4702ae9ac1
+turn 70 200
+end
+hash-quick 89d78c7ecee7683f1eb2b2e8a70dd763
+turn 71 200
+end
+hash-quick bf4d4074482062c2659b300de35e68e5
+turn 72 200
+cmd 7 {"type":"gather","entities":[403,404],"target":407,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 83635343cdf725c6248cf21f9658c3e2
+turn 73 200
+end
+hash-quick 8077cb571b0960ab33791e50b98b838c
+turn 74 200
+end
+hash-quick b8a525b53b7a8dcf058294bb8d4a00ce
+turn 75 200
+end
+hash-quick 87f23a255cf16a0492518aa852cb74c8
+turn 76 200
+cmd 1 {"type":"set-rallypoint","entities":[150],"x":1314,"z":626,"data":{"command":"gather","resourceType":{"generic":"wood","specific":"tree"},"resourceTemplate":"gaia/tree/fir_sapling","target":3701},"queued":false}
+cmd 2 {"type":"gather","entities":[292],"target":306,"queued":false,"pushFront":false,"formation":"special/formations/null"}
+end
+hash-quick 420915cfb570f48b8a9ce07f2b11b4cf
